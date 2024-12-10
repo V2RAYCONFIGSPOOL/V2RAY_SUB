@@ -1,4 +1,3 @@
-vless://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.196.204:80?security=none&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.net&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.74.178:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.63.77:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://460cbc68-b655-4fb3-df58-9e64a82e325f@104.17.148.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -13,8 +12,9 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.74.178:443#👉🆔 @v2ray_configs_
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.63.77:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://460cbc68-b655-4fb3-df58-9e64a82e325f@104.17.148.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.28.215:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiYmV5b25kZGJjLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICJiZXlvbmRkYmMuc2JzIiwgImlkIjogIjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9
 vless://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.196.204:80?security=none&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.net&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.74.178:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.63.77:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://460cbc68-b655-4fb3-df58-9e64a82e325f@104.17.148.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.28.215:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://429b2da1-0510-4683-8962-3b719b8464bf@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiYmV5b25kZGJjLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICJiZXlvbmRkYmMuc2JzIiwgImlkIjogIjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9
+vless://e49ce5e6-b80d-4c9e-82a8-0f14c8887a3b@141.101.90.97:443?security=tls&sni=falcunargo.e0aef55581.workers.Dev&type=ws&host=falcunargo.e0aef55581.workers.Dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&host=www.meloammn.ir&path=/melo/ws?e#👉🆔 @v2ray_configs_pool📡🇺🇸United States
