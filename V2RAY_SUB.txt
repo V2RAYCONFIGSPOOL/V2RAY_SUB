@@ -1,20 +1,20 @@
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@67.220.95.102:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@38.86.135.211:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.144:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@67.220.95.102:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a5bf7a44-c684-42a5-ba3a-9691735813d5@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://76042bdb-886d-4ef2-b069-fa514e2629cf@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9a028e7b-d11d-4f20-a8ec-fcde8a8e6c38@37.32.30.112:2020?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-trojan://telegram-id-directvpn@52.7.101.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@13.51.15.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@16.170.122.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@3.123.52.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://Parsashonam-127@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://Parsashonam-127@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.5:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://eaf88dce-387b-4ced-b859-1a76040b8fea@54.74.184.254:1101/?type=grpc&encryption=none&serviceName=%40SegTeleGRAM#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://8ed857e2-5a83-46c5-b649-df57bb1f6ffc@66.81.247.239:8080?encryption=none&security=none&type=ws&host=bia.vmessorg.community&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@63.177.40.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@13.37.18.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@3.9.161.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@3.11.71.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@63.34.113.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@54.75.112.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://eaf88dce-387b-4ced-b859-1a76040b8fea@54.74.184.254:1101/?type=grpc&encryption=none&serviceName=%40SegTeleGRAM#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://eaf88dce-387b-4ced-b859-1a76040b8fea@54.74.184.254:1101/?type=grpc&encryption=none&serviceName=%40SegTeleGRAM#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://c901b490-f3bb-489f-8281-51aeb32cd27f@connectcarolina.sites.unc.edu:443/?type=ws&encryption=none&host=main.downloadgame.icu&path=%2Fwss%3Fed%3D2048&security=tls&sni=connectcarolina.sites.unc.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://3648425794742788096@13.213.225.221:443/?type=tcp&security=tls&sni=careful-giraffe.toad643.autos#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://3648425794742788096@35.73.82.37:443/?type=tcp&security=tls&sni=secure-humpback.toad643.autos#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://3648425794742788096@54.168.4.240:443/?type=tcp&security=tls&sni=immortal-vulture.toad643.autos#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443/?type=ws&encryption=none&host=vbbc.ylks2024.us.kg&path=%2Fyoulingkaishi&security=tls&sni=vbbc.ylks2024.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b094b547-eee5-4dfe-9351-2fd0efa3f4b7@vmessorg.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c901b490-f3bb-489f-8281-51aeb32cd27f@connectcarolina.sites.unc.edu:443/?type=ws&encryption=none&host=main.downloadgame.icu&path=%2Fwss%3Fed%3D2048&security=tls&sni=connectcarolina.sites.unc.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5e32df7f-dbf7-5bb8-8a37-c189e11365e6@151.101.3.8:80/?type=ws&encryption=none&host=www.x-ui.com&path=%2Fvless%3Fed%3D1048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
