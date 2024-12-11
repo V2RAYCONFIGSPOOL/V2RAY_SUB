@@ -1,20 +1,20 @@
-vless://f6f183ff-6bdf-4596-88d3-165feab4417f@116.203.201.23:9595?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.11.229.209:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://TLS-V2RAY@abc4.iphone-shopp.ir:150?security=none&encryption=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5b2d962a-a962-4996-a002-d30b0f4d60d1@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TLS-V2RAY@abc4.iphone-shopp.ir:150?security=none&encryption=none&type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://b9e935e3-6e39-41da-bf8e-2631e0c3f579@spd.fastly80-3.hosting-ip.com:80?path=%2FSPdnet%3Fed%3D2048&security=none&encryption=none&host=vamp.spdteam.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM@www.speedtest.net:8080?path=%2FSVNTEAM%3Fed%3D2560&security=none&encryption=none&host=svnteam-cnl.svnteamfree.com%3Asvnteam.join.channel.vip.v2Ray.wWw.SpeedTest.Net.CloudFlare.cOm.Hide.My.IP.Domin.666.Private.One.SportXnews.Host.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-126@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgradeParsashonam 🇩🇪#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig20.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://Parsashonam-126@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.Parsashonam 🇩🇪#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560&security=none&encryption=none&host=IRANINGOAT2.IR&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://SVNTEAM@www.speedtest.net:8080?path=%2FSVNTEAM%3Fed%3D2560&security=none&encryption=none&host=svnteam-cnl.svnteamfree.com%3Asvnteam.join.channel.vip.v2Ray.wWw.SpeedTest.Net.CloudFlare.cOm.Hide.My.IP.Domin.666.Private.One.SportXnews.Host.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-126@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgradeParsashonam 🇩🇪#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://Parsashonam-126@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.Parsashonam 🇩🇪#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560&security=none&encryption=none&host=IRANINGOAT2.IR&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
