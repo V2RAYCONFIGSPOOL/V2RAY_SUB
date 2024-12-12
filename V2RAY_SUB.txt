@@ -1,10 +1,10 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=weed.servernet.fun.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=weed.servernet.fun.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://d5285e2d-f110-4bd9-a15a-36febf08428d@212.192.13.51:8307?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://d5285e2d-f110-4bd9-a15a-36febf08428d@212.192.13.51:8307?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇳China
 trojan://O7Iz39gyjV@x1uk-amazon.devefun.net:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1uk-amazon.devefun.net#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://O7Iz39gyjV@x1uk-amazon.devefun.net:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1uk-amazon.devefun.net#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://96bb4985-ef9a-45dd-9127-386516c64169@151.101.66.228:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeWz.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=weed.servernet.fun.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://tell--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=ghatreh.com&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://003d4273-6ee9-4364-b4f1-e0eb73c73a3a@SR.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=1-Boomba2boomba.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
