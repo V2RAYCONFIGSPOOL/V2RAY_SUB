@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@92.118.205.85:20022#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVmR2eXR0TDROWUw5dkNIV1hCdWJu@51.13.112.240:48921#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0szYm1rS2gycmRLOWs2RVhTT1F2@46.29.238.83:44908#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiTE40M2ZiaEgwRGh4OHBYY013WGxvTjVXbFhuMDlCUnpJWmpNbDB2dDBTYUxQaUlDNDNYcThsWGdDY2dBTk9Z@45.67.231.156:17233#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://6a22bd4b-9eb5-41ef-d953-5e25fb20c55c@germany.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@185.24.151.214:52952#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3TkR5SVV1RVdvUU11MHlQQklYUXZW@35.93.133.128:56860#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a5b1fa7c-3a28-4e23-8b13-cc1c98c8f151@151.101.66.133:80?path=%2F&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g1h.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
