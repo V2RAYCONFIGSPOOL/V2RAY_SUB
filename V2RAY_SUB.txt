@@ -1,10 +1,10 @@
-vless://c9883029-6df3-4998-841a-7b51339e4b4e@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://86e90833-7f6c-48b5-b273-9b4a55568e4e@theguardian.com:80/?type=ws&path=%2Fnews&host=isna.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@speedtest.net:80?encryption=none&security=none&type=ws&host=olemam.com&path=%2Folem%2Fws%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@158.51.123.253:5003#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e9f6766e-b137-5a7d-97d7-373ef67e46b2@199.232.125.50:443?allowInsecure=1&security=tls&host=ELI-V2-RAY.COM&fp=qq&type=ws&sni=ELI-V2-RAY.COM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1095c290-04dd-404d-8bfd-b565e0a9eca3@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1095c290-04dd-404d-8bfd-b565e0a9eca3@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.100.199:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@69.50.95.218:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://16f76e48-b7ca-4540-a3b1-3a7c5eea2468@bg.com:80?path=%2F%3Fed%3D2056&security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g2h.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUWowU2lBckt1QmlJemNyUEN2cjVq@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
