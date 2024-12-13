@@ -1,10 +1,10 @@
 trojan://telegram-id-directvpn@13.36.108.249:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@3.146.129.56:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@3.79.170.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://blue2024@154.206.12.164:443?sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@104.129.164.93:443?sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@13.36.108.249:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.200.164:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://08074685-1f9b-419b-87ea-c2c9d51b9461@209.250.227.192:2048/?encryption=none&host=saveeditonline.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNFlvR0FqVFBCVko2UnYydlNLMW1r@3.27.194.148:443#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+vless://87df614d-ade5-4fef-90f9-5e7edcaf56f5@visa.org:2052/?type=ws&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.developer.DNS-dynamic.net&path=%2F%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiY2FsaWJyLmFsaXR2LnNicyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjbG91ZDQuYWxpdHYuc2JzIiwgImlkIjogImUwZTA4NWI5LWJkNWMtNDVlNy05ZjUwLTgxYmIzYTNiMWE2ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2FsaWJyLmFsaXR2LnNicy9jbG91ZDQuYWxpdHYuc2JzP2VkPTIwOTYiLCAicG9ydCI6ICIyMDk2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJjbG91ZDQuYWxpdHYuc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
+vless://db2fe922-0912-432d-9278-3080ef35021a@demos.siasepid.com:8880/?encryption=none&host=eN.TwiTtER.cOM.%3A8880&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@speedtest.net:80/?type=ws&encryption=none&host=olemam.com&path=%2Folem%2Fws%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCV2IzTEdGSU1wR0xFVnZ1ZXJXdjMx@150.241.101.222:25543#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@45.149.12.119:8443/?type=grpc&encryption=none&serviceName=%40iMrV2ray&security=tls&sni=societshaia7rysv.aminho3ien.ir#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://a3d06067-491c-4955-8dd8-e69b2f56bf1c@150.241.101.222:29742/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE&sid=75813316#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0S2ducGpnVFpMM3p4blp4UnBJQncy@213.108.23.243:15584#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
