@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhYmJjYWMtYWFjYi1jYWJhLWRjYmEtYmFhYmNjYmNhYmNhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQyXHVmZTBmIn0=
-vless://e0448dfd-7bf4-4e1c-a5cc-4d0f8b6c5899@1.gpairnetwork369.ir:420?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://96bb4985-ef9a-45dd-9127-386516c64169@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f34fd091-12f9-444e-81a2-9b45ee14d00f@endev.postsafir.ir:1623?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://SAVTEAM6@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://f29df8c5-4d5a-4f0c-b22f-b8783fba222b@nodeser.sanjesh.online:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZGpUdTlkUkFqRkgzaGQ4V3VKTGFm@51.120.12.152:49023#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green:49089?allowInsecure=1&sni=jp12.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://5e32df7f-dbf7-5bb8-8a37-c189e11365e6@151.101.3.8:80?path=%2Fvless%3Fed%3D1048&security=none&encryption=none&host=www.x-ui.com&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@51.24.53.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443?type=ws&host=aaa.zhuk.us.kg&path=/youlingkaishi&security=tls&sni=aaa.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://f29df8c5-4d5a-4f0c-b22f-b8783fba222b@servger.sanjesh.online:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@16.16.35.19:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://e0448dfd-7bf4-4e1c-a5cc-4d0f8b6c5899@1.gpairnetwork369.ir:420?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://f29df8c5-4d5a-4f0c-b22f-b8783fba222b@nodeser.sanjesh.online:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://f29df8c5-4d5a-4f0c-b22f-b8783fba222b@servger.sanjesh.online:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
