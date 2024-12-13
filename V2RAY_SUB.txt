@@ -1,10 +1,10 @@
-vless://8b5f3273-2ae6-43a7-b59a-948e39becefc@servger.sanjesh.online:7642?security=none=/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://874bac05-f530-406f-a57f-a3b329e18917@51.89.229.26:12345?security=reality&encryption=none&pbk=cjHs5dUmE_JJisr3JZKEqVk93HoocY_5Vd3baedRrx4&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=www.stackoverflow.com&sid=b4d2#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=5774.ir&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vless://d74acf2c-2148-4343-891c-627c4b5d690b@ISVvpn.fastly80-2.hosting-ip.com:80?path=%2FVLESS%3Fed%3D80&security=none&encryption=none&host=5774.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://6efab6ef-f2cf-482e-90b0-25aa33013be4@A33.fastly80-2.hosting-ip.com:80?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://ecd4ed1a-ca54-4d84-800c-3d01d80e1625@151.101.2.165:80?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://ecd4ed1a-ca54-4d84-800c-3d01d80e1625@SR.fastly80-3.hosting-ip.com:80?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+vless://d23eb114-7097-4743-aa73-d4ebbee94eed@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
