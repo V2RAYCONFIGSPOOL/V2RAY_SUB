@@ -1,10 +1,10 @@
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@47.88.221.55:6446?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.116:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@51.21.123.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@43.128.26.74:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.116:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bb3eea23-a213-42ed-872e-e28ba7b72b37@151.101.194.133:443?security=tls&allowInsecure=1&host=ELENA.E-L-i-V-2-R-A-Y.IR&fp=qq&type=ws&sni=ELENA.E-L-i-V-2-R-A-Y.IR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.116:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bb3eea23-a213-42ed-872e-e28ba7b72b37@199.232.125.50:443?security=tls&allowInsecure=1&host=ELENA.E-L-i-V-2-R-A-Y.IR&fp=chrome&type=ws&sni=ELENA.E-L-i-V-2-R-A-Y.IR#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.200.160.101:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@185.16.110.30:2052?security=none&type=httpupgrade&host=FTP.tehrANSiman.coM.&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@13.61.63.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@47.88.221.55:6446?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.200.160.101:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@43.128.26.74:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@43.128.26.74:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
