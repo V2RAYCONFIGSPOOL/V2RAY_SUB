@@ -1,10 +1,10 @@
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.234:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=aaa.zhuk.us.kg&type=ws&sni=aaa.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.234:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=aaa.zhuk.us.kg&type=ws&sni=aaa.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://a0909b18-582b-43b6-a194-cf89b94864fd@5.75.203.85:28028?security=reality&encryption=none&pbk=xXwGwJOlSUEvc17KLNCPDF1WtjxiMTUxQb8aaZIuCnI&headerType=http&fp=random&type=tcp&sni=www.speedtest.net&sid=0a896646c2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://a0909b18-582b-43b6-a194-cf89b94864fd@5.75.203.85:28028?security=reality&encryption=none&pbk=xXwGwJOlSUEvc17KLNCPDF1WtjxiMTUxQb8aaZIuCnI&headerType=http&fp=random&type=tcp&sni=www.speedtest.net&sid=0a896646c2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://a0909b18-582b-43b6-a194-cf89b94864fd@5.75.203.85:28028?security=reality&encryption=none&pbk=xXwGwJOlSUEvc17KLNCPDF1WtjxiMTUxQb8aaZIuCnI&headerType=http&fp=random&type=tcp&sni=www.speedtest.net&sid=0a896646c2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://ba8e61f0-095b-4361-9dc2-b5e5390a71c4@5.182.87.141:443?security=reality&encryption=none&alpn=http/1.1&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=05a6d4aa5e314637#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTk0IiwgImFpZCI6IDEsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3VW5pdGVkIEtpbmdkb20ifQ==
-trojan://telegram-id-privatevpns@3.8.26.6:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@3.8.26.6:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://v2rayvpn_______official@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://v2rayvpn_______official@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://v2rayvpn_______official@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://v2rayvpn_______official@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.91.100.211:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
