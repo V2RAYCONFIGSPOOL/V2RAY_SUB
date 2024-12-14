@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk%3D@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk%3D@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://b06868d8-90b5-4d1e-b2c8-e09840bc7f1f@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.158.186:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.133.137:45181?sni=de1.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://40e3825f-0693-481d-adc9-25dea0a562d6@188.245.195.221:1621?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://40e3825f-0693-481d-adc9-25dea0a562d6@188.34.160.30:1624?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://40e3825f-0693-481d-adc9-25dea0a562d6@188.34.160.30:1620?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://40e3825f-0693-481d-adc9-25dea0a562d6@188.34.160.30:1620?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.167.59.36:47249?security=tls&sni=ca1.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.133.137:45181?sni=de1.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
