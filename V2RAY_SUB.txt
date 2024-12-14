@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://86e90833-7f6c-48b5-b273-9b4a55568e4e@151.101.193.111:80?path=%2Fnews&security=none&encryption=none&host=isna.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.210.58:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.5:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://c9883029-6df3-4998-841a-7b51339e4b4e@104.17.147.22:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.69.44:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%40iMrV2ray&sni=societshaia7rysv.aminho3ien.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c55ceb81-ded6-5f51-b960-08223fecb4dd@151.101.193.6:80?path=%2F%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO%3Fed%3D2560&security=none&encryption=none&host=TEHRANARGO.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d23eb114-7097-4743-aa73-d4ebbee94eed@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.210.58:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiNDUuODUuMTE4Ljg3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZhNjNkMGQxLTJkMDAtNGY5My1mN2RhLWE2ZDZjZmFjNWJjMSIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogImVtYWxscy5pciIsICJwb3J0IjogIjg0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImJhcmRpYTIubXJzaG9wLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1VuaXRlZCBLaW5nZG9tIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4anpzaU1mVEJ5S2pBOVVSYmRYV05w@51.120.1.158:32091#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4anpzaU1mVEJ5S2pBOVVSYmRYV05w@51.120.1.158:32091#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://eyJhZGQiOiI0NS44NS4xMTguODciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZhNjNkMGQxLTJkMDAtNGY5My1mN2RhLWE2ZDZjZmFjNWJjMSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiZW1hbGxzLmlyIiwicG9ydCI6Ijg0NDMiLCJwcyI6Itiz2LHZiNixIDIwINqv24zar9uMIEBDaF9WMnJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6ImJhcmRpYTIubXJzaG9wLnNicyIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
