@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vmess://eyJhZGQiOiAiMTQyLjQuMTA0LjMzIiwgInYiOiAiMiIsICJwb3J0IjogNTIxNDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
-vless://2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=sany0116p.ljqza.WorKErs.dEv&fp=qq&type=ws&sni=sany0116p.ljqza.WorKErs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9adcf8a0-2234-4b89-bde7-b840eacf064b@2.188.213.223:3333?security=none&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://4dafca0f-cf50-43a2-b636-e1895e792c10@visa.org:2052?path=/@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.my-site.DNS-dynamic.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@45.149.12.119:8443?security=tls&encryption=none&type=grpc&serviceName=%40iMrV2ray&sni=societshaia7rysv.aminho3ien.ir#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vmess://eyJhZGQiOiAiMTA3LjE2Ny4zMC4xMjYiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy44MzY0NTQyMi54eXoiLCAiaWQiOiAiNTdmOTNlOTItZWJiOS00ZjE2LTliZGMtODIyNWQyMDEwOTk1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzI0MDgxMTA2MjgxMyIsICJwb3J0IjogMzAwMDAsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJ3d3cuODM2NDU0MjIueHl6IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
+hy2://e763a9d1-418a-4114-8b15-d86ba4206e76@46.29.161.224:1200/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://2b256723-3db0-4cc7-9006-d47c37e67fab@195.58.48.220:7660/?insecure=1&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://7671d86f-38e9-44d7-884a-74cb5174dad2@176.32.33.158:1200/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://699f8498-7e4f-44fa-a65c-f8e8fc739a8e@194.87.69.42:7660/?insecure=1&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://3b1997a3-2f3c-445d-a327-477e9c44238c@45.140.169.231:8080/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://204fb648-d28e-4110-8e80-d5ec3f7966a5@176.32.32.68:2453/?insecure=1&obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://8ea86e24-c20d-4cec-a473-bc109db055f4@194.87.68.196:13167/?insecure=1&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
