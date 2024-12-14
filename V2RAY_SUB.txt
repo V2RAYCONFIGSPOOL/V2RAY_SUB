@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@16.16.155.71:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.234:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=aaa.zhuk.us.kg&type=ws&sni=aaa.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=aaa.zhuk.us.kg&type=ws&sni=aaa.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -7,4 +8,3 @@ vless://08e9220b-a099-4628-a0ff-26885421642f@23.187.72.90:49510?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY%3D@soonjp.soon.guru:40003#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-trojan://telegram-id-directvpn@52.47.213.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
