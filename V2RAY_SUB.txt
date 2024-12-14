@@ -1,10 +1,10 @@
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?path=%2F%40bypass_filter%2F%3Fed%3D100&security=tls&encryption=none&host=bypassfilter.cmyyvat.workers.dev&type=ws&sni=bypassfilter.cmyyvat.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://fb527cc3-5a3f-43f8-ac5b-de1b1cc23c6c@151.101.128.155:80?path=%2F%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.84.35:443?path=%2F0TkRO7B5OMyy4gZu%3Fed%3D2560&security=tls&encryption=none&host=pPaL03.nAvIYI2139.wOrkERS.dev&type=ws&sni=PPAL03.NaVIYi2139.WOrKErs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://abccb5aa-fbc6-4c60-adcb-7afbb577f1ea@151.101.2.165:80?path=%2FSPdnet%3Fed%3D2048&security=none&encryption=none&host=vgoliC.spdteam.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://714c776d-ccf4-57db-97b2-3628ae1f1b3d@104.19.216.72:443?path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=ztv2ray.teyekas893.wORKeRS.DEV&type=ws&sni=ztv2ray.teyekas893.wORKeRS.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig25.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQGZyZWFrY29uZmlnMjUudXNlY2hhcmdlLmlyOjQ0Mw==#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
