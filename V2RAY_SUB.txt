@@ -1,10 +1,10 @@
-vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@b-corsairs.com:443?type=ws&host=olemam.com&path=/olem/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn-d%3D2048&security=tls&fp=chrome&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNc0lCRnc2WFBtZmNwTFpYaFVOcEpkcjFnN0ZPYlpDVDVBZ0FFekYzT0VHZjFUNWQ=@95.128.71.141:41348#👉🆔 @v2ray_configs_pool📡🇧🇾Belarus
-vless://4c60f280-4f06-4e53-829e-222723c6289d@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://b8365b3d-f55f-4cde-8600-937f4acbbb58@www.speedtest.net:8080?path=/TELEGRAM-@MainV2-ray#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNc0lCRnc2WFBtZmNwTFpYaFVOcEpkcjFnN0ZPYlpDVDVBZ0FFekYzT0VHZjFUNWQ=@95.128.71.141:41348#👉🆔 @v2ray_configs_pool📡🇧🇾Belarus
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.203.0.206:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@3.79.170.87:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://c9883029-6df3-4998-841a-7b51339e4b4e@104.17.147.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://55905725-9838-4f05-80bd-97fcc4371443@78.157.59.178:27053?security=none&type=ws&sni=F7pTC.divarcdn.com,skqAE.snappfood.ir,Z17Ld.yjc.ir,JorjN.digikala.com,9MQpP.tic.ir&path=/ZARIN7&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://3648425794742788096@35.168.124.79:443?type=tcp&security=tls&sni=humble-rodent.treefrog761.one&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.236.148.85:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.203.0.206:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.79.170.87:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://c9883029-6df3-4998-841a-7b51339e4b4e@104.17.147.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
