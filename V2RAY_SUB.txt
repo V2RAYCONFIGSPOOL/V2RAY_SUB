@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vmess://eyJhZGQiOiAiMTA3LjE0OC4yMDcuMjQ5IiwgInYiOiAiMiIsICJwb3J0IjogNDg3MTIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhcHBzdnMuc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
