@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://165a7cb0-d1fc-4021-8054-786b7e3c8cf4@188.34.201.88:39366/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://165a7cb0-d1fc-4021-8054-786b7e3c8cf4@188.34.201.88:39366/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.27:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.86.135.211:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.110.1.111:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8e4cc007-f3fb-4804-8c98-774ac4397a9a@speedtest.net:80/?type=ws&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b90001-4206-4871-a99d-1744d48f215b@cf.cishanjichang.me:443/?type=grpc&encryption=none&serviceName=swordnewnew&security=tls&sni=ghk.jintianpaolu.tech&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://69814381-8366-4774-8bac-2dcee5a37eff@bg.com:80/?type=ws&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&path=%2F%3Fed%3D2056#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://67c3113d-c896-42ec-ae6b-bc3309b5970c@pscresearch.faculty.ucdavis.edu:443/?type=ws&encryption=none&host=jbiudvh7t5y7tythgg.com&path=ws%2F%3Fed%3D2048&security=tls&sni=pscresearch.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b90001-4206-4871-a99d-1744d48f215b@cf.cishanjichang.me:443/?type=grpc&encryption=none&serviceName=swordnewnew&security=tls&sni=ghk.jintianpaolu.tech&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://3648425794742788096@prime-gator.treefrog761.one:443/?type=tcp&security=tls&sni=prime-gator.treefrog761.one&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇮🇳India
+vless://69814381-8366-4774-8bac-2dcee5a37eff@bg.com:80/?type=ws&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&path=%2F%3Fed%3D2056#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443/?type=ws&encryption=none&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
