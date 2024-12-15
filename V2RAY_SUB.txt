@@ -1,10 +1,10 @@
-vless://1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65000/?type=tcp&encryption=none&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=XrpXuYo8oZs7sitHeijt5Pg0vRo5nrD7A8_U5KAHCCw&sid=&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://YWVzLTEyOC1nY206MWMxNjg3MmEtZjQyNC00ODIxLWFlMDMtZjI3Y2Y1ODFkYzkw@[2407:3640:2185:9595:0:1:c2d0:9336]:65004#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-hy2://1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65001/?insecure=1#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-tuic://1c16872a-f424-4821-ae03-f27cf581dc90:1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65002/?congestion_control=cubic&udp_relay_mode=native&alpn=h3&allow_insecure=1&disable_sni=1#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://YWVzLTEyOC1nY206MWMxNjg3MmEtZjQyNC00ODIxLWFlMDMtZjI3Y2Y1ODFkYzkw@[2407:3640:2185:9595:0:1:c2d0:9336]:65004#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65005/?type=tcp&security=tls&allowInsecure=1&fp=random#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://1c16872a-f424-4821-ae03-f27cf581dc90@www.visa.com:443/?type=ws&encryption=none&host=boring-falls-appreciate-tasks.trycloudflare.com&path=%2F1c16872a-f424-4821-ae03-f27cf581dc90-vless%3Fed%3D2048&security=tls&sni=boring-falls-appreciate-tasks.trycloudflare.com&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65008/?type=http&encryption=none&path=%2F&sni=addons.mozilla.org&alpn=h2&fp=chrome&security=reality&pbk=XrpXuYo8oZs7sitHeijt5Pg0vRo5nrD7A8_U5KAHCCw&sid=&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65009/?type=grpc&encryption=none&serviceName=grpc&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=XrpXuYo8oZs7sitHeijt5Pg0vRo5nrD7A8_U5KAHCCw&sid=&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:8081/?encryption=none&host=fast.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443/?type=ws&encryption=none&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443/?type=ws&encryption=none&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:8081/?encryption=none&host=fast.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://d15a8968-954d-4315-9ea2-b8147908e688@matrix4.mobindvil.shop:18764/?encryption=none&host=telewebion.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443/?type=ws&encryption=none&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d15a8968-954d-4315-9ea2-b8147908e688@matrix4.mobindvil.shop:18764/?encryption=none&host=telewebion.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443/?type=ws&encryption=none&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
