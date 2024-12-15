@@ -1,10 +1,10 @@
-vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@164.90.202.67:2005?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://68676606-05da-4e99-8298-13a309f14790@185.146.173.39:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sadasdsdsaads%E9%98%BF%E6%96%AF%E9%81%94%E5%8D%81%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86.boxiaa.shop.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://7450441a-add0-4c4f-83a8-1a7b7ffab892@151.101.2.219:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=hostholadvipprimer1.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@67.220.95.102:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.39:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.71.144:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.130:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=5.drf2ewf.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.21:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2c46c164-5d1e-4085-baae-22512d78081a@188.245.229.107:2095?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.121.43.27:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://136eca2f-1015-4597-ac3a-10e6371be571@79.175.134.36:55672?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://095d5a8e-1718-4016-9609-e37d7e953727@151.101.2.228:443?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
