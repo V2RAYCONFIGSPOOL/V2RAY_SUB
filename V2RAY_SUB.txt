@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OExEa3pVY1lZMmhGRTdZZGNhNm1u@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMFFCQVNsRUVQdmlyNjdZN0VYbDc0@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://8458ecd7-1e71-4be4-a571-0806241d52d2@91.216.171.61:39497?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://8458ecd7-1e71-4be4-a571-0806241d52d2@91.216.171.61:39497?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.241.36:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://bm9uZTpjY2FiYWFiLWJjYWEtYmFhYy1jYmRhLWNhYmNhYWJjYmFiYw==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.162:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://380bb9a2-18b3-406e-9fca-a923a31174cc@93.126.50.230:12358?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.203:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://064f95d7-41d2-4135-8728-a896a3ff7983@151.101.2.219:80?security=none&type=ws&host=tukglobalvips.com&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://aababcc-abac-aacb-cbad-abcaabccbbac@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vmess://eyJhZGQiOiAiNTQuMjU1LjE3Ny41NyIsICJhaWQiOiAwLCAiaG9zdCI6ICJkb3duLmRpbmd0YWxrLmNvbSIsICJpZCI6ICIxMzM2NDc4OS1hOGIyLTRiY2QtOGRmNy1hNzk0ZmI2Zjg3ZTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2JieSIsICJwb3J0IjogNDAwMDAsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1NpbmdhcG9yZSJ9
+vless://75f12cab-d1e7-4e52-a828-093492a8401e@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=join%73%68%68%70%72%6f%78%79%62edeeeee.ir&path=/%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79?ed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.162:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.203:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
