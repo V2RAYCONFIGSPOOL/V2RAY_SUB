@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.80.101:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=va.zhuk.us.kg&type=ws&sni=va.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA%3D%3D@217.30.10.18:9064#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ%3D%3D@217.30.10.18:9001#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@188.164.159.17:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=va.zhuk.us.kg&type=ws&sni=va.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-vmess://eyJhZGQiOiAiMTgzLjIzNi40OC4xNjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTg4MzEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@92.53.188.245:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=va.zhuk.us.kg&type=ws&sni=va.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d15a8968-954d-4315-9ea2-b8147908e688@145.239.30.4:18764?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@88.216.66.81:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=va.zhuk.us.kg&type=ws&sni=va.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇼Curacao
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4anpzaU1mVEJ5S2pBOVVSYmRYV05w@51.120.1.158:32091#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+vless://6c404fc4-285f-4a7b-9936-ee8338c4dfff@46.3.106.57:11027?security=none&encryption=none&pbk=-kNV7eKdAGI4ykUH-JpitrMwovIY5IOZ4cGiaDn5MUQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=csgo.com&sid=c0aeddb6#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.83.2.9:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=va.zhuk.us.kg&type=ws&sni=va.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇵🇭Philippines
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.117.112.140:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=va.zhuk.us.kg&type=ws&sni=va.zhuk.us.kg#👉🆔 @v2ray_configs_pool📡🇧🇬Bulgaria
+vless://18e4ed8c-6c46-4863-c249-efe86cce3c74@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://18e4ed8c-6c46-4863-c249-efe86cce3c74@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fce43fa4-6d52-489f-87d2-1818c6d690c8@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fce43fa4-6d52-489f-87d2-1818c6d690c8@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8458ecd7-1e71-4be4-a571-0806241d52d2@91.216.171.61:39497?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://telegram-id-directvpn@34.248.140.172:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://8458ecd7-1e71-4be4-a571-0806241d52d2@91.216.171.61:39497?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
