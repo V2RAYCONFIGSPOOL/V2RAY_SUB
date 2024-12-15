@@ -1,10 +1,10 @@
-vless://948b5904-d702-46c1-8f76-1c4d3ba01705@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://FuUaWS3YWG@38.175.201.156:2053?mode=gun&security=tls&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=Crunch.floorshoping22.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?path=6b777a91&security=tls&alpn=http%2F1.1&host=bangladeshipatri.com&fp=safari&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.39:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.157.40.101:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=abs.twimg.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.pubgmobile.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=youtube.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=netflix.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://6a48794d-184d-4771-9ea9-c1fe8369cd96@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
