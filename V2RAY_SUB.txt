@@ -1,10 +1,10 @@
-vless://2c46c164-5d1e-4085-baae-22512d78081a@abc4.iphone-shopp.ir:2095?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%2F%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://44ea12c9-69f3-4f19-c385-a4a7e136d411@188.245.233.230:111?mode=gun&security=reality&encryption=none&pbk=dI0LP4M7hntLeNdYt31yrkjgbrrmCUMMlSf4klThOGk&fp=chrome&type=grpc&sni=www.speedtest.net&sid=072b02#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://39aa4714-b4d4-4d98-a6f2-78835d93fab9@151.101.194.133:443?security=tls&encryption=none&host=E.L.E.N.A.ir&fp=randomized&type=ws&sni=E.L.E.N.A.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fce43fa4-6d52-489f-87d2-1818c6d690c8@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://68676606-05da-4e99-8298-13a309f14790@185.146.173.39:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sadasdsdsaads%E9%98%BF%E6%96%AF%E9%81%94%E5%8D%81%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86.boxiaa.shop.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://7450441a-add0-4c4f-83a8-1a7b7ffab892@151.101.2.219:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=hostholadvipprimer1.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.39:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.71.144:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://68676606-05da-4e99-8298-13a309f14790@185.146.173.39:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sadasdsdsaads%E9%98%BF%E6%96%AF%E9%81%94%E5%8D%81%E9%BB%9E%E4%B8%89%E5%8D%81%E5%88%86.boxiaa.shop.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
