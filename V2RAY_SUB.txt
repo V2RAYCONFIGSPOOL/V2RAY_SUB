@@ -1,10 +1,10 @@
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@158.101.220.219:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@158.101.220.219:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@152.70.155.147:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@141.144.247.230:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@152.70.155.147:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@141.144.247.230:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.166.68.191:45181?security=tls&sni=de1.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@129.146.254.39:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@129.146.254.39:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.161:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.187:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@138.2.170.113:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@138.2.170.113:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@34.240.83.108:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-directvpn@18.208.112.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xMDAiLCAicG9ydCI6ICI0ODY5NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWRhNDVlOWQtMTdmNC00OTg5LWE2OGEtZjgxNDM4ZGU3NWE0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUnVzc2lhIn0=
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@129.146.254.39:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTVNVXdacVZzRmtER1hRZmFiSlA5@185.33.24.19:39448#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@45.158.59.74:58060#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
