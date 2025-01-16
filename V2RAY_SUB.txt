@@ -1,10 +1,10 @@
-vless://64f18b9a-e1e7-435e-a3c1-bd77355048f8@51.91.144.205:443?security=reality&encryption=none&pbk=rTfR-BEdiTCoOXrHhheBl7Zp-iLo7B17smIsXpcMpUs&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d4201950f21a3#👉🆔@v2ray_configs_pool
+vless://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔@v2ray_configs_pool
 vless://77a03788-86f7-41cf-9d21-85c3b6993bbc@188.227.86.112:8443?mode=gun&security=reality&encryption=none&pbk=9Mml63BP0eMNGSXu_e1hnjbhAaHXhkaRNDnvsivHIFg&fp=chrome&type=grpc&serviceName=JoinbadeChannel%40antimeli&sni=www.speedtest.net&sid=ea532d1400289d#👉🆔@v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#👉🆔@v2ray_configs_pool
 vless://c121c9ce-f0a2-403c-9b30-11b6fe2b73a6@185.255.112.175:5600?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔@v2ray_configs_pool
-vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@150.241.91.193:8443?security=reality&encryption=none&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=f8d8d12585198cb5#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔@v2ray_configs_pool
-vless://4ac8ff94-f344-476d-8076-17a3614e0573@www.speedtest.net:2052?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=shHpRoxy--shhpRoxy--shhPRoxY.nEtteeCh.iR.&type=httpupgrade#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔@v2ray_configs_pool
-vless://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?security=reality&encryption=none&pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=7d5b4f2ce8bbef8b#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cdiuw110.net&type=ws#👉🆔@v2ray_configs_pool
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&secu… @poroxybaz #👉🆔@v2ray_configs_pool
+vless://0ff318a7-5ce4-4184-9b82-b03d645504cf@fsociety.seyhellofc.com:27241?type=grpc&serviceName=&authority=&security=reality&pbk=VCW4l_1fi6IdVkhycYzenSJ-YHLpjD0rnwUZvxiLYwE&fp=firefox&sni=refersion.com&sid=e6ed2dc0&spx=%2FTelgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telegram-Amiir_FBIger-twix%3Fed%3D2560Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telegram-Amiir_FBIger-twix%3Fed%3D2560#👉🆔@v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔@v2ray_configs_pool
