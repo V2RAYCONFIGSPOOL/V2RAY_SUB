@@ -1,10 +1,10 @@
-vless://fe15351f-37f9-425d-bb72-97a37d58f5bf@77.90.11.122:35459?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig84.usecharge.ir:443#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig82.usecharge.ir:443#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#👉🆔@v2ray_configs_pool
-vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=12.irfrn18sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔@v2ray_configs_pool
-vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@EXPRESSVPN_420.fastly80.hosting-ip.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#👉🆔@v2ray_configs_pool
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cdiuw110.net&type=ws#👉🆔@v2ray_configs_pool
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&secu… @poroxybaz #👉🆔@v2ray_configs_pool
+vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?path=%2Fvless%23%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi%2C%40alpha\_v2ray\_fazayi&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool
+trojan://telegram-id-directvpn@15.157.232.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
+vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.65.90.53:2053?security=tls&sni=hp-DuBAi.Pages.dEV&type=ws&host=hp-dubai.pages.dev&fp=chrome&alpn=h2,http/1.1#👉🆔@v2ray_configs_pool
+vless://797f73d6-b553-448c-b758-00ea05b0e327@65.109.209.201:7642?type=tcp#👉🆔@v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.20.53:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#👉🆔@v2ray_configs_pool
