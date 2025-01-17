@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-trojan://Aimer@45.136.199.132:443?allowInsecure=0&sni=ameqo.esslh.filegear-sg.me&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇪🇬Egypt
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.203.72:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.100.13:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.64.107:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.203.72:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.64.107:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.100.13:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
-vless://c9703128-32c6-42bc-b5c4-0f3648677092@uk.ukrageshark.shop:443?mode=auto&path=%2F%40OpenSSTPVpn%20%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&security=reality&encryption=none&pbk=XmSWsVgjF1VqwgOa0BUfo3dMK5TFDgr_pm5LsX142hM&fp=chrome&spx=%2F&type=xhttp&sni=docker.com&sid=3a6d309636636a#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://0355e0b9-f6aa-4da4-89fc-5b1e476b3f8c@95.181.162.108:8880?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://4587344d-418a-4b5a-91a5-495d7c883bad@188.245.184.26:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&host=#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cdiuw110.net&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&secu… @poroxybaz #👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cdiuw110.net&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&secu… @poroxybaz #👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
