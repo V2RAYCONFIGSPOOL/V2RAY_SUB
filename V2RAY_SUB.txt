@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig86.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://Channel--VPNCUSTOMIZE@fishlab.ucdavis.edu:443?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.189:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔@v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇧🇭Bahrain
+vless://c9703128-32c6-42bc-b5c4-0f3648677092@uk.ukrageshark.shop:443?mode=auto&path=%2F%40OpenSSTPVpn%20%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&security=reality&encryption=none&pbk=XmSWsVgjF1VqwgOa0BUfo3dMK5TFDgr_pm5LsX142hM&fp=chrome&spx=%2F&type=xhttp&sni=docker.com&sid=3a6d309636636a#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://d424ae34-8aff-4093-b1c9-715de61aa144@tgju.org:2082?type=httpupgrade&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&security=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://d424ae34-8aff-4093-b1c9-715de61aa144@tgju.org:2082?type=httpupgrade&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&security=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@35.158.162.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@18.192.74.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.67.233.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@15.188.97.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@3.122.196.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@51.44.152.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@35.181.75.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
