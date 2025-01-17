@@ -1,10 +1,10 @@
-vless://c9703128-32c6-42bc-b5c4-0f3648677092@uk.ukrageshark.shop:443?mode=auto&path=%2F%40OpenSSTPVpn%20%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&security=reality&encryption=none&pbk=XmSWsVgjF1VqwgOa0BUfo3dMK5TFDgr_pm5LsX142hM&fp=chrome&spx=%2F&type=xhttp&sni=docker.com&sid=3a6d309636636a#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://305f60b7-7dfd-46ec-f6ac-0de4a071d63b@49.12.200.119:2053?security=none&type=ws&host=chess.com#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.192:8880?security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://305f60b7-7dfd-46ec-f6ac-0de4a071d63b@49.12.200.119:2053?security=none&type=ws&host=chess.com#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@178.62.238.185:443?security=reality&flow=xtls-rprx-vision&sni=www.refersion.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.60.224:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@87.98.173.90:443?security=reality&flow=xtls-rprx-vision&sni=www.latimes.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇫🇷France
+vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@87.98.173.90:443?security=reality&flow=xtls-rprx-vision&sni=www.latimes.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇫🇷France
 vless://dcb45df2-3dea-4fe9-9ecc-32eb5b7b7729@209.38.105.179:8080?type=tcp&host=fast.com&headerType=http#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://dcb45df2-3dea-4fe9-9ecc-32eb5b7b7729@209.38.105.179:8080?type=tcp&host=fast.com&headerType=http#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@144.126.227.200:443?security=reality&flow=xtls-rprx-vision&sni=www.miro.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@144.126.227.200:443?security=reality&flow=xtls-rprx-vision&sni=www.miro.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.73:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.192:8880?security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.192:8880?security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.60.224:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.73:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
