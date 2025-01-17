@@ -1,10 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.192:8880?security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@178.62.238.185:443?security=reality&flow=xtls-rprx-vision&sni=www.refersion.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.60.224:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@87.98.173.90:443?security=reality&flow=xtls-rprx-vision&sni=www.latimes.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇫🇷France
-vless://dcb45df2-3dea-4fe9-9ecc-32eb5b7b7729@209.38.105.179:8080?type=tcp&host=fast.com&headerType=http#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://bb94cc8b-705c-48cf-85b6-845bd01a3cbe@144.126.227.200:443?security=reality&flow=xtls-rprx-vision&sni=www.miro.com&type=tcp&fp=chrome&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&sid=43a007179df71231#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.73:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.192:8880?security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig85.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig86.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://Channel--VPNCUSTOMIZE@fishlab.ucdavis.edu:443?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔@v2ray_configs_pool📡🇵🇱Poland
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.189:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
