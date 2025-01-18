@@ -1,10 +1,10 @@
-trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
+vless://641e0e8f-9503-44f9-ba8c-6288fe409cb9@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&security=none&encryption=none&host=Tehran2.Org&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=none&type=ws&host=sabteahval.ir&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=zmaoz.faculty.ucdavis.edu&fp=chrome#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=none&type=ws&host=cinematicket.org&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=zmaoz.faculty.ucdavis.edu&fp=chrome#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=none&type=ws&host=sabteahval.ir&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=zmaoz.faculty.ucdavis.edu&fp=chrome#👉🆔@v2ray_configs_pool📡🇺🇸United States
