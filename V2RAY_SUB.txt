@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE%3D@95.215.108.67:40031#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://650bc0d0-b993-4472-87cd-f6fa86777b82@87.98.149.193:443?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=B9s5sNb0bSLLiUhofHrgaBPGrS6yz3VEpvPXG-YDGwE&sid=c4#👉🆔@v2ray_configs_pool📡🇫🇷France
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool📡🇦🇹Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vmess://eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiMzAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3U291dGggS29yZWEifQ==
-trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFpoTlRBeg%3D%3D@89.221.224.166:8388#👉🆔@v2ray_configs_pool📡🇮🇸Iceland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVF3WmpGaw%3D%3D@95.164.36.59:8388#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIRWFRNllZTExkR1dMYThpeXBEMzk2@212.113.106.76:29149#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag%3D%3D@45.140.146.223:8388#👉🆔@v2ray_configs_pool📡🇲🇩Moldova
+vless://650bc0d0-b993-4472-87cd-f6fa86777b82@87.98.149.193:443?security=reality&encryption=none&pbk=B9s5sNb0bSLLiUhofHrgaBPGrS6yz3VEpvPXG-YDGwE&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c4#👉🆔@v2ray_configs_pool📡🇫🇷France
+vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=ndmo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2MyLjE4MDguc2l0ZSIsICJpZCI6ICJkM2Q4Yjc4MS1mMzBkLTQ5MDItOGViMC01OGIxY2E5MzZiZWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hncXF2d3MiLCAicG9ydCI6ICIzMDAwMiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiY2MyLjE4MDguc2l0ZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1NvdXRoIEtvcmVhIn0=
+vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cdiuw110.net&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://user@s14.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s14.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
