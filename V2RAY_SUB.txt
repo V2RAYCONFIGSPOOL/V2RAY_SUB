@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@3.78.209.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://d4853b78-6ab5-4da0-a434-bcb475a0e54c@65.109.208.13:443?security=reality&sni=yahoo.com&type=xhttp&path=%2F%40%63u%73t%6f%6d_%63o%6ef%69g&fp=chrome&pbk=CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I&sid=4b272f845593#👉🆔@v2ray_configs_pool📡🇫🇮Finland
+vless://baaf201d-770c-44fa-8cc0-28fa51363d0c@151.101.2.216:80?security=none&type=ws&host=edu.tabligh.au&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://8d7e5377-e688-4843-bab2-0728d3b3b6a6@151.101.194.228:443?security=tls&sni=faculty.ucdavis.edu&type=ws&host=Join-Bede---MOSiv2.IR&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.154.61:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://8d7e5377-e688-4843-bab2-0728d3b3b6a6@151.101.194.228:443?security=tls&sni=faculty.ucdavis.edu&type=ws&host=Join-Bede---MOSiv2.IR&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://baaf201d-770c-44fa-8cc0-28fa51363d0c@151.101.2.216:80?security=none&type=ws&host=edu.tabligh.au&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-ServerNett@91.107.137.98:24893?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪Germany
 vless://37113ba2-f7ff-4db7-903c-8ccd5bb7ec49@104.21.53.230:443?security=tls&sni=honeybun.parsifast78.ir&type=ws&host=honeybun.parsifast78.ir&path=%2FxJX3PGDyJyGsiqL6ucwNYDzbekF5&fp=chrome&alpn=http/1.1#👉🆔@v2ray_configs_pool📡🇨🇦Canada
 vless://37113ba2-f7ff-4db7-903c-8ccd5bb7ec49@104.21.53.230:443?security=tls&sni=honeybun.parsifast78.ir&type=ws&host=honeybun.parsifast78.ir&path=%2FxJX3PGDyJyGsiqL6ucwNYDzbekF5&fp=chrome&alpn=http/1.1#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.1.99:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.1.99:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://af19d60b-1ef2-5da6-8fe3-b4710944b045@45.133.216.209:2052?security=none&type=ws&path=%2Fvless#👉🆔@v2ray_configs_pool📡🇱🇻Latvia
-vless://af19d60b-1ef2-5da6-8fe3-b4710944b045@45.133.216.209:2052?security=none&type=ws&path=%2Fvless#👉🆔@v2ray_configs_pool📡🇱🇻Latvia
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.114.195:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.114.195:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
