@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇳China
-vless://abccaab-baac-acba-cdba-abcabcbacacb@127.0.0.1:8080?security=tls&type=tcp#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.19:38370#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.74:28290#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@168.126.234.232:58989#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
-vless://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@212.113.106.207:2052?type=httpupgrade&host=gr1m.mimarketshop.INFO.&path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80#👉🆔@v2ray_configs_pool📡🇦🇹Austria
-vless://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@212.113.106.207:2052?type=httpupgrade&host=gr1m.mimarketshop.INFO.&path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80#👉🆔@v2ray_configs_pool📡🇦🇹Austria
+vless://aaa777c1-0940-49a4-bfea-5e7dd3ebe7ea@151.101.120.121:80?security=none&type=ws&host=meta3.ai#👉🆔@v2ray_configs_pool📡🇫🇷France
+vless://04306514-713c-4357-9094-2cfcfbf8fc3e@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.pegAh-Esfahan.De.&security=tls&sni=WWW.pegAh-Esfahan.De.&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇷Costa Rica
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
