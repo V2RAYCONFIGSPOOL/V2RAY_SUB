@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-vless://163effed-f1a8-494e-bb43-79277b85031f@tg-ELiV2.f-35.store:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=GRPC&sni=JoinBedeee-ELiV2RAY.net#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://29e94bc3-a2d2-4dd2-943d-52ab9dd7754b@eliv2.ray.f-35.store:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=GRPC&sni=JoinBede-ELiV2RAY.net#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://46ec407a-7cf6-486c-8134-6bcc4cf06794@78.109.200.212:2070?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷Iran
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.170:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@141.148.235.174:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.238.49:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.6.188:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://0ec6370d-7231-4277-d8f7-509f6bced933@70.34.207.127:8080?security=none&type=ws&path=%2F#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig86.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://Channel--VPNCUSTOMIZE@fishlab.ucdavis.edu:443?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.189:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔@v2ray_configs_pool📡🇵🇱Poland
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
