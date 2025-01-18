@@ -1,10 +1,10 @@
-trojan://user@s19.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s19.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔@v2ray_configs_pool📡🇦🇹Austria
-trojan://user@s20.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s20.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s21.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s21.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s9.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s9.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s22.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s22.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s23.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s23.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s24.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s24.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s25.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s25.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s26.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+vless://163effed-f1a8-494e-bb43-79277b85031f@tg-ELiV2.f-35.store:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=GRPC&sni=JoinBedeee-ELiV2RAY.net#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://29e94bc3-a2d2-4dd2-943d-52ab9dd7754b@eliv2.ray.f-35.store:2003?mode=gun&security=tls&encryption=none&type=grpc&serviceName=GRPC&sni=JoinBede-ELiV2RAY.net#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://46ec407a-7cf6-486c-8134-6bcc4cf06794@78.109.200.212:2070?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷Iran
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.170:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@141.148.235.174:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.238.49:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.6.188:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://0ec6370d-7231-4277-d8f7-509f6bced933@70.34.207.127:8080?security=none&type=ws&path=%2F#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
