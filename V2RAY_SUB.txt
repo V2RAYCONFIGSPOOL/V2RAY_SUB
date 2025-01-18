@@ -1,10 +1,10 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@144.24.20.92:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.0:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@47.76.130.197:60001?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇭🇰Hong Kong
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔@v2ray_configs_pool📡🇪🇸Spain
-trojan://Aimer@27.50.49.207:443?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇭🇰Hong Kong
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://6f183280-b258-437a-a216-e83f7dece776@45.131.211.0:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇧🇿Belize
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.242:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@188.164.159.91:2083?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇿Czechia
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@154.17.21.134:18446?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.71.3:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.103:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.230.42.80:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.180.143:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?path=%2F%3Fed%3D2048fp%3Dios&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇮🇩Indonesia
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@69.84.182.106:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
