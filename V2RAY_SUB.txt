@@ -1,10 +1,10 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@211.218.223.130:30012?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@185.231.233.173:989#👉🆔@v2ray_configs_pool📡🇵🇹Portugal
-trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://ad179afa-18b0-4ae2-eb2d-086b767f08d3@190.93.247.155:2095?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇷Costa Rica
-trojan://bpb-trojan@23.227.60.8:443?security=tls&headerType=&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.58.158:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.228:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.242:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-vmess://eyJhZGQiOiAiNDcuMTA0LjE4Ni4xMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.137:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA%3D%3D@125.141.31.103:43104#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
+vless://cbf5eb64-a702-40fe-8884-66b53c40d016@108.162.192.85:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=g3wgx3.fivegravity.com&type=ws&sni=g3wgx3.fivegravity.com#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@84.17.53.160:989#👉🆔@v2ray_configs_pool📡🇨🇭Switzerland
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇫🇷France
+trojan://SSorg@154.197.64.228:2083?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸United States
