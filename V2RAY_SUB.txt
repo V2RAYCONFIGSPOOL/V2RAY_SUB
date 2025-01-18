@@ -1,10 +1,10 @@
-vless://aaa5528f-b4da-464f-bf99-f854594461a8@188.245.239.24:443/?type=tcp&encryption=none&sni=www.stackoverflow.com&fp=chrome&security=reality&pbk=Xete6UvK7oZMpc4mYOSp7O71Mch2nY7vmo3MqKHPmF8&sid=57fb#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://0183c3a4-7fb9-41c9-a8f2-3c032a6ad721@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.158.1:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-trojan://3723507166611775488@80.240.112.32:443/?type=tcp&security=tls&sni=oriented-terrier.boa152.lol&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://3723507166611775488@5.189.203.38:443/?type=tcp&security=tls&sni=sacred-guppy.boa152.lol&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-trojan://3723507166611775488@80.240.112.167:443/?type=tcp&security=tls&sni=ample-cockatoo.boa152.lol&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
-trojan://3723507166611775488@80.240.112.236:443/?type=tcp&security=tls&sni=pleased-slug.boa152.lol&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-hy2://02521cf2-5c11-4382-847f-6cedf3552d51@dddoyg.naisicloud.xyz:35600/?insecure=1&sni=dddoyg.naisicloud.xyz#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.159:443/?type=ws&encryption=none&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇿🇦South Africa
+hy2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443/?sni=all-v4.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare#👉🆔@v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UDE5aTBCb0pBUDNRMGk5RnFMWjJS@213.108.23.243:15584#👉🆔@v2ray_configs_pool📡🇫🇮Finland
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=michi&sni=fawpvpcyp.wwtraveler.com#👉🆔@v2ray_configs_pool📡🇨🇳China
+hy2://Telegram:%40KevinZakarian@kevin.iserver.store:8443/?insecure=1&sni=kevin.iserver.store&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian#👉🆔@v2ray_configs_pool📡🇺🇸United States
+hy2://2687510c-f33b-44fd-905f-e3fcfc5fabbc@dddomg.naisicloud.xyz:35600/?insecure=1&sni=dddomg.naisicloud.xyz#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=michi&sni=fawpvpcyp.wwtraveler.com#👉🆔@v2ray_configs_pool📡🇨🇳China
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=michi&sni=fawpvpcyp.wwtraveler.com#👉🆔@v2ray_configs_pool📡🇨🇳China
+vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd14.mehdit.ir&fp=chrome&type=ws&sni=dd14.mehdit.ir#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.56:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd14.mehdit.ir&fp=chrome&type=ws&sni=dd14.mehdit.ir#👉🆔@v2ray_configs_pool📡🇩🇪Germany
