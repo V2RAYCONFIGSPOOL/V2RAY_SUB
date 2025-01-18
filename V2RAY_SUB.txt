@@ -1,10 +1,10 @@
-vless://tellll--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=none&type=ws&host=isa.ir&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=zmaoz.faculty.ucdavis.edu&fp=chrome#👉🆔@v2ray_configs_pool📡🇺🇸United States
-trojan://user@s20.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s20.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-trojan://user@s21.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s21.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s22.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s22.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s23.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s23.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s24.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s24.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s25.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s25.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s26.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇧🇭Bahrain
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344748423.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=arvancloud.com&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://c9703128-32c6-42bc-b5c4-0f3648677092@uk.ukrageshark.shop:443?mode=auto&path=%2F%40OpenSSTPVpn%20%40OpenSSTPVpn%40OpenSSTPVpn%40OpenSSTPVpn&security=reality&encryption=none&pbk=XmSWsVgjF1VqwgOa0BUfo3dMK5TFDgr_pm5LsX142hM&fp=chrome&spx=%2F&type=xhttp&sni=docker.com&sid=3a6d309636636a#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
