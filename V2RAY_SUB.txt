@@ -1,10 +1,10 @@
-vmess://eyJ2IjogIjIiLCAiYWRkIjogInNlb3VsLTFkZG5zLmFib3V0YW5pbWUuZXUub3JnIiwgInBvcnQiOiAiMjM0NTEiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdlYjA4YjllLTZmMGItNGY1NC1iM2YyLTMwZmU0NDAzNjljNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAic2VvdWwtMWRkbnMuYWJvdXRhbmltZS5ldS5vcmciLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdTb3V0aCBLb3JlYSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSXN2elhuVDFaNk5Gb2VhZHF5RENx@109.120.186.231:11329#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://d5970425-de80-4672-a4b4-bcd3d71dda0a@116.203.36.225:443/?type=grpc&encryption=none&serviceName=%40cephalon_ai_bot&sni=stackoverflow.com&fp=chrome&security=reality&pbk=lt9fGJ_giHZO8pU-sPUtCyA_4eq-8qG1NQ5TRCllLTc&sid=2e23b1fea6c2c2#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@121.176.166.69:33889/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
-vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206WHBHNm1waGM@217.144.106.226:11122#👉🆔@v2ray_configs_pool📡🇮🇷Iran
-vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=fawpvpcyp.wwtraveler.com&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇳China
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@129.151.254.48:443/?type=ws&encryption=none&host=mmdserver.us.kg&path=%2F%3Fed%3D2048&security=tls&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇫🇷France
-hy2://f8e40931bbb827df@62.60.231.189:12123/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=dbc688df29e582d3#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.58.158:443/?type=ws&encryption=none&host=mmdserver.us.kg&path=%2F%3Fed%3D2048&security=tls&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔@v2ray_configs_pool📡🇭🇺Hungary
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.mifeng.us.kg#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://af19d60b-1ef2-5da6-8fe3-b4710944b045@45.133.216.209:2052/?type=ws&encryption=none&path=%2Fvless#👉🆔@v2ray_configs_pool📡🇱🇻Latvia
+ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+vless://bb203cdb-7ef8-4f64-90b4-fea09c992a0c@18af2b3fcdb049509aa2.synom-beyron.info:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393/?type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+hy2://AtTK3tiEA0@p1.punchline.ir:44929/?insecure=1&obfs=salamander&obfs-password=bluhbluh#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇪🇸Spain
