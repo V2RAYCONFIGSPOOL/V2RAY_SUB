@@ -1,10 +1,10 @@
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.219.218.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVXJTZmZlTkFCWEdYWGZOaG9MNnhCVW5oMVJ6cU1penJRMnM5UWZDMzhQMllQdVlQUlRxVzV6Wmc2akdpc2lOaGt6TTRTUmpGNm56dkZiMThHUHRFU1dvWFdqaHF5Qzg%3D@198.105.123.190:46902#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.155.90:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@143.47.181.153:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.101:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@8.219.72.167:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@188.214.36.155:989#👉🆔@v2ray_configs_pool📡🇪🇪Estonia
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA%3D%3D@p221.panda001.net:43104#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@217.163.76.9:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vmess://eyJhZGQiOiAiMjMuMjM2LjY5LjQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNWYzNzk0NS05NTk3LTRmNzctOWNkZi0wNzBmZTVmYzhhM2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI4NjU5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@103.231.73.153:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇱🇻Latvia
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@8.222.165.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇸🇬Singapore
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.116.22:2501?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.76:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
+trojan://3648425794742788096@5.8.35.208:443?security=tls&headerType=&type=tcp&sni=loving-boa.treefrog761.one#👉🆔@v2ray_configs_pool📡🇮🇳India
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.226.226.56:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.54.28:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=dse.bgm2024.us.kg&type=ws&sni=dse.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.117.182:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
+ss://YWVzLTI1Ni1nY206QlVQM09ZRUQ4V0VMU0xQTQ%3D%3D@w72tapyb.slashdevslashnetslashtun.net:16004#👉🆔@v2ray_configs_pool📡🇨🇳China
