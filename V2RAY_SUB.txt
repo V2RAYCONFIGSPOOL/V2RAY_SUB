@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@98.82.46.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@13.48.69.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@51.20.157.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@13.37.90.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@51.44.33.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@18.198.253.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@18.133.144.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@3.78.209.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@18.170.169.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@52.50.80.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-directvpn@15.157.176.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@52.60.137.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://3723507166611775488@195.133.93.10:443?security=tls&headerType=none&type=tcp&sni=social-bream.boa152.lol#👉🆔@v2ray_configs_pool📡🇨🇾Cyprus
+vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
