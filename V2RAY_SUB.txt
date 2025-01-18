@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZlJPT1g4a2ozeGF0dmhRWTFvUGtI@51.158.252.130:443#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@ul-uae2.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
+vless://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&sid=7d5b4f2ce8bbef8b&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:2095?security=tls&sni=testdvpnhub69.95f425b718.workers.dev&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=/proxyip%3Dproxyip.us.fxxk.dedyn.io#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://70186b61-319d-42f2-9807-7df9594aa385@216.24.57.1:2053?security=tls&sni=amedo.esslh.filegear-sg.me&type=ws&host=amedo.esslh.filegear-sg.me&path=/?ed%3D2560#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig85.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZWFhZDlGWXl5YVF6dGh3bFVyUHlM@62.210.88.22:443#👉🆔@v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://eda20998-ed70-490e-8631-4002c8891ae5@138.201.185.70:51795?encryption=none&security=none&type=tcp&headerType=http&host=nobitex.ir#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://424993a4-080f-4f90-92aa-c0faaeb58453@188.227.84.71:8443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&sid=f74b9234&spx=%2F&type=grpc&authority=&serviceName=JoinBadeChannel%40antimeli&mode=gun#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://743a9ecc-095b-47bf-8d08-8a51acac0eb2@188.245.241.172:443?encryption=none&security=tls&sni=hozori.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=hozori.ir&path=%2FfasffasfsA#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://6b970ff3-ebb2-4a32-96c2-cb3cbbd75e05@138.199.154.143:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://a17e37dd-4589-4e3a-9c73-7a69c159e771@188.245.174.40:8443?encryption=none&security=reality&sni=www.stackoverflow.com&fp=chrome&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&sid=155dfc38ced3ba72&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig86.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
