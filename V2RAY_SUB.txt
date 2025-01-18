@@ -1,10 +1,10 @@
+trojan://telegram-id-privatevpns@3.11.32.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@34.253.31.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@34.247.242.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@13.61.198.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@13.51.7.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@18.175.98.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@54.220.120.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@54.246.244.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@45.81.58.96:80?security=tls&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=telegram@wangcai2/?ed%3D2048#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://70186b61-319d-42f2-9807-7df9594aa385@216.24.57.1:2053?security=tls&sni=amedo.esslh.filegear-sg.me&type=ws&host=amedo.esslh.filegear-sg.me&path=/?ed%3D2560#👉🆔@v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@3.67.233.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@18.192.74.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.122.196.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@15.188.97.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@35.181.75.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@51.44.152.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@51.44.120.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@18.132.29.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.232.38:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
