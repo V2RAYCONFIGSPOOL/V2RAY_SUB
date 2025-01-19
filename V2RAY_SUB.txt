@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@146.19.170.82:47777#👉🆔@v2ray_configs_pool📡🇵🇱Poland
-trojan://blue2024@162.159.194.188:443?security=tls&sni=ta.promote.icu&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJhZGQiOiAiYmV5b25kZGJjLnNicyIsICJhaWQiOiAiMCIsICJob3N0IjogImJleW9uZGRiYy5zYnMiLCAiaWQiOiAiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9
-trojan://SSorg@206.238.237.146:2083?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#👉🆔@v2ray_configs_pool📡🇳🇴Norway
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.179.131:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.179.131:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+trojan://telegram-id-directvpn@3.99.92.98:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://SSorg@160.79.105.160:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸United States
+trojan://3723507166611775488@80.240.112.32:443?security=tls&sni=oriented-terrier.boa152.lol&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?security=tls&sni=fawpvpcyp.wwtraveler.com&fp=chrome&type=grpc&serviceName=michi&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇳China
+vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇷Iran
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?security=tls&sni=fawpvpcyp.wwtraveler.com&fp=chrome&type=grpc&serviceName=michi&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇳China
+vless://1ac0ce1f-8a0b-4500-997e-46c0fe08ede9@185.219.114.114:12560?security=tls&sni=rzm3.feeliran.org&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇷Iran
+trojan://SSorg@192.0.54.221:2083?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://18758238-2625-2730-3689-f157ae275ad4@89.168.51.135:25212?security=tls&sni=ibgsy.ynjkxpgo.com&alpn=h2&fp=random&type=grpc&serviceName=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
+vless://18758238-2625-2730-3689-f157ae275ad4@89.168.51.135:25212?security=tls&sni=ibgsy.ynjkxpgo.com&alpn=h2&fp=random&type=grpc&serviceName=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
