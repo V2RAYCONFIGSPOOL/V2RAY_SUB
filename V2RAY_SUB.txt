@@ -1,10 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@91.107.180.183:443?security=tls&sni=dd6.asalemaraghe.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=dd6.asalemaraghe.ir&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.184.48:2052?security=&type=ws&path=/?ed%3D2560&host=0118.kznyoum2.workers.dev&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://80055aeb-f441-5fac-9f73-9b25a416e450@95.164.46.154:2052?security=&type=ws&path=/vless%23@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇹Italy
-vless://c4cd4190-2834-4efe-81fe-435e093199d2@49.12.200.119:2053?security=&type=ws&host=chess.com&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://6967fc98-00bc-4180-b92d-b21d46058a22@uk.ukrageshark.shop:47408?security=reality&sni=docker.com&fp=chrome&pbk=xCsWzWCD3XYVGHjcF8yDLd-WyTlqvIiqZZ58Rari9lk&sid=0e823321de&spx=/&type=xhttp&encryption=none#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.92.92:2086?security=&type=ws&path=/?ed%3D2560&host=0118.kznyoum2.workers.dev&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ==@45.89.52.66:9065#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
-ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg==@62.60.233.72:33155#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?security=tls&sni=nautica.foolvpn.me&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@193.227.99.28:443?security=tls&sni=fawpvpcyp.wwtraveler.com&type=grpc&serviceName=michi&encryption=none#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@dd6.asalemaraghe.ir:443?security=tls&sni=dd6.asalemaraghe.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=dd6.asalemaraghe.ir&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@146.19.170.82:47777#👉🆔@v2ray_configs_pool📡🇵🇱Poland
+vless://e016b7d6-f779-4bd4-a28b-de599b01be70@a.prolucky.ir:443?security=tls&sni=z.softmeto.site&type=xhttp&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://4f339598-2123-4778-98b3-562ba13a24bc@spd.fastly80-2.hosting-ip.com:80?security=&type=ws&path=/spdnet?ed%3D1024&host=spdnet.spdnet.spdnet.tm.spdnet.spdnetvipv.com&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig84.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://telegram-id-privatevpns@13.39.114.99:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷France
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@141.148.235.174:443?security=tls&sni=mmdserver.us.kg&type=ws&path=/?ed%3D2048&host=mmdserver.us.kg&encryption=none#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://2088fc1a-af25-4dfb-a4ad-9cbd11e13fdb@c1.vact.ir:2083?security=reality&sni=refersion.com&fp=randomized&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&sid=90278dfc&spx=/&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
