@@ -1,10 +1,10 @@
-vless://2088fc1a-af25-4dfb-a4ad-9cbd11e13fdb@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://4b9a3393-6e60-4e27-bb11-f48b80f66f03@elena.com.co:2003?mode=gun&security=tls&allowInsecure=1&type=grpc&serviceName=GRPC&sni=JoinBedee-ELiV2RAY.store#👉🆔@v2ray_configs_pool📡🇰🇿Kazakhstan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw119.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig89.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig86.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig88.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@23.154.136.176:9102#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig87.usecharge.ir:443#👉🆔@v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://98620034-0dee-4575-b83c-8e1b29ba8b2e@37.27.11.39:23340?type=kcp&headerType=none&seed=KPmlOobTCE&security=none#👉🆔@v2ray_configs_pool📡🇫🇮Finland
+vless://75ae80ab-653d-454f-b5c5-5d95805c2843@37.27.11.39:23340?type=kcp&headerType=none&seed=KPmlOobTCE&security=none#👉🆔@v2ray_configs_pool📡🇫🇮Finland
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://59634231-8986-49f3-89cb-79c13c7afae9@116.203.18.93:8443?security=reality&encryption=none&pbk=eUzR83jhnC_Mq_tOuIHKW4sPa_D2jjYSeyrunYS-Zm4&headerType=none&fp=chrome&spx=%2Fzibal&type=tcp&sni=refersion.com&sid=33c48970a3f211ed#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@configtell2.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://telegram-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM%3D@185.221.64.225:1935#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
