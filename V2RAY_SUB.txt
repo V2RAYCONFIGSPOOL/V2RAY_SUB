@@ -1,10 +1,10 @@
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.183.150:2052?type=ws&host=0118.kznyoum2.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.109.35:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:8080?type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.183.150:2052?type=ws&host=0118.kznyoum2.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:8080?type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://00974251-0dce-46ec-b515-0d84a36b6691@g.soskom.ir:52439?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&sid=2e094153c17b67&spx=/#👉🆔@v2ray_configs_pool📡🇫🇮Finland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.116.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2ray_configs_pool📡🇫🇷France
-vless://27055935-7817-4a86-92c1-89cbca3e9986@95.163.176.32:2096?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺Russia
-vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇪🇸Spain
-vless://1d9499e1-003c-4892-9e46-75534e5d82f8@www.speedtest.net:2082?type=httpupgrade&path=yakuzaytarmin%3Fed%3D2082&host=yakuasubcha.poqpoq.shop.&security=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@23.154.136.176:9102#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.166.88.198:4444#👉🆔@v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#👉🆔@v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
