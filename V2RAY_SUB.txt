@@ -1,10 +1,10 @@
-vless://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@104.22.70.106:443?path=%2FFdNQQ9YwZaJCzXHFXJO9ry6uLKVQz&security=tls&encryption=none&host=mHsa5sRv2.FArVAHARfOrevEr.cOm&type=ws&sni=mHsa5sRv2.FArVAHARfOrevEr.cOm#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://54bbf92b-4d56-4bbe-b519-ad405aa6895d@46.202.140.41:11247?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.160:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.160:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@85.237.211.219:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://c9048136-f0e6-aec0-81ce-093876ebf6fb@gE1.pCstoRearSofT.iR:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=gE1.pCstoRearSofT.iR.&fp=randomized&type=ws&sni=gE1.pCstoRearSofT.iR#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.160:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER-8ba4737d1ce9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss2x.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://3723507166611775488@166.1.227.194:443?security=tls&sni=relative-rhino.boa152.lol&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
