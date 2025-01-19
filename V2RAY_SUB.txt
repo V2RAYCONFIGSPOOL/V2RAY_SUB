@@ -1,10 +1,10 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.24.68:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.85:80?security=&type=ws&path=/&host=us1.rtacg.com&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-trojan://fuck@42.236.73.72:443?security=tls&sni=www.zitian.cn&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇳China
-vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.24.68:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTE2NzcxMC1mMWJlLTQyMDEtYmE4Ny1iNjAxMzZlMGQ4YTY=@4.api-catssr.catcloud.host:39550#👉🆔@v2ray_configs_pool📡🇨🇳China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-vmess://eyJhZGQiOiAiNDUuOC4xNTkuMjQxIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjM5OGNlODRlLTQ4NDktNGU1Zi05YjFhLWE1NmZiZTIzM2I4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzMTQ5NSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:80?security=&type=ws&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@120.232.81.50:16088#👉🆔@v2ray_configs_pool📡🇨🇳China
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:80?security=&type=ws&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://22e951a5-5d64-475d-a2d4-cff86573bdf9@85.133.250.238:9799?security=&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇷Iran
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?security=tls&sni=nautica.foolvpn.me&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://SSorg@108.165.152.76:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳India
+vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&sni=refersion.com&fp=firefox&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&sid=4d32acc962b47968&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://22e951a5-5d64-475d-a2d4-cff86573bdf9@85.133.250.238:9799?security=&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇷Iran
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?security=tls&sni=nautica.foolvpn.me&type=ws&path=/47.89.39.186-39251&host=nautica.foolvpn.me&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&sni=refersion.com&fp=firefox&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&sid=4d32acc962b47968&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
