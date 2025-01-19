@@ -1,10 +1,10 @@
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@3.139.114.161:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443/?type=tcp&security=tls&sni=customer-45-67-229-222.stark-industries.solutions&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
-trojan://telegram-id-privatevpns@13.53.164.133:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTUuMTIiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDaGluYSJ9
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-38-151.stark-industries.solutions:443/?type=tcp&security=tls&sni=customer-95-164-38-151.stark-industries.solutions#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.229.241:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.38.103.150:28902#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.81:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@54.36.174.181:5600#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTIuMTkiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDA0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDaGluYSJ9
+trojan://telegram-id-directvpn@99.79.148.179:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=tw02.trojanyyds.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
