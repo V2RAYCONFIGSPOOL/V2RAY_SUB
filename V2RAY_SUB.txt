@@ -1,10 +1,10 @@
-vless://8b35d07c-95d4-4997-af01-ca88903a8535@ip.diiginet.ir:2083?path=%3Fed%3D2096&security=tls&alpn=h2&encryption=none&host=dl3.diiginet.ir&fp=randomized&type=ws&sni=dl3.diiginet.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://deaf5c92-f2a5-549a-86a9-5655d9e4f14f@94.131.12.203:2052?path=%2Fvless&security=none&encryption=none&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://365312bd-8f46-4c75-ae58-d5f55ab0f8ae@se.reata.ir:2020?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80?path=%2Fvless%3Fed%3D2048&security=none&encryption=none&host=rs1.vless.sitespeedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇸Serbia
-vless://365312bd-8f46-4c75-ae58-d5f55ab0f8ae@se.reata.ir:2020?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.247.173:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiMTQ5LjI0OC42Mi4xNTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgzZWMxOWVkLTQ4MDUtOTZhNC0wY2UyLTk1NDBiZDk0ZGNiYiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4NiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=/?ed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=/?ed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.246.7:80?type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.138.70:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.247.173:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=/?ed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.138.70:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.246.7:80?type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
