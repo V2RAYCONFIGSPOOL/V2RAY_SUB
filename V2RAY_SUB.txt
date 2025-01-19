@@ -1,10 +1,10 @@
-vless://TELEGRAM-NUFiLTER-94fe7d67b02d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%40v2rayng_vpnn@91.107.158.170:50487?security=reality&encryption=none&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.232.107:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://93d225a2-1be5-43b3-bab3-70fc12ca453d@64.176.166.6:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇱Israel
+vless://c3d9ecd6-1f0e-498c-c8c3-f7f2cfb66d38@104.238.191.173:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://aa1a6ab4-7664-4e6f-bf9e-9783e6cbdc06@83.229.87.210:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=lF969aw2OVdIsh738f8N6kFhFrH3TdhbdusgOQAELG4&sid=fc86d82c19a332db#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://93d225a2-1be5-43b3-bab3-70fc12ca453d@64.176.166.6:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇱Israel
 vless://c3d9ecd6-1f0e-498c-c8c3-f7f2cfb66d38@104.238.191.173:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://c9048136-f0e6-aec0-81ce-093876ebf6fb@91.107.187.129:443?security=tls&sni=gE1.pCstoRearSofT.iR&type=ws&host=gE1.pCstoRearSofT.iR.&path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://93d225a2-1be5-43b3-bab3-70fc12ca453d@64.176.166.6:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇱Israel
-vless://b5c72809-4287-46f4-b930-309edc783dd9@45.67.32.147:443?security=tls&sni=ihavesome.run.place&type=ws&host=ihavesome.run.place&path=%2Fsocks5tobefree&fp=random#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://c9048136-f0e6-aec0-81ce-093876ebf6fb@91.107.187.129:443?security=tls&sni=gE1.pCstoRearSofT.iR&type=ws&host=gE1.pCstoRearSofT.iR.&path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://aa1a6ab4-7664-4e6f-bf9e-9783e6cbdc06@83.229.87.210:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=lF969aw2OVdIsh738f8N6kFhFrH3TdhbdusgOQAELG4&sid=fc86d82c19a332db#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://8757a6ab-1ada-5c14-be33-d7e9cfe5ea41@94.131.98.104:8880?security=none&sni=se1.vless.site&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://704b8aba-4197-48a4-ac48-549098185e76@46.202.194.73:19059?security=tls&sni=speedtest.net&type=xhttp&path=/&fp=chrome&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://b5c72809-4287-46f4-b930-309edc783dd9@45.67.32.147:443?security=tls&sni=ihavesome.run.place&type=ws&host=ihavesome.run.place&path=%2Fsocks5tobefree&fp=random#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
