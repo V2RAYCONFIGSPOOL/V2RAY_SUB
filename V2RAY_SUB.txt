@@ -1,10 +1,10 @@
-vless://%40v2rayng_vpnn@91.107.158.170:50487?security=reality&encryption=none&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjM4LjE3NC4xOTAuODAiLCAicG9ydCI6IDM4MDA3LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInBhdGgiOiAiL3BhdGgvMTAyMjA2MjgyMDA1IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.164:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@18.170.21.120:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
 vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@91.107.180.183:443?security=tls&sni=dd6.asalemaraghe.ir&type=ws&host=dd6.asalemaraghe.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://c4cd4190-2834-4efe-81fe-435e093199d2@49.12.200.119:2053?type=ws&host=chess.com#👉🆔@v2ray_configs_pool📡🇩🇪Germany
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.184.48:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.92.92:2086?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦Canada
 vless://c4cd4190-2834-4efe-81fe-435e093199d2@49.12.200.119:2053?type=ws&host=chess.com#👉🆔@v2ray_configs_pool📡🇩🇪Germany
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.92.92:2086?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@91.107.180.183:443?security=tls&sni=dd6.asalemaraghe.ir&type=ws&host=dd6.asalemaraghe.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ@45.89.52.66:9065#👉🆔@v2ray_configs_pool📡🇹🇷Turkey
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@141.148.235.174:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE1OS42NS40NC45OCIsICJwb3J0IjogIjg4ODEiLCAiaWQiOiAiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAibWloYW53ZWJob3N0LmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
+trojan://Aimer@18.182.63.216:443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇯🇵Japan
