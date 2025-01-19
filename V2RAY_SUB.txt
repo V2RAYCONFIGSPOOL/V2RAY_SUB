@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇮Finland
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://8beddc49-6d81-4dc6-a43d-a72e060cdd57@23.165.200.225:49531?security=&sni=icloud.cdn-apple.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?security=&type=ws&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.116.230:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@54.247.190.67:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇪Ireland
-trojan://SSorg@206.238.237.146:2083?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬Singapore
-vless://1ac0ce1f-8a0b-4500-997e-46c0fe08ede9@185.219.114.114:12560?security=tls&sni=rzm3.feeliran.org&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇷Iran
-vless://0183c3a4-7fb9-41c9-a8f2-3c032a6ad721@150.241.102.95:10799?security=reality&sni=google.com&fp=random&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade&type=tcp&flow=xtls-rprx-vision&encryption=none#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.148:4563#👉🆔@v2ray_configs_pool📡🇰🇷South Korea
+trojan://Aimer@18.182.63.216:443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇯🇵Japan
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.234.231:443#👉🆔@v2ray_configs_pool📡🇯🇵Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#👉🆔@v2ray_configs_pool📡🇳🇴Norway
+trojan://SSorg@192.0.54.221:2083?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸United States
+trojan://SSorg@213.109.205.55:2096?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+trojan://phXKwfrd@223.113.54.145:36442?security=tls&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇳China
+trojan://blue2024@172.64.33.52:443?security=tls&sni=ta.promote.icu&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@212.41.15.119:443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&path=/?ed%3D2048&host=mmdserver.us.kg&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇩Indonesia
