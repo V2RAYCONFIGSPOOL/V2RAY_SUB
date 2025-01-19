@@ -1,10 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.160:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER-8ba4737d1ce9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss2x.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://3723507166611775488@166.1.227.194:443?security=tls&sni=relative-rhino.boa152.lol&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
