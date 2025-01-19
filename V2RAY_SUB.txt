@@ -1,10 +1,10 @@
-vless://Parsashonam-149@185.146.173.39:8880?security=&type=httpupgrade&path=/&host=Search.DigiKala.CYoU.&encryption=none#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&sni=refersion.com&fp=firefox&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&sid=4d32acc962b47968&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://cb1ccc2e-5bed-5450-ba1f-d0e07e7b1623@80.71.157.105:2052?security=&type=ws&path=/vless%23@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng,@FreeV2rng&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://37b3a358-4648-4a16-97f8-d55c12aeae93@137.175.84.99:38448?security=reality&sni=apple.com&fp=chrome&pbk=cY8GEjT96B3DoMSmcuTZbmIG3t94ra_5oUyOZaOTHn8&sid=01b8&type=tcp&flow=xtls-rprx-vision&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?security=tls&sni=fawpvpcyp.wwtraveler.com&fp=chrome&type=grpc&serviceName=michi&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇳China
-vless://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@de1p.samsung-marketshop.ir:2052?security=&type=httpupgrade&path=/www.speedtest.net.Xiaomi?ed%3D80&host=gr1m.mimarketshop.INFO.&encryption=none#👉🆔@v2ray_configs_pool📡🇦🇹Austria
-vless://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@de1p.samsung-marketshop.ir:2052?security=&type=httpupgrade&path=/www.speedtest.net.Xiaomi?ed%3D80&host=gr1m.mimarketshop.INFO.&encryption=none#👉🆔@v2ray_configs_pool📡🇦🇹Austria
-trojan://3723507166611775488@nearby-hedgehog.boa152.lol:443?security=tls&sni=nearby-hedgehog.boa152.lol&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://29e94bc3-a2d2-4dd2-943d-52ab9dd7754b@eliv2.ray.f-35.store:2003?security=tls&sni=JoinBede-ELiV2RAY.net&type=grpc&serviceName=GRPC&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+vless://29e94bc3-a2d2-4dd2-943d-52ab9dd7754b@eliv2.ray.f-35.store:2003?security=tls&sni=JoinBede-ELiV2RAY.net&type=grpc&serviceName=GRPC&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.164:8080#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://af3cd220-514b-470e-994a-61292bc16e07@speedtest.net:80?security=&type=ws&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&host=IPSERVIS2.ORG&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@95.215.108.67:40031#👉🆔@v2ray_configs_pool📡🇷🇺Russia
+ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@pl04.outline.abvpn.ru:47777#👉🆔@v2ray_configs_pool📡🇵🇱Poland
+vless://af3cd220-514b-470e-994a-61292bc16e07@speedtest.net:80?security=&type=ws&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&host=IPSERVIS2.ORG&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.39:80?security=&type=ws&path=/&host=us1.rtacg.com&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.188.63:2052?security=&type=ws&path=/?ed%3D2560&host=0118.kznyoum2.workers.dev&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@45.149.12.166:443?security=tls&sni=fawpvpcyp.wwtraveler.com&type=grpc&serviceName=michi&encryption=none#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
