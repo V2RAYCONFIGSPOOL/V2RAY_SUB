@@ -1,10 +1,10 @@
-vless://8533193b-32b6-45b8-898e-cce032ce0f83@sto5.vpntype.dev:443?security=tls&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
-vless://0497bdee-91e1-4cf3-845a-7ae584da04fd@95.179.223.182:8080?security=&type=ws&path=/&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
-vless://%40v2rayng_vpnn@91.107.158.170:50487?security=reality&sni=mmd.10.isovpn.shop&fp=chrome&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&type=tcp&flow=xtls-rprx-vision&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
-vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
-vless://TELEGRAM-NUFiLTER-ebe108ec990e@nufilter.fastly80-2.hosting-ip.com:80?security=&type=ws&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D8080&host=Germany2.vip-nufilter.coM&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.148:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#👉🆔@v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.148:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://V2RAXX@151.101.0.155:80?security=&type=ws&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&host=V2RAXX.ir&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.188.41:80?security=&type=ws&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?security=tls&sni=dd14.mehdit.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=dd14.mehdit.ir&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪Germany
+trojan://SSorg@108.165.152.98:2087?security=tls&sni=sstjj.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳India
+vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?security=tls&sni=dd14.mehdit.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=dd14.mehdit.ir&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@27.50.49.207:443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇭🇰Hong Kong
+vless://7c332c6e-c404-40e3-e747-204db5f0655a@64.176.165.106:8080?security=&type=ws&path=/&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇱Israel
+vless://7c332c6e-c404-40e3-e747-204db5f0655a@64.176.165.106:8080?security=&type=ws&path=/&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇱Israel
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.184.48:2052?security=&type=ws&path=/?ed%3D2560&host=0118.kznyoum2.workers.dev&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦Canada
