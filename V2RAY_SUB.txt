@@ -1,10 +1,10 @@
-vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@3.20.84.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@13.37.197.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://telegram--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.138.134:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@3.20.84.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:5785?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=none&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://6e3b5249-cc47-4cd7-b1d1-a578154317a4@tg-eliv2.f-35.store:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
