@@ -1,10 +1,10 @@
-vless://7b87be72-38c3-487a-c997-8d8e0a83e572@194.5.193.73:26469?path=%2Froshdcollection&security=none&encryption=none&host=check-host.net&type=ws#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://V22RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://V22RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://868e5f25-0487-4c16-8a7e-156459245ba7@172.64.32.85:443?security=tls&sni=6z9kc5.gamvpn.com&type=ws&host=6z9kc5.gamvpn.com&path=/wss&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.5:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://868e5f25-0487-4c16-8a7e-156459245ba7@172.64.32.85:443?security=tls&sni=6z9kc5.gamvpn.com&type=ws&host=6z9kc5.gamvpn.com&path=/wss&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@154.213.191.115:2093?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY0LjIyNS4xMDkuMjA2IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDgyNjRiNDUtNjRiOC00ZTlmLThhODgtY2VmNDFmMjBjNzM2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJodHRwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://79ba668f-14fc-4f0a-aae3-9b4bb0fd012c@172.64.33.81:443?security=tls&sni=wgw5iq.allgums.com&type=ws&host=wgw5iq.allgums.com&path=/wss&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.5.66:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@154.213.191.115:2093?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@51.24.10.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://79ba668f-14fc-4f0a-aae3-9b4bb0fd012c@172.64.33.81:443?security=tls&sni=wgw5iq.allgums.com&type=ws&host=wgw5iq.allgums.com&path=/wss&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@157.254.21.69:443?security=reality&encryption=none&pbk=L9bdPVJar46YyWxpCPXz4trctDD4r4Z5zL1H1zHX8nY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
