@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://a8825dc6-b89f-4f0e-adb2-edca2f3f950c@109.104.154.221:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.samsung.com&fp=chrome&pbk=o7E0KcEs6s7slWBNP7dPN4qMpGuR9oBB3sSQsnCR2hE&sid=6b279ffbe75b5190#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://d3fbf0fb-9202-5db2-929c-927695a554bc@94.131.12.203:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ch2.vless.site#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SURYQlUtRm43eXNsc3VfSUV2alBn@109.104.154.221:5555#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.87.217:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3b1d1f45-a6a7-4376-996d-fac90b775b96@207.154.214.110:2088?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4bcf1f64-51e1-5663-b09e-d54115e09149@74.119.195.5:2052?path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
