@@ -1,10 +1,10 @@
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.59.46:2052?type=ws&host=0118.kznyoum2.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://baadeea6-3395-40dd-96eb-0380bb333c9e@91.134.72.97:2053?security=none&type=tcp&host=fast.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.127.65:2052?type=ws&host=0118.kznyoum2.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.127.65:2052?type=ws&host=0118.kznyoum2.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-150@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://Parsashonam-150@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.58.158:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.17.5:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.34:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.59.46:2052?type=ws&host=0118.kznyoum2.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.206.131:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.206.131:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://646070ca-d193-41ed-a3c9-224b451fcf8f@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://646070ca-d193-41ed-a3c9-224b451fcf8f@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
