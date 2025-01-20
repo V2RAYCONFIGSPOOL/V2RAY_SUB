@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZWFhZDlGWXl5YVF6dGh3bFVyUHlM@62.210.88.22:443#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlRvQjBBV21pUUQxMGJVRVI5U2hR@78.129.140.11:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?path=%3F%3D9090&security=none&encryption=none&host=External_Net.org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4f3aafc8-68d2-4d03-a5e5-e571484c16ab@s1mci.roshoping.ir:43802?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxb25LRUJKVFNUbHA1V3pacGFoRlFz@62.210.88.22:443#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?path=%3F%3D9090&security=none&encryption=none&host=External_Net.org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4f3aafc8-68d2-4d03-a5e5-e571484c16ab@s1mci.roshoping.ir:43802?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SjQ0RHA1TnV4TDJzUEpuN25pZkJW@51.158.252.130:443#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMDNWTzRTOWJGdW5YUnZ0aHNacENr@62.210.88.22:443#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSjd3eVJnWDg2V3lXdDZIUWlud25E@51.158.252.130:443#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://646070ca-d193-41ed-a3c9-224b451fcf8f@c1.vact.ir:2083?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=randomized&sni=refersion.com&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&sid=90278dfc&spx=/#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=tr2.vless.site#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=tr2.vless.site#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=tr2.vless.site#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
