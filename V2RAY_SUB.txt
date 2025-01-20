@@ -1,10 +1,10 @@
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@157.254.21.69:443?security=reality&encryption=none&pbk=L9bdPVJar46YyWxpCPXz4trctDD4r4Z5zL1H1zHX8nY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.87:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.87:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://eb28421c-e60a-5088-90f3-c6eb05c8ac2d@2.56.126.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://eb28421c-e60a-5088-90f3-c6eb05c8ac2d@2.56.126.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://eb28421c-e60a-5088-90f3-c6eb05c8ac2d@2.56.126.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
 vless://eb28421c-e60a-5088-90f3-c6eb05c8ac2d@2.56.126.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://eb28421c-e60a-5088-90f3-c6eb05c8ac2d@2.56.126.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://eb28421c-e60a-5088-90f3-c6eb05c8ac2d@2.56.126.49:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://Channel--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTk4LjEyLjEyMS4xNjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMyIsICJmcCI6ICIiLCAiaG9zdCI6ICJmYXRjYXQubmV2ZXJnb25uYWdpdmV5b3V1cC50b3AiLCAiaWQiOiAiOTdhMjExNzItODlhMC00MTFlLWIwMTctNmEyN2M2MWM3NDNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTIwNDgiLCAicG9ydCI6ICIyNDg2MyIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiZmF0Y2F0Lm5ldmVyZ29ubmFnaXZleW91dXAudG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
