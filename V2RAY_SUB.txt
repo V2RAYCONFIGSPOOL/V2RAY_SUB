@@ -1,10 +1,10 @@
-vless://affc1eee-107f-4212-9d37-2d2632f80712@145.223.103.84:27241?security=reality&sni=refersion.com&type=grpc&fp=firefox&pbk=VCW4l_1fi6IdVkhycYzenSJ-YHLpjD0rnwUZvxiLYwE&sid=e6ed2dc0#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://affc1eee-107f-4212-9d37-2d2632f80712@145.223.103.84:27241?security=reality&sni=refersion.com&type=grpc&fp=firefox&pbk=VCW4l_1fi6IdVkhycYzenSJ-YHLpjD0rnwUZvxiLYwE&sid=e6ed2dc0#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://e2c9b134-0e44-4aaf-9889-3b77dd04c188@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://15e6e393-3800-49b7-bfc5-da72e1cb6197@65.109.180.87:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://15e6e393-3800-49b7-bfc5-da72e1cb6197@65.109.180.87:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://15e6e393-3800-49b7-bfc5-da72e1cb6197@65.109.180.87:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c9048136-f0e6-aec0-81ce-093876ebf6fb@Tu10.PcStoReaRsofT.iR:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Tu10.PcStoReaRsofT.iR.&fp=randomized&type=ws&sni=Tu10.PcStoReaRsofT.iR#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c9048136-f0e6-aec0-81ce-093876ebf6fb@Tu10.PcStoReaRsofT.iR:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Tu10.PcStoReaRsofT.iR.&fp=randomized&type=ws&sni=Tu10.PcStoReaRsofT.iR#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@sg.stablize.top:443/?type=tcp&security=tls&sni=sg.stablize.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.28.141:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.28.141:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
