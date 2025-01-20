@@ -1,10 +1,10 @@
-vless://807b2717-e1ac-4209-933b-b04076cddde9@206.238.236.8:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.ambercc.filegear-sg.me&type=ws&sni=amedo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443?security=tls&headerType=&type=tcp&sni=customer-45-67-229-222.stark-industries.solutions#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
-vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@dd6.asalemaraghe.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd6.asalemaraghe.ir&fp=chrome&type=ws&sni=dd6.asalemaraghe.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://SSorg@206.238.236.16:443?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://blue2024@5.182.84.179:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://Aimer@66.81.247.88:2083?path=%2F%3Fed&security=tls&host=amepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=amepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443/?type=tcp&security=tls&sni=customer-77-91-72-197.stark-industries.solutions&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSXN2elhuVDFaNk5Gb2VhZHF5RENx@109.120.186.231:11329#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://807b2717-e1ac-4209-933b-b04076cddde9@27.50.48.189:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.ambercc.filegear-sg.me&type=ws&sni=amedo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://blue2024@172.67.77.244:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dFB1MGVpenA0SFliTHBuMjhPT0Va@79.137.202.71:55198#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2ea930bc-82fd-4f97-a449-a286474989ca@65.109.185.223:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://2ea930bc-82fd-4f97-a449-a286474989ca@65.109.185.223:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+trojan://bpb-trojan@104.21.30.195:443/?type=tcp&security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVXJTZmZlTkFCWEdYWGZOaG9MNnhCVW5oMVJ6cU1penJRMnM5UWZDMzhQMllQdVlQUlRxVzV6Wmc2akdpc2lOaGt6TTRTUmpGNm56dkZiMThHUHRFU1dvWFdqaHF5Qzg@198.105.123.190:46902#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://blue2024@185.148.106.55:443?security=tls&headerType=&type=tcp&sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+trojan://SSorg@65.109.199.131:443?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@www.visa.com:2052?security=&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@108.162.195.135:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
