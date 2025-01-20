@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@ca.stablize.top:443/?type=tcp&security=tls&sni=ca.stablize.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.207.106.242:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.105:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63@108.61.171.227:443?security=tls&sni=hdfyrplcpnl1.freeairlians.com&type=ws&host=hdfyrplcpnl1.freeairlians.com&path=/PaavgVfC7wqXrfw3l&fp=chrome&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.207.106.242:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.105:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p231.panda004.net:61238#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&path=/vless%23@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.242:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4f5098c2-809b-4ae4-f3dd-b7a5d1312606@194.5.193.73:26469?security=none&type=ws&host=check-host.net&path=%2Froshdcollection#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.166.83:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.242:80/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
