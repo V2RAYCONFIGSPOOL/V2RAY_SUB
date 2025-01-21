@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-trojan://0000000@www.lovelive-anime.jp:443/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-vless://5d1ebf76-cf1a-428b-de2c-8612941addb1@199.247.1.207:8080?type=ws&security=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://80ad18fc-a94b-4d38-87ba-80d7b996fdee@70.34.242.237:8080?type=ws&security=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://8b25fc49-fa81-40b0-8971-fb44efcb0276@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=xf38i2.testsnew.com&type=ws&alpn=http/1.1&host=xf38i2.testsnew.com&path=/wss#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8b56a400-bd09-4739-83e4-f83755dc98f3@173.199.70.44:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6bdeaa-b7eb-44d5-841c-ea4ca3ed8d32@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c2d0a8c0-20fb-44c6-8111-1c50019b5c6d@a11.kiodent.ir:2053?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
