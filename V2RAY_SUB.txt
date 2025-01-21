@@ -1,10 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.244.28:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.123.60.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://caabbac-aabc-abac-acdb-bccacbbaacba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.55.205:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d7e61bb2-1dc0-4423-bbfa-75ac9eb86133@91.107.144.232:20708?type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@104.17.147.22:80?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir2.ir.&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.251.208.82:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.55.205:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.251.208.82:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://3723507166611775488@80.240.112.167:443?allowInsecure=0&sni=ample-cockatoo.boa152.lol#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://d7e61bb2-1dc0-4423-bbfa-75ac9eb86133@91.107.144.232:20708?type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ZEDMODEON--biainZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
