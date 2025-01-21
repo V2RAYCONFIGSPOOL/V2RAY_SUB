@@ -1,10 +1,10 @@
-vless://bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:2086/?type=ws&encryption=none&host=0121.v69a2770.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:2086/?type=ws&encryption=none&host=0121.v69a2770.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://f6aa25e8-0a8a-4328-93f7-5af7680e8710@80.71.149.53:8880/?type=ws&encryption=none&host=bama.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://f6aa25e8-0a8a-4328-93f7-5af7680e8710@80.71.149.53:8880/?type=ws&encryption=none&host=bama.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:8080/?type=ws&encryption=none&host=0121.v69a2770.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0da58b20-074d-4347-ad4d-37be3e8f3524@faculty.ucdavis.edu:443/?type=ws&encryption=none&host=Join-Bede---MOSiv2.IR&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&security=tls&sni=faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0da58b20-074d-4347-ad4d-37be3e8f3524@faculty.ucdavis.edu:443/?type=ws&encryption=none&host=Join-Bede---MOSiv2.IR&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&security=tls&sni=faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880/?type=grpc&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:8080/?type=ws&encryption=none&host=0121.v69a2770.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880/?type=grpc&encryption=none&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
+vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80/?type=ws&encryption=none&host=rs1.vless.sitespeedtest.net&path=%2Fvless%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇷🇸Serbia
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344747230.amsterdam-blk-dra.info:8880/?type=grpc&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344747230.amsterdam-blk-dra.info:8880/?type=grpc&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880/?type=grpc&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v7.vixsm.ir:6880/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344752898.amsterdam-blk-dra.info:8880/?type=grpc&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
