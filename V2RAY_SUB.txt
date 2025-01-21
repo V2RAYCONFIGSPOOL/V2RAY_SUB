@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-vless://c650b795-aa5b-49d4-9cec-4c3c7ba6c31f@172.66.213.38:443?mode=auto&path=%2FZfr830dnZP1HI14E52Wh&security=tls&alpn=h3&encryption=none&host=mansdhuuidjcn.vip202030.com.tr&fp=chrome&type=xhttp&sni=mansdhuuidjcn.vip202030.com.tr#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFT2svYklqOFhFUjZiMGtqVlF4dU0vaUxNVEU3UDhoL1BUL1JDSTJaMndnPQ%3D%3D@45.150.32.46:37904#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag%3D%3D@45.140.146.223:8388#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER-a8@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://UO2beikcWh@38.59.245.38:33261?security=tls&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://9Bb6wjlTOA@x14spain.devefun.net:1935?security=tls&headerType=none&type=tcp&sni=x14spain.devefun.net#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://2b56d8d9-1f1f-4560-e77d-0984dc4ec776@140.82.55.184:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://2b56d8d9-1f1f-4560-e77d-0984dc4ec776@140.82.55.184:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://TELEGRAM-NUFiLTER-a8@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
