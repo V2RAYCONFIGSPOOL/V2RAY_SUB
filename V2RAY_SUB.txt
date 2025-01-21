@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.92.72:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2MxNDEyNy1jZjRlLTRlNmItYTIyMi1iZWVkZGIwMmZmNjY%3D@68.183.225.139:30443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVF3WmpGaw%3D%3D@95.164.36.59:8388#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgImFpZCI6IDEsICJob3N0IjogIjU3LjEyOS4yNS4yMCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFHZXJtYW55In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://cd2ca5d5-fe23-44fb-8cf1-bb68e00e7cd4@151.101.130.133:443?security=tls&type=ws&headerType=&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net%3Fed%3D2048&host=externalch.org&sni=www.sunshinecity.co.jp&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://v2rayng__76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7c1c7660-b5cc-45b7-9c36-5334002ee7aa@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=tr2.vless.site#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+vless://d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?mode=auto&path=%2F%40custom_config%2F%3FTelegram%20%3A&security=reality&encryption=none&pbk=CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4b272f845593#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg%3D%3D@95.164.44.221:8388#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://cd2ca5d5-fe23-44fb-8cf1-bb68e00e7cd4@151.101.3.8:80?security=none&type=ws&headerType=&path=%3F%3D9090&host=External_Net.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://cd2ca5d5-fe23-44fb-8cf1-bb68e00e7cd4@151.101.3.8:80?security=none&type=ws&headerType=&path=%3F%3D9090&host=External_Net.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d02dace2-915e-48cc-d2d3-70af51e050ea@45.85.93.207:2052?type=xhttp&security=reality&path=%2F&host=&mode=auto&sni=sourceforge.net&pbk=XzaThALXQcR7GTw6ODP0zIk5zeBosJ6HbTExmrUSq24&sid=4ddd944e&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
