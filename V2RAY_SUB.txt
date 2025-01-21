@@ -1,10 +1,10 @@
-vless://91e99ca7-60c1-4026-c470-cfd966890399@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=uivtfybyi.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://48eccebc-1e36-4c60-b088-55fb793f6688@162.159.44.236:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ababacc-baac-baac-bdac-abbbaccabacc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@103.116.7.1:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8e3cc3fc-7d9c-44d3-85fe-09bda9f02ac6@151.101.128.155:80?type=ws&host=jetservices55.ir&path=CANALTELEGRAM--@jet_config--CANALTELEGRAM--@jet_config#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@162.159.44.236:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@103.116.7.1:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@162.159.44.236:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?type=ws&host=teleirani.ir&path=/vless-ws/@MARAMBASHI_MARAMBASHI/?ed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@185.59.218.32:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://ababacc-caba-cbaa-dacb-cacbbcbcaaba@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=uivtfybyi.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@162.159.44.236:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?type=ws&host=teleirani.ir&path=/vless-ws/@MARAMBASHI_MARAMBASHI/?ed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://28473f96-1907-43cd-b5fc-4163e6d5376f@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://7c1c7660-b5cc-45b7-9c36-5334002ee7aa@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
