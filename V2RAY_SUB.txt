@@ -1,10 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@45.90.96.19:443?mode=packet-up&path=%2Fln2ray%2F%3FJOKERRVPNTelegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@45.90.96.19:443?mode=packet-up&path=%2Fln2ray%2F%3FJOKERRVPNTelegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443?security=reality&encryption=none&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refersion.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://c9682427-e6f8-5b96-844d-e5b9847e3dac@95.164.62.230:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=vpnAndroid2.v2vless.site#👉🆔 @v2ray_configs_pool📡🇧🇪Belgium
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=gr2.vless.site#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
+vless://caabbca-caba-bcaa-bcda-cbbccbaacbaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://37d963f9-1478-4df6-8862-5bf16eacadda@151.101.128.155:80?type=ws&path=/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@172.67.153.253:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@161.145.150.14:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@45.67.214.41:2083?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
