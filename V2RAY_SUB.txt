@@ -1,10 +1,10 @@
-vless://9f7785b0-d8c6-493c-8cfd-7fbde278be33@outshop.bestshop10.ir:26745/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://4188bdf7-b9ed-466d-86de-0eedc46de412@bestco.bestshop10.ir:40240/?encryption=none&host=canva.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQkYyRXpSVndkT0t5RGRld2lJTmxP@213.176.66.228:24495#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://4ef9ddd2-222f-430a-b7d6-fd922293a4ef@213.176.66.228:37021/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&sid=bc721eb6#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441/?type=tcp&encryption=none&sni=tile.openstreetmap.org&fp=chrome&security=reality&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&sid=be4243#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880/?type=grpc&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=itunes.apple.com&sid=6ba85179e30d4fc2&fp=chrome&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTEyOC1nY206YzU5MmVlMGItODA3Yi00ZDcyLWI4YWYtYjhlZTM2NjZiNDk0@92.242.164.42:8882#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+trojan://telegram-id-directvpn@16.16.87.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://469e6ccd-2052-4e90-b015-a12e5f5bdb23@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6MlduZDdiejdkclFYckVIV0JwNmRh@77.83.246.74:443#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4SWN3bnk5eGpwU2E0YkJJeTgxbzY2@89.185.84.185:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6MlduZDdiejdkclFYckVIV0JwNmRh@77.83.246.74:443#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6MlduZDdiejdkclFYckVIV0JwNmRh@77.83.246.74:443#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://3e70b838-2d4d-4262-ffaf-377e1e7bdaa6@104.17.148.22:2082?path=yakuzaytarmin%3Fed%3D2082&security=none&encryption=none&host=yakuasubcha.poqpoq.shop.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b56d8d9-1f1f-4560-e77d-0984dc4ec776@140.82.55.184:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
