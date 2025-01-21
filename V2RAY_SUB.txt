@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.156.248.11:990#👉🆔 @v2ray_configs_pool📡🇧🇦Bosnia and Herzegovina
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFpoTlRBeg%3D%3D@89.221.224.166:8388#👉🆔 @v2ray_configs_pool📡🇮🇸Iceland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.114:8118#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#👉🆔 @v2ray_configs_pool📡🇹🇭Thailand
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://74beb0a8-dff1-4dc7-99e3-64a2704662e4@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
