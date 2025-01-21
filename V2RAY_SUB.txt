@@ -1,10 +1,10 @@
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1&type=tcp#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://c9682427-e6f8-5b96-844d-e5b9847e3dac@95.164.62.230:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=vpnAndroid2.v2vless.site#👉🆔 @v2ray_configs_pool📡🇧🇪Belgium
-vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=gr2.vless.site#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
-vless://caabbca-caba-bcaa-bcda-cbbccbaacbaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://37d963f9-1478-4df6-8862-5bf16eacadda@151.101.128.155:80?type=ws&path=/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@172.67.153.253:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@161.145.150.14:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@45.67.214.41:2083?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@104.17.148.22:2052?security=none&type=httpupgrade&host=FN.CafeBazarZzZ.IP-DDNS.COM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://Aimer@27.50.49.224:8443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFT2svYklqOFhFUjZiMGtqVlF4dU0vaUxNVEU3UDhoL1BUL1JDSTJaMndnPQ%3D%3D@45.150.32.46:37904#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2V3FBM00ybllHblZNNGx4RFRRSXVD@45.129.185.82:42750#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
+vless://ee2310a2-3826-4732-9469-9768b1409b99@premiium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://ee2310a2-3826-4732-9469-9768b1409b99@premiium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://ee2310a2-3826-4732-9469-9768b1409b99@premiium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://ee2310a2-3826-4732-9469-9768b1409b99@premiium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=telegram.hutch.lk#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://ee2310a2-3826-4732-9469-9768b1409b99@premiium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=partner.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
