@@ -1,10 +1,10 @@
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443?security=reality&encryption=none&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.refersion.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f3386570-fbed-4adb-ba0a-0cd0e663965e@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&serviceName=&sni=refersion.com&sid=90278dfc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.150.152.56:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.150.152.56:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.113:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@23.154.136.176:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.157.40.101:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFT2svYklqOFhFUjZiMGtqVlF4dU0vaUxNVEU3UDhoL1BUL1JDSTJaMndnPQ%3D%3D@45.150.32.46:37904#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://7204ddc9-8076-493a-9b0b-d53afe7011e6@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&serviceName=&sni=refersion.com&sid=11a4b6bca8#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2V3FBM00ybllHblZNNGx4RFRRSXVD@45.129.185.82:42750#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@54.36.174.181:8009#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
