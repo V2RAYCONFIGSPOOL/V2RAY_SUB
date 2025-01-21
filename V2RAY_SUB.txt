@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@109.205.9.7:52952#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://84583e1e-a992-5344-a7f9-7645515c378b@185.250.150.220:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://84583e1e-a992-5344-a7f9-7645515c378b@185.250.150.220:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@103.116.7.189:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@103.116.7.220:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@5.182.85.189:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
 trojan://Aimer@108.165.152.38:8443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇮🇳India
 trojan://Aimer@108.165.152.59:2087?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇮🇳India
-trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@27.50.49.251:2083?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://Aimer@103.116.7.189:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
