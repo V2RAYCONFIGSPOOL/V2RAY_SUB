@@ -1,10 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@104.17.148.22:2052?security=none&type=httpupgrade&host=FN.CafeBazarZzZ.IP-DDNS.COM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://37d963f9-1478-4df6-8862-5bf16eacadda@151.101.128.155:80?type=ws&path=/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://caabbca-caba-bcaa-bcda-cbbccbaacbaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@104.17.148.22:2052?security=none&type=httpupgrade&host=FN.CafeBazarZzZ.IP-DDNS.COM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://37d963f9-1478-4df6-8862-5bf16eacadda@151.101.128.155:80?type=ws&path=/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 trojan://Aimer@27.50.49.224:8443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://Aimer@161.145.150.14:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-vless://8274a9f0-f7ed-4384-8c69-6bf8a98d19a6@172.67.153.253:443?security=tls&sni=us2_tg_fxnodes.sfacg.uk&type=ws&host=us2_tg_fxnodes.sfacg.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@45.67.214.41:2083?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFpoTlRBeg%3D%3D@89.221.224.166:8388#👉🆔 @v2ray_configs_pool📡🇮🇸Iceland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#👉🆔 @v2ray_configs_pool📡🇹🇭Thailand
