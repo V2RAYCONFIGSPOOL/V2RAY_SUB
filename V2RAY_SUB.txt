@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAiMTgzLjIzNi41MS4zNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1OTAwMyIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&headerType=&type=tcp&sni=customer-94-131-115-71.stark-industries.solutions#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://blue2024@173.245.49.162:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@154.197.64.132:2053?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@92.243.74.23:2096?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇭Cambodia
-trojan://Aimer@108.165.152.143:2087?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇳India
-trojan://blue2024@185.135.9.123:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://blue2024@104.24.148.233:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.17.46.129:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://0000000@3.168.86.38:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://0000000@52.85.132.106:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@188.164.158.69:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.99.4:80?security=&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAieW95by5jbXlpcGhvbmUudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNjFkNDJkNS00ZTZhLTQ2NjEtYmUwNC04MGRjZmIxNWIwOGYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ5MzE4IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDaGluYSJ9
+trojan://SSorg@108.165.152.18:2087?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇳India
+trojan://SSorg@35.177.50.118:443?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://blue2024@108.162.195.135:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://SSorg@172.67.172.63:2087?security=tls&headerType=&type=tcp&sni=sstjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTUuMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDIiLCAic2N5IjogIm5vbmUiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
+trojan://Aimer@5.182.85.28:443?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
