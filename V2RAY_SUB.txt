@@ -1,10 +1,10 @@
-trojan://blue2024@104.26.11.222:443?security=tls&headerType=&type=tcp&sni=tc.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.17.31.182:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ZEDMODEON--ZEDMODEON@85.239.149.222:30809?security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇨🇲Cameroon
-trojan://blue2024@185.238.228.178:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://blue2024@104.19.142.99:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&headerType=&type=tcp&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@172.64.35.194:443?security=tls&headerType=&type=tcp&sni=tc.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@45.158.22.33:443?security=tls&headerType=&type=tcp&sni=us2.vpn.ong#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://df9f267c-b70b-4c62-b5c1-04ca8dba3662@finland.parsv2ray.site:8443?security=&encryption=none&pbk=8Hw1uj_BX5LfP3QPBsQpHdOlDSRQrYwsnQeTM4FeVmQ&fp=randomized&type=grpc&sni=stackoverflow.com&sid=69dae4#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-trojan://SSorg@108.162.194.221:2096?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.38.133:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5badf258-0313-418d-b9e6-95a52eefcf00@45.196.233.58:443?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5badf258.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443?security=tls&headerType=&type=tcp&sni=customer-95-164-85-39.stark-industries.solutions#👉🆔 @v2ray_configs_pool📡🇩🇰Denmark
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&headerType=&type=tcp&sni=jobscareertoday.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&headerType=&type=tcp&sni=hk03.trojanyyds.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://0000000@3.168.86.96:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://0000000@52.85.132.119:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://SSorg@162.159.38.103:2083?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.17.64.70:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@162.159.44.188:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
