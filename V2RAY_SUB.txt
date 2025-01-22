@@ -1,10 +1,10 @@
-vless://e56afdb0-18f4-497c-a922-c00e85272620@108.162.194.232:443?security=tls&sni=7eb5ob.isfshzist.com&type=ws&host=7eb5ob.isfshzist.com&path=%2Fwss&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e56afdb0-18f4-497c-a922-c00e85272620@108.162.194.232:443?security=tls&sni=7eb5ob.isfshzist.com&type=ws&host=7eb5ob.isfshzist.com&path=%2Fwss&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5f0baf2f-733e-455c-aaff-0620ecd4bba8@92.114.20.12:1010?security=none&type=tcp&host=www.speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5f0baf2f-733e-455c-aaff-0620ecd4bba8@92.114.20.12:1010?security=none&type=tcp&host=www.speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://c8aa52f3-dea3-4a84-b8d8-87938c1dd177@91.107.255.95:443?security=tls&sni=ad4.transitkala.com&type=ws&host=ad4.transitkala.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://333baf8a-d8f4-4284-b0d1-4763f9d701fe@188.34.201.88:16072?type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://333baf8a-d8f4-4284-b0d1-4763f9d701fe@188.34.201.88:16072?type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:8880?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5f0baf2f-733e-455c-aaff-0620ecd4bba8@92.114.20.12:1010?security=none&type=tcp&host=www.speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://39c52f22-574e-5af4-be77-d91c960e2450@5.252.23.133:2052?security=none&type=ws&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#👉🆔 @v2ray_configs_pool📡🇸🇰Slovakia
-vless://c8aa52f3-dea3-4a84-b8d8-87938c1dd177@91.107.255.95:443?security=tls&sni=ad4.transitkala.com&type=ws&host=ad4.transitkala.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:8880?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@13.37.94.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
