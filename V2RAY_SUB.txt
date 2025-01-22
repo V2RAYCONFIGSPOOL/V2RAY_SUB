@@ -1,10 +1,10 @@
-trojan://bpb-trojan@172.67.2.238:443?security=tls&headerType=&type=tcp&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@pranab.ns.cloudflare.com:443?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.17.83.149:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@172.64.35.83:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b61febd6-fee6-4c4a-886b-0331daa0b4e8@academi_vpn.fastly80.hosting-ip.com:80?security=&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@104.19.120.87:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@172.64.146.66:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@160.153.0.167:443?security=tls&headerType=&type=tcp&sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@91.195.240.12:443?security=tls&headerType=&type=tcp&sni=trld.ballistics.top#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://blue2024@172.67.77.244:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@162.159.39.190:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.17.28.100:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.83.38:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.67.130.85:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@141.11.203.98:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+vless://ZEDMODEON--ZEDMODEON@77.221.153.90:33502?security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://dfe1ef9b-e590-3b93-816a-e58a908bce99@103.136.185.28:3516?security=tls&headerType=&type=tcp&sni=origin-a.akamaihd.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@172.67.142.60:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.21.30.195:443?security=tls&headerType=&type=tcp&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@162.159.44.192:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
