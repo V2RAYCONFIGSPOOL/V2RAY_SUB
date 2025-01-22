@@ -1,10 +1,10 @@
-trojan://blue2024@162.159.39.190:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@104.17.28.100:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@172.64.83.38:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@172.67.130.85:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://bpb-trojan@141.11.203.98:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-vless://ZEDMODEON--ZEDMODEON@77.221.153.90:33502?security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://dfe1ef9b-e590-3b93-816a-e58a908bce99@103.136.185.28:3516?security=tls&headerType=&type=tcp&sni=origin-a.akamaihd.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@172.67.142.60:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://bpb-trojan@104.21.30.195:443?security=tls&headerType=&type=tcp&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@162.159.44.192:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.19.54.222:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@198.41.205.237:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.84.113:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://80055aeb-f441-5fac-9f73-9b25a416e450@95.164.46.154:2052?path=%2Fvless%23%40V2RAY\_SPATIAL%2C&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?encryption=none&security=none&sni=tr2.vless.site&type=grpc&authority=&serviceName=vless-grpc&mode=gun#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://1fb52030-a522-4665-8a35-09b6710b062d@v06.blkrose.ir:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519&type=grpc&authority=&serviceName=2053vless&mode=gun#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://4c583599-2554-49b8-9b7f-13b9ceb08aff@192.248.156.46:8080?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://d3fbf0fb-9202-5db2-929c-927695a554bc@94.131.12.203:2086?encryption=none&security=none&sni=ch2.vless.site&type=grpc&authority=&serviceName=vless-grpc&mode=gun#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://1fb52030-a522-4665-8a35-09b6710b062d@v26.blkrose.ir:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519&type=grpc&authority=&serviceName=2053vless&mode=gun#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?encryption=none&security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
