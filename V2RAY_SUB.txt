@@ -1,10 +1,10 @@
-trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&headerType=&type=tcp&sni=z9.gozargah.one#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://WOeXShhJpL@172.67.67.64:443?security=tls&headerType=&type=tcp&sni=09jzus.zdzdzd.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://3723507166611775488@35.155.4.93:443?security=tls&headerType=&type=tcp&sni=usable-toad.treefrog761.one#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@27.50.48.126:2083?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://blue2024@104.20.8.70:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.16.221.250:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&headerType=&type=tcp&sni=sg02.trojanyyds.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://blue2024@172.64.174.37:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Jncm1NRGbZ@172.67.175.243:8443?security=tls&headerType=&type=tcp&sni=frankfoortvip.followprovider.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@103.224.182.210:443?security=tls&headerType=&type=tcp&sni=ca.stablize.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@108.162.195.110:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@172.67.210.4:2083?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@198.62.62.4:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@104.18.181.179:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://0000000@3.168.86.35:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@162.159.21.210:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.19.185.248:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.106.205:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@154.206.12.164:443?security=tls&headerType=&type=tcp&sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@172.67.24.134:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
