@@ -1,10 +1,10 @@
-trojan://blue2024@108.162.195.110:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@172.67.210.4:2083?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@198.62.62.4:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@104.18.181.179:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://0000000@3.168.86.35:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@162.159.21.210:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.19.185.248:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@172.64.106.205:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@154.206.12.164:443?security=tls&headerType=&type=tcp&sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@172.67.24.134:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@172.67.2.238:443?security=tls&headerType=&type=tcp&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@pranab.ns.cloudflare.com:443?path=%2F%3Fed&security=tls&host=acepo.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.17.83.149:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.35.83:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b61febd6-fee6-4c4a-886b-0331daa0b4e8@academi_vpn.fastly80.hosting-ip.com:80?security=&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.19.120.87:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.146.66:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@160.153.0.167:443?security=tls&headerType=&type=tcp&sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@91.195.240.12:443?security=tls&headerType=&type=tcp&sni=trld.ballistics.top#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://blue2024@172.67.77.244:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
