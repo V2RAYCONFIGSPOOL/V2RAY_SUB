@@ -1,10 +1,10 @@
-vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?security=reality&encryption=none&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.111:3237?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.150.152.56:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇸🇰Slovakia
-vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@media.sanaiegh.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F&security=tls&encryption=none&host=magdl.ir&type=ws&sni=anchor.fm#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://bb203cdb-7ef8-4f64-90b4-fea09c992a0c@45.83.140.92:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY%3D@[2605:8340:0:b:5ee2:3c0c:c5c3:1]:80#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4b14e5e3-9853-4eb3-bd57-0de10693b103@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f9ee4961-cf1d-4a11-9791-8597304ee33e@tnl1.chocolate2001.pw:2052?path=%2F&security=none&encryption=none&host=cd1.chocolate2001.pw&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
