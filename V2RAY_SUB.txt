@@ -1,10 +1,10 @@
-vless://1d970ce6-f8f7-4ea5-b163-4094871af5a5@gem.talashit.com:8282?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://1d970ce6-f8f7-4ea5-b163-4094871af5a5@gem.talashit.com:8282?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?mode=auto&path=%2F4ca8471c&security=reality&encryption=none&pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=1b7d7614d14c#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiaGFuaS5tZ3BpbmdtZy5zaG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0NGFjYzgwNi02NzFmLTRhZGItYmJmOC0yMzRiNzVhODUxMWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjU0Nzk2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjdJcmFuIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://034ff80c-d56f-400d-bb00-958d4b6e5cb5@162.159.195.157:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1d970ce6-f8f7-4ea5-b163-4094871af5a5@gem.talashit.com:8282?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://2088fc1a-af25-4dfb-a4ad-9cbd11e13fdb@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipVRay-Telegram-ipVRay-Telegram-ipVRay-Telegram-ipVRay-Telegram-ipVRay&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://Ng35283528@gozargah2.cloudflare3-80.hosting-ip.com:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
