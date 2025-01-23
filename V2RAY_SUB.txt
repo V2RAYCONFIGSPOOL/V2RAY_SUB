@@ -1,10 +1,10 @@
-hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&sni=66.135.11.68&obfs=salamander&obfs-password=13f7ba5f#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68619@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.116.18:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-hy2://2b3cc655-dd8e-4258-8a05-81e895daad43@meiyou-sg.jiumaojiu.org:443/?mport=20501-20599&sni=meiyou-sg.jiumaojiu.org#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.185.199:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.128.247.150:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://4883ec58-f7ba-440e-a1ad-748ea662a12b@fffwkl.naisicloud.xyz:35600/?insecure=1&sni=fffwkl.naisicloud.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.51.39:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://2b3cc655-dd8e-4258-8a05-81e895daad43@meiyou-us.jiumaojiu.org:443/?mport=20501-20599&sni=meiyou-us.jiumaojiu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.139.208.132:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://92dc14c5-e2b0-41bc-9827-1b687295c530@rb2.xiaofeixia.cyou:2052/?insecure=1&sni=rb2.xiaofeixia.cyou#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.231.230.109:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://a0605527-28e4-449c-80ee-5642cc16a8af@176.124.202.137:80/?insecure=1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.50.183:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://4883ec58-f7ba-440e-a1ad-748ea662a12b@hhhk.naisicloud.xyz:35600/?insecure=1&sni=hhhk.naisicloud.xyz#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+hy2://a0605527-28e4-449c-80ee-5642cc16a8af@br.huafei888.site:80/?insecure=1&sni=br.huafei888.site#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://2b3cc655-dd8e-4258-8a05-81e895daad43@meiyou-hk.jiumaojiu.org:443/?mport=20501-20599&sni=meiyou-hk.jiumaojiu.org#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.250.51.74:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://Hy2+3313033@jparm1.870710.xyz:38787/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
