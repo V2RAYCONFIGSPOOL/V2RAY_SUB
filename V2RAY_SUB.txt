@@ -1,10 +1,10 @@
-vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@jermaine.ns.cloudflare.com:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=y64n10.soroush-app.com&type=ws&sni=y64n10.soroush-app.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@jermaine.ns.cloudflare.com:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=y64n10.soroush-app.com&type=ws&sni=y64n10.soroush-app.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@jermaine.ns.cloudflare.com:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=y64n10.soroush-app.com&type=ws&sni=y64n10.soroush-app.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s4.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s4.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@sp.apitechmaster.tech:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=michi&sni=yomyauqpy.wwtraveler.com#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@jermaine.ns.cloudflare.com:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=y64n10.soroush-app.com&type=ws&sni=y64n10.soroush-app.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@sp.apitechmaster.tech:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=michi&sni=yomyauqpy.wwtraveler.com#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@sp.apitechmaster.tech:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=michi&sni=yomyauqpy.wwtraveler.com#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s5.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s5.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
