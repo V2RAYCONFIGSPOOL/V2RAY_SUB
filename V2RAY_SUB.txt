@@ -1,10 +1,10 @@
-trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://SVNTEAM@151.101.194.133:443/?type=ws&path=%2FSVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM%3Fed%3D8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s14.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s14.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s15.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s15.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s4.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s4.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s5.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s5.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s17.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s17.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s6.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s6.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s7.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s7.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s18.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s18.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s8.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s8.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://15b5b25d-d5dd-4e8c-bfbc-0bd904521a17@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://user@s19.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s19.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s9.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s9.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s20.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s20.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
