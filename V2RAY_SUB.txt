@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@52.60.217.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@15.223.14.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@3.147.250.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@18.118.190.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@44.207.53.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@13.60.109.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://d6143486-36c8-445b-b2b5-f3d389298f72@44.222.237.59:8080?mode=auto&path=%2F&security=reality&encryption=none&pbk=yXtksaZJPAeCdqGkd9OzsufzBj9uGEOTOP4Dm9003GU&host=api.openai.com&fp=chrome&spx=%2F&type=xhttp&sni=api.openai.com&sid=721e34c7#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://telegram--ISVvpn@138.199.146.23:443?mode=auto&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&security=reality&encryption=none&pbk=Hq1FszoAM6NP-MMepiO7Y1kd7RRKUqt21BrDnuBECx0&fp=chrome&type=xhttp&sni=www.zula.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ5LjEyLjE4OC4yMjIiLCAicG9ydCI6IDE4MzQ0LCAiaWQiOiAiMDg1MWVkZGEtM2UzMS00YTVmLWI1NmItMjdiMTgyYmFhYjM5IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
+trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://telegram--ISVvpn@telegram--ISVvpn.isvpy.ir:443?mode=auto&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&security=reality&encryption=none&pbk=6cfbxoVJOZuVEIB0oJgLDGQxbzePHnaaadEzyHXKxVw&fp=randomized&type=xhttp&sni=www.zula.ir#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s4.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s4.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://telegram--ISVvpn@telegram--ISVvpn.isvpy.ir:443?mode=auto&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&security=reality&encryption=none&pbk=7WxicbIJ7BSVSkddoADuYBKA9UzzUPl3TOnqG8MY43E&fp=randomized&type=xhttp&sni=www.refersion.com#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://user@s14.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s14.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
