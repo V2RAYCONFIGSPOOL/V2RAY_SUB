@@ -1,10 +1,10 @@
-vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Germany2.vip-nufilter.coM&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://51f8672f-1dbe-5007-b77f-c7b6734b3af4@5.181.23.38:2082?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-vless://2d0f95cf-b45f-57c6-96cb-67e1740f8235@176.120.64.86:2082?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇩🇰Denmark
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=teleirani.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://22dbf6b9-58e2-5f4c-9a3c-2c92d7b47126@95.164.46.39:2052?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=teleirani.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://51f8672f-1dbe-5007-b77f-c7b6734b3af4@5.181.23.38:2082?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=teleirani.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s4.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s4.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s14.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s14.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
