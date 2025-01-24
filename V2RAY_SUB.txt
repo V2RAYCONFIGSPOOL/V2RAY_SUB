@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@44.207.53.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@13.36.146.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-directvpn@13.60.109.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@35.179.241.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@13.61.229.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@13.42.186.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@18.194.196.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@54.195.242.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-directvpn@99.81.215.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-directvpn@52.60.217.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@15.223.14.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://844b301c-633a-4422-a4f9-98116158cc9f@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://cf357990-31e9-4274-cdda-ba838e0ec493@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://cf357990-31e9-4274-cdda-ba838e0ec493@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@media.sanaiegh.ir:443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=media.sanaiegh.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://4b14e5e3-9853-4eb3-bd57-0de10693b103@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@media.sanaiegh.ir:443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=media.sanaiegh.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@media.sanaiegh.ir:443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=media.sanaiegh.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
