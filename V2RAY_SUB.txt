@@ -1,10 +1,10 @@
-vless://48eccebc-1e36-4c60-b088-55fb793f6688@162.159.44.227:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&sni=se1.fromblancwithlove.com&type=tcp#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.1.dragonspeed.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443?security=reality&encryption=none&pbk=mD8V76JrLVJQrQXtyNVgcqwptE9PzcF8nEJe3MyhTDY&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=f0db85b11110c6#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.1.dragonspeed.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://6f183280-b258-437a-a216-e83f7dece776@45.131.211.0:80?type=ws#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
-vless://6f183280-b258-437a-a216-e83f7dece776@45.131.211.0:80?type=ws#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
-vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@2.189.59.6:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5a2ea17c-b68c-4f19-9d8e-93536d852720@2.189.59.6:443?security=tls&sni=yomyauqpy.wwtraveler.com&type=grpc&serviceName=michi#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.5.143:80?type=ws#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.173:989#👉🆔 @v2ray_configs_pool📡🇵🇹Portugal
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.97.249:44441?security=reality&sni=tile.openstreetmap.org&fp=chrome&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&sid=be4243&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?security=reality&encryption=none&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?security=tls&sni=de1.fromblancwithlove.com&type=tcp&alpn=h2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?security=reality&encryption=none&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=12.irfrn23sn.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.5.143:80?type=ws#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
