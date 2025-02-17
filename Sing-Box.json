@@ -1,0 +1,5041 @@
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "ui",
+      "secret": "",
+      "external_ui_download_url": "https://gh-proxy.com/https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+      "external_ui_download_detour": "direct",
+      "default_mode": "rule"
+    },
+    "cache_file": {
+      "enabled": true,
+      "store_fakeip": false
+    }
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "proxyDns",
+        "address": "tls://8.8.8.8",
+        "detour": "Proxy"
+      },
+      {
+        "tag": "localDns",
+        "address": "https://223.5.5.5/dns-query",
+        "detour": "direct"
+      }
+    ],
+    "rules": [
+      {
+        "domain": [
+          "cdn.jsdelivr.net"
+        ],
+        "server": "proxyDns"
+      },
+      {
+        "outbound": "any",
+        "server": "localDns"
+      },
+      {
+        "rule_set": "geosite-cn",
+        "server": "localDns"
+      },
+      {
+        "clash_mode": "direct",
+        "server": "localDns"
+      },
+      {
+        "clash_mode": "global",
+        "server": "proxyDns"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+        "server": "proxyDns"
+      }
+    ],
+    "final": "localDns",
+    "strategy": "ipv4_only"
+  },
+  "inbounds": [
+    {
+      "tag": "tun-in",
+      "type": "tun",
+      "address": [
+        "172.19.0.0/30"
+      ],
+      "mtu": 9000,
+      "auto_route": true,
+      "strict_route": true,
+      "stack": "system",
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 2080
+        }
+      }
+    },
+    {
+      "tag": "mixed-in",
+      "type": "mixed",
+      "listen": "127.0.0.1",
+      "listen_port": 2080
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "Proxy",
+      "type": "selector",
+      "outbounds": [
+        "auto",
+        "direct",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_1",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_2",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_3",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_4",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_5",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_6",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_7",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_8",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_9",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_10",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_11",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_12",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_13",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_14",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_15",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_16",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_17",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_18",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_19",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_20",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_21",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_22",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_23",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_24",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_25",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_26",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_27",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_28",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_29",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_30",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_31",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_32",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_33",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_34",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_35",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_36",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_37",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_38",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_39",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_40",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_41",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_42",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_43",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_44",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_45",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_46",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_47",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_48",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_49",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_50",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_51",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_52",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_53",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_54",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_55",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_56",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_57",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_58",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_59",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_60",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_61",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_62",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_63",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_64",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_65",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_66",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_67",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_68",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_69",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_70",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_71",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_72",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_73",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_74",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_75",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_76",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_77",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_78",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_79",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_80",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_81",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_82",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_83",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_84",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_85",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_86",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_87",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_88",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_89",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_90",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_91",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_92",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_93",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_94",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_95",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_96",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_97",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_98",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_99",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_100",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_101",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_102",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_103",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_104",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_105",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_106",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_107",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_108",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_109",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_110",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_111",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_112",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_113",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_114",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_115",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_116",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_117",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_118",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_119",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_120",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_121",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_122",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_123",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_124",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_125",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_126",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_127",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_128",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_129",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_130",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_131",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_132",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_133",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_134",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_135",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_136",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_137",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_138",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_139",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_140",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_141",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_142",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_143",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_144",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_145",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_146",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_147",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_148",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_149",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_150",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_151",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_152",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_153",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_154",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_155",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_156",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_157",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_158",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_159",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_160",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_161",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_162",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_163",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_164",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_165",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_166",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_167",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_168",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_169",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_170",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_171",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_172",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_173",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_174",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_175",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_176",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_177",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_178",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_179",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_180",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_181",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_182",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_183",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_184"
+      ]
+    },
+    {
+      "tag": "OpenAI",
+      "type": "selector",
+      "outbounds": [
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ],
+      "default": "America"
+    },
+    {
+      "tag": "Google",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Telegram",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Twitter",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Facebook",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "BiliBili",
+      "type": "selector",
+      "outbounds": [
+        "direct",
+        "HongKong",
+        "TaiWan"
+      ]
+    },
+    {
+      "tag": "Bahamut",
+      "type": "selector",
+      "outbounds": [
+        "TaiWan",
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "Spotify",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ],
+      "default": "America"
+    },
+    {
+      "tag": "TikTok",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America"
+      ],
+      "default": "Japan"
+    },
+    {
+      "tag": "Netflix",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Disney+",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Apple",
+      "type": "selector",
+      "outbounds": [
+        "direct",
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Microsoft",
+      "type": "selector",
+      "outbounds": [
+        "direct",
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Games",
+      "type": "selector",
+      "outbounds": [
+        "direct",
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Streaming",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
+      "tag": "Global",
+      "type": "selector",
+      "outbounds": [
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others",
+        "direct"
+      ]
+    },
+    {
+      "tag": "China",
+      "type": "selector",
+      "outbounds": [
+        "direct",
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "HongKong",
+      "type": "selector",
+      "outbounds": [
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "TaiWan",
+      "type": "selector",
+      "outbounds": [
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "Singapore",
+      "type": "selector",
+      "outbounds": [
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "Japan",
+      "type": "selector",
+      "outbounds": [
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "America",
+      "type": "selector",
+      "outbounds": [
+        "Proxy"
+      ]
+    },
+    {
+      "tag": "Others",
+      "type": "selector",
+      "outbounds": [
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_1",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_2",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_3",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_4",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_5",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_6",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_7",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_8",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_9",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_10",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_11",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_12",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_13",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_14",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_15",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_16",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_17",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_18",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_19",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_20",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_21",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_22",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_23",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_24",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_25",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_26",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_27",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_28",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_29",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_30",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_31",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_32",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_33",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_34",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_35",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_36",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_37",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_38",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_39",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_40",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_41",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_42",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_43",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_44",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_45",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_46",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_47",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_48",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_49",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_50",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_51",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_52",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_53",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_54",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_55",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_56",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_57",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_58",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_59",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_60",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_61",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_62",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_63",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_64",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_65",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_66",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_67",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_68",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_69",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_70",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_71",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_72",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_73",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_74",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_75",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_76",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_77",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_78",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_79",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_80",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_81",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_82",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_83",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_84",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_85",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_86",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_87",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_88",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_89",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_90",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_91",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_92",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_93",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_94",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_95",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_96",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_97",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_98",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_99",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_100",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_101",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_102",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_103",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_104",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_105",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_106",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_107",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_108",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_109",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_110",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_111",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_112",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_113",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_114",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_115",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_116",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_117",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_118",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_119",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_120",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_121",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_122",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_123",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_124",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_125",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_126",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_127",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_128",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_129",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_130",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_131",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_132",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_133",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_134",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_135",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_136",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_137",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_138",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_139",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_140",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_141",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_142",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_143",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_144",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_145",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_146",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_147",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_148",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_149",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_150",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_151",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_152",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_153",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_154",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_155",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_156",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_157",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_158",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_159",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_160",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_161",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_162",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_163",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_164",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_165",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_166",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_167",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_168",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_169",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_170",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_171",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_172",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_173",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_174",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_175",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_176",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_177",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_178",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_179",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_180",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_181",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_182",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_183",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_184"
+      ]
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_1",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_2",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_3",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_4",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_5",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_6",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_7",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_8",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_9",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_10",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_11",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_12",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_13",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_14",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_15",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_16",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_17",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_18",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_19",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_20",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_21",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_22",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_23",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_24",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_25",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_26",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_27",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_28",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_29",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_30",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_31",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_32",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_33",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_34",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_35",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_36",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_37",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_38",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_39",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_40",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_41",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_42",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_43",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_44",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_45",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_46",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_47",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_48",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_49",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_50",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_51",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_52",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_53",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_54",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_55",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_56",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_57",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_58",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_59",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_60",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_61",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_62",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_63",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_64",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_65",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_66",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_67",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_68",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_69",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_70",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_71",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_72",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_73",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_74",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_75",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_76",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_77",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_78",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_79",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_80",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_81",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_82",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_83",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_84",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_85",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_86",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_87",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_88",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_89",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_90",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_91",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_92",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_93",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_94",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_95",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_96",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_97",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_98",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_99",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_100",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_101",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_102",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_103",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_104",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_105",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_106",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_107",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_108",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_109",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_110",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_111",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_112",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_113",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_114",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_115",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_116",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_117",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_118",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_119",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_120",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_121",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_122",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_123",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_124",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_125",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_126",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_127",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_128",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_129",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_130",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_131",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_132",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_133",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_134",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_135",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_136",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_137",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_138",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_139",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_140",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_141",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_142",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_143",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_144",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_145",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_146",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_147",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_148",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_149",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_150",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_151",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_152",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_153",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_154",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_155",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_156",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_157",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_158",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_159",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_160",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_161",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_162",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_163",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_164",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_165",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_166",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_167",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_168",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_169",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_170",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_171",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_172",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_173",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_174",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_175",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_176",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_177",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_178",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_179",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_180",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_181",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_182",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_183",
+        "🎀𝑀𝐸𝐻𝒟𝐼🎀_184"
+      ],
+      "url": "http://www.gstatic.com/generate_204",
+      "interval": "10m",
+      "tolerance": 50
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_1",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_2",
+      "server": "51.112.147.185",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uae-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_3",
+      "server": "54.93.172.88",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.yagobxan.com_www.passport.8338.hk/en/cdn/verification",
+        "insecure": false
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_4",
+      "server": "15.236.64.14",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_5",
+      "server": "15.160.138.221",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_6",
+      "server": "54.93.172.88",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_7",
+      "server": "52.56.183.187",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_8",
+      "server": "aws-uk-london-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_9",
+      "server": "18.100.115.245",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_10",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_11",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_12",
+      "server": "16.171.12.136",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_13",
+      "server": "18.100.115.245",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_14",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_15",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_16",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_17",
+      "server": "188.114.99.0",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_18",
+      "server": "15.160.138.221",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-it-milan-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_19",
+      "server": "52.56.183.187",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_20",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-fr-paris-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_21",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_22",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_23",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_24",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-fr-paris-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_25",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_26",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_27",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-it-milan-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_28",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_29",
+      "server": "16.171.12.136",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_30",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_31",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_32",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_33",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_34",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_35",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflineb.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_36",
+      "server": "43.205.109.9",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_37",
+      "server": "34.222.204.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_38",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_39",
+      "server": "aws-ca-central-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflineb.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_40",
+      "server": "aws-uk-london-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_41",
+      "server": "aws-uk-london-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_42",
+      "server": "18.100.115.245",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_43",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_44",
+      "server": "16.62.65.57",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_45",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-hk-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-hk-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_46",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_47",
+      "server": "15.236.64.14",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-fr-paris-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_48",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflineb.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_49",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-kr-seoul-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-kr-seoul-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_50",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_51",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-sg-1.f1cflineb.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-sg-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_52",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_53",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_54",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-aus-sydney-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_55",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1cflinea.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-aus-sydney-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_56",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_57",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_58",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_59",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_60",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_61",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-jp-tokyo-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-jp-tokyo-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_62",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-kr-seoul-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-kr-seoul-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_63",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_64",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_65",
+      "server": "104.21.73.195",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_66",
+      "server": "13.244.104.87",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-za-capetown-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_67",
+      "server": "13.244.104.87",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-za-capetown-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-za-capetown-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_68",
+      "server": "13.244.104.87",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-za-capetown-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_69",
+      "server": "15.160.138.221",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-it-milan-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_70",
+      "server": "15.160.138.221",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_71",
+      "server": "15.220.121.237",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ar-buenosaires-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_72",
+      "server": "15.220.240.255",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-th-bkk-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_73",
+      "server": "15.236.64.14",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_74",
+      "server": "16.163.157.177",
+      "server_port": 443,
+      "password": "your_password"
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_75",
+      "server": "16.163.157.177",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-hk-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_76",
+      "server": "16.163.157.177",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-hk-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_77",
+      "server": "16.171.12.136",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_78",
+      "server": "16.171.12.136",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_79",
+      "server": "16.62.65.57",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_80",
+      "server": "16.62.65.57",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_81",
+      "server": "16.62.65.57",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_82",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-aus-sydney-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_83",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1cflinea.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-aus-sydney-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_84",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_85",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_86",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-fr-paris-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_87",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_88",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_89",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_90",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_91",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-jp-tokyo-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-jp-tokyo-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_92",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-kr-seoul-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-kr-seoul-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_93",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-za-capetown-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-za-capetown-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_94",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_95",
+      "server": "172.67.165.204",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_96",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_97",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflineb.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_98",
+      "server": "aws-sg-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-sg-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_99",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_100",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_101",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-it-milan-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_102",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-kr-seoul-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-kr-seoul-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_103",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_104",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_105",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_106",
+      "server": "172.67.188.24",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_107",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_108",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_109",
+      "server": "18.100.115.245",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_110",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-fr-paris-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_111",
+      "server": "18.142.122.247",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-sg-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_112",
+      "server": "188.114.99.0",
+      "server_port": 443,
+      "password": "your_password",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_113",
+      "server": "188.114.99.0",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_114",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_115",
+      "server": "3.27.95.146",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_116",
+      "server": "3.27.95.146",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-aus-sydney-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_117",
+      "server": "3.27.95.146",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_118",
+      "server": "3.29.95.54",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uae-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_119",
+      "server": "3.35.157.103",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-kr-seoul-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_120",
+      "server": "3.35.157.103",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-kr-seoul-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_121",
+      "server": "3.35.157.103",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "undefined",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_122",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-hk-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-hk-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_123",
+      "server": "34.222.204.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_124",
+      "server": "34.222.204.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_125",
+      "server": "35.183.238.42",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_126",
+      "server": "35.183.238.42",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_127",
+      "server": "35.183.238.42",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_128",
+      "server": "35.183.238.42",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_129",
+      "server": "35.183.238.42",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "undefined",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_130",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_131",
+      "server": "43.205.109.9",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_132",
+      "server": "43.205.109.9",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_133",
+      "server": "43.206.127.212",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-jp-tokyo-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_134",
+      "server": "43.206.127.212",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-jp-tokyo-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_135",
+      "server": "43.218.139.54",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-id-jakarta-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_136",
+      "server": "43.218.139.54",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-id-jakarta-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_137",
+      "server": "43.218.139.54",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-id-jakarta-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-id-jakarta-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_138",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_139",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-it-milan-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_140",
+      "server": "52.56.183.187",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_141",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_142",
+      "server": "52.56.183.187",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_143",
+      "server": "54.93.172.88",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_144",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_145",
+      "server": "54.93.172.88",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1rocketnode.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_146",
+      "server": "54.93.172.88",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1rocketnode.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ge-frankfurt-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_147",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1cflinea.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_148",
+      "server": "aws-ar-buenosaires-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ar-buenosaires-1.f1cflinea.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ar-buenosaires-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_149",
+      "server": "aws-ar-buenosaires-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ar-buenosaires-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_150",
+      "server": "aws-ar-buenosaires-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ar-buenosaires-1.f1cflineb.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ar-buenosaires-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_151",
+      "server": "aws-aus-sydney-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-aus-sydney-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_152",
+      "server": "aws-ca-central-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflinea.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_153",
+      "server": "aws-ca-central-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ca-central-1.f1cflineb.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ca-central-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_154",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-us-oregon-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_155",
+      "server": "aws-ch-zurich-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_156",
+      "server": "aws-ch-zurich-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_157",
+      "server": "aws-ch-zurich-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflineb.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_158",
+      "server": "aws-es-madrid-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_159",
+      "server": "aws-es-madrid-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_160",
+      "server": "aws-es-madrid-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-es-madrid-1.f1rocketnode.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-es-madrid-1.f1rocketnode.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_161",
+      "server": "aws-fr-paris-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_162",
+      "server": "aws-fr-paris-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-fr-paris-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_163",
+      "server": "aws-ge-frankfurt-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_164",
+      "server": "aws-ge-frankfurt-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_165",
+      "server": "aws-ge-frankfurt-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ge-frankfurt-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_166",
+      "server": "aws-hk-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-hk-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_167",
+      "server": "aws-id-jakarta-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-id-jakarta-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_168",
+      "server": "aws-in-mumbai-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_169",
+      "server": "aws-in-mumbai-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-in-mumbai-1.f1cflinea.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-in-mumbai-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_170",
+      "server": "aws-it-milan-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_171",
+      "server": "aws-jp-tokyo-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-jp-tokyo-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_172",
+      "server": "aws-mx-queretaro-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-mx-queretaro-1.f1cflinea.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_173",
+      "server": "aws-se-stockholm-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_174",
+      "server": "aws-se-stockholm-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1cflinea.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-se-stockholm-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_175",
+      "server": "aws-se-stockholm-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-se-stockholm-1.f1rocketnode.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_176",
+      "server": "aws-uae-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uae-1.f1cflineb.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_177",
+      "server": "aws-uae-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uae-1.f1cflineb.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uae-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_178",
+      "server": "aws-uae-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uae-1.f1rocketnode.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_179",
+      "server": "104.18.10.128",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-za-capetown-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-za-capetown-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_180",
+      "server": "aws-uk-london-1.f1cflinea.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflinea.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflinea.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_181",
+      "server": "aws-uk-london-1.f1cflineb.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-uk-london-1.f1cflineb.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-uk-london-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_182",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-ch-zurich-1.f1cflineb.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-ch-zurich-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_183",
+      "server": "104.21.7.241",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-it-milan-1.f1cflineb.com",
+        "insecure": true,
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/f1rocket",
+        "headers": {
+          "host": "aws-it-milan-1.f1cflineb.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🎀𝑀𝐸𝐻𝒟𝐼🎀_184",
+      "server": "aws-us-oregon-1.f1rocketnode.com",
+      "server_port": 443,
+      "password": "your_password",
+      "tls": {
+        "enabled": true,
+        "server_name": "aws-us-oregon-1.f1rocketnode.com",
+        "insecure": true
+      }
+    }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "final": "Proxy",
+    "rules": [
+      {
+        "inbound": [
+          "tun-in",
+          "mixed-in"
+        ],
+        "action": "sniff"
+      },
+      {
+        "type": "logical",
+        "mode": "or",
+        "rules": [
+          {
+            "port": 53
+          },
+          {
+            "protocol": "dns"
+          }
+        ],
+        "action": "hijack-dns"
+      },
+      {
+        "rule_set": "geosite-category-ads-all",
+        "clash_mode": "rule",
+        "action": "reject"
+      },
+      {
+        "rule_set": "geosite-category-ads-all",
+        "clash_mode": "global",
+        "outbound": "Proxy"
+      },
+      {
+        "clash_mode": "direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "global",
+        "outbound": "Proxy"
+      },
+      {
+        "domain": [
+          "clash.razord.top",
+          "yacd.metacubex.one",
+          "yacd.haishan.me",
+          "d.metacubex.one"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "ip_is_private": true,
+        "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-openai",
+        "outbound": "OpenAI"
+      },
+      {
+        "rule_set": [
+          "geosite-youtube",
+          "geoip-google",
+          "geosite-google",
+          "geosite-github"
+        ],
+        "outbound": "Google"
+      },
+      {
+        "rule_set": [
+          "geoip-telegram",
+          "geosite-telegram"
+        ],
+        "outbound": "Telegram"
+      },
+      {
+        "rule_set": [
+          "geoip-twitter",
+          "geosite-twitter"
+        ],
+        "outbound": "Twitter"
+      },
+      {
+        "rule_set": [
+          "geoip-facebook",
+          "geosite-facebook"
+        ],
+        "outbound": "Facebook"
+      },
+      {
+        "rule_set": "geosite-bilibili",
+        "outbound": "BiliBili"
+      },
+      {
+        "rule_set": "geosite-bahamut",
+        "outbound": "Bahamut"
+      },
+      {
+        "rule_set": "geosite-spotify",
+        "outbound": "Spotify"
+      },
+      {
+        "rule_set": "geosite-tiktok",
+        "outbound": "TikTok"
+      },
+      {
+        "rule_set": [
+          "geoip-netflix",
+          "geosite-netflix"
+        ],
+        "outbound": "Netflix"
+      },
+      {
+        "rule_set": "geosite-disney",
+        "outbound": "Disney+"
+      },
+      {
+        "rule_set": [
+          "geoip-apple",
+          "geosite-apple",
+          "geosite-amazon"
+        ],
+        "outbound": "Apple"
+      },
+      {
+        "rule_set": "geosite-microsoft",
+        "outbound": "Microsoft"
+      },
+      {
+        "rule_set": [
+          "geosite-category-games",
+          "geosite-dmm"
+        ],
+        "outbound": "Games"
+      },
+      {
+        "rule_set": [
+          "geosite-hbo",
+          "geosite-primevideo"
+        ],
+        "outbound": "Streaming"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+        "outbound": "Global"
+      },
+      {
+        "rule_set": [
+          "geoip-cn",
+          "geosite-cn"
+        ],
+        "outbound": "China"
+      }
+    ],
+    "rule_set": [
+      {
+        "tag": "geosite-category-ads-all",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-openai",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/Toperlock/sing-box-geosite@main/rule/OpenAI.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-youtube",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/youtube.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-google",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/google.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-google",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/google.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-github",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/github.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-telegram",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/telegram.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-telegram",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/telegram.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-twitter",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/twitter.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-twitter",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/twitter.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-facebook",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/facebook.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-facebook",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/facebook.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-bilibili",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/bilibili.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-bahamut",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/bahamut.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-spotify",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/spotify.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-tiktok",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/tiktok.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-netflix",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/netflix.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-netflix",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/netflix.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-disney",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/disney.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-apple",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo-lite/geoip/apple.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-apple",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/apple.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-amazon",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/amazon.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-microsoft",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/microsoft.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-category-games",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-games.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-dmm",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/dmm.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-hbo",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/hbo.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-primevideo",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/primevideo.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-geolocation-!cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip-cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/cn.srs",
+        "download_detour": "direct"
+      }
+    ]
+  }
+}
