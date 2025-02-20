@@ -1,100 +1,100 @@
-vless://0bb388e0-e5ee-416c-b4ae-b9c863475821@103.35.188.136:443?security=reality&encryption=none&pbk=itbKQaHRgxYdKPVpb9bbuU7h42xsmh7xelNZ93FuvkY&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=54b70038b2766783#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@15.188.199.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@13.42.81.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@18.134.50.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@46.137.78.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@52.51.17.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@13.49.54.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-privatevpns@13.49.199.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-privatevpns@3.69.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.122.174.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@13.39.1.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@13.37.153.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@35.179.192.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@18.134.62.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@52.19.163.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@52.213.94.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@13.61.214.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-privatevpns@13.61.214.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-privatevpns@3.65.43.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@18.153.127.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.42.185:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.109.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.112.80:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.170.108.131:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.156.227:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.125.46:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.10.239:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.113.24:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.54.226:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.189.105:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.0.232:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.6.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.98.57:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.31.252.92:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.123.197:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.154.198:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.123.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.12.51:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.32.231:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=&encryption=none&type=ws&sni=pormang.webhost99.workers.dev#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed&security=&encryption=none&type=ws&sni=pormang.webhost99.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@188.164.159.171:443?path=%2F&security=tls&host=agept.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-trojan://Aimer@188.164.159.91:2083?path=%2F&security=tls&host=agepy.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-trojan://Aimer@154.197.64.67:443?path=%2F&security=tls&host=agept.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@ignacio.ns.cloudflare.com:443?path=%2F&security=tls&host=agepy.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.120:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@20.184.3.9:2222?path=%2F&security=tls&host=agepy.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vmess://eyJhZGQiOiAiMTIwLjIzMi4xNTMuNDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTQwODIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
-trojan://Aimer@198.62.62.192:2083?path=%2F&security=tls&host=agept.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@108.165.152.36:2096?path=%2F&security=tls&host=agepy.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇳India
-trojan://Aimer@pranab.ns.cloudflare.com:443?path=%2F&security=tls&host=agepy.ambercc.filegear-sg.mehttp%2F1.1&type=ws&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.156:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @v2ray_configs_pool📡🇵🇷Puerto Rico
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@176.103.53.105:989#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@185.231.233.173:989#👉🆔 @v2ray_configs_pool📡🇵🇹Portugal
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@154.90.62.168:989#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vmess://eyJhZGQiOiAiMTIwLjI2LjU1LjIyNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1MDAwMiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
-vmess://eyJhZGQiOiAiNDcuMTA0LjE4Ni4xMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDIiLCAic2N5IjogIm5vbmUiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
-vmess://eyJhZGQiOiAiNDcuOTIuMTUyLjE2OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1MDAwMiIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
-vmess://eyJhZGQiOiAiMTgzLjIzNi41MS4zNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1OTAwMyIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
-vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTUuMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
-vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTIuMTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
-vless://b529971c-f46a-4eb9-a02d-e39cc3e83cf5@144.24.243.207:443?path=%2F&security=tls&encryption=none&type=ws&sni=dd8.transitkala.com#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU%3D@52.197.129.53:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-vless://4caeb33c-e50a-428e-c84b-b5ef9e1b283a@159.69.150.187:2677?security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@62.100.205.48:989#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw%3D%3D@217.30.10.18:9025#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ%3D%3D@217.30.10.18:9037#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://b27f4d97-2562-4867-ae20-45e625eec5f5@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&type=ws&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@108.165.152.14:2096?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇳India
-trojan://Aimer@121.128.254.108:34522?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@121.172.164.106:32400?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@59.4.59.224:12499?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@14.41.85.118:12465?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@212.41.15.119:443?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://Aimer@220.80.154.29:12220?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@154.26.182.81:19355?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@118.32.223.205:21246?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@194.87.252.135:2053?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://Aimer@sage.ns.cloudflare.com:443?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@damien.ns.cloudflare.com:443?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Aimer@154.197.64.189:2087?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@192.200.160.35:2083?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@154.211.8.109:2087?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@175.214.237.120:50000?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@aliyun.2096.us.kg:443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@47.128.215.165:33522?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://Aimer@104.234.233.57:35911?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@104.234.233.57:35911?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://Aimer@156.251.180.181:21698?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@156.251.180.181:21698?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://Aimer@154.21.93.92:37955?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Aimer@108.165.152.93:2083?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇳India
-trojan://Aimer@46.254.93.243:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇩Indonesia
-trojan://Aimer@188.164.159.241:2096?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-trojan://Aimer@188.164.159.138:2083?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-trojan://Aimer@45.150.115.195:2087?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
-trojan://Aimer@92.243.74.3:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇭Cambodia
-trojan://Aimer@188.164.159.174:2053?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@121.180.100.129:11210?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-trojan://Aimer@154.218.15.250:2083?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.0:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.240:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@121.153.45.186:18004?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://Aimer@185.148.13.32:10005?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@138.2.107.107:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@43.156.116.194:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://Aimer@162.120.94.232:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@175.199.169.221:50003?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+trojan://Aimer@61.80.135.3:15672?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://Aimer@47.128.215.165:33522?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.94:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.103:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.237.105:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://Aimer@45.67.215.250:2096?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.99:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+trojan://Aimer@154.9.241.61:587?security=tls&headerType=&type=tcp&sni=agepu.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@185.51.246.121:2053?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@8.218.209.29:9002?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
+trojan://Aimer@188.164.159.214:2083?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+trojan://Aimer@121.153.45.186:18004?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.231:5005?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://Aimer@213.109.205.55:2096?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://Aimer@135.84.76.152:2087?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.228:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@138.3.218.230:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://Aimer@185.119.117.146:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.8.146.221:2057?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@118.42.188.118:37322?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@158.101.90.60:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.99:5004?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@178.236.246.72:9090?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@138.2.0.167:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.180.230.4:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+trojan://Aimer@38.180.20.59:2053?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇩🇰Denmark
+trojan://Aimer@216.198.53.212:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@14.47.103.113:12167?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@154.17.21.134:18446?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=nc.dbbn2024.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@154.17.227.138:587?security=tls&headerType=&type=tcp&sni=agepu.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@154.218.15.250:2083?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vmess://eyJhZGQiOiAiMTgzLjIzNi41MS4zOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1OTEwNCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&headerType=&type=tcp&sni=hezijiasuqi.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://Aimer@154.197.64.248:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@14.47.103.113:12167?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=agedy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://Aimer@154.197.64.155:2053?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@154.219.5.65:2087?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@162.159.45.156:8443?security=tls&headerType=&type=tcp&sni=agepu.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?security=tls&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&headerType=&type=tcp&sni=us01.trojanyyds.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://Julius@193.106.248.196:443?security=tls&headerType=&type=tcp&sni=miami.juliusnet.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&headerType=&type=tcp&sni=hk03.trojanyyds.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA%3D%3D@217.30.10.18:9014#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://caeb576d-bcb1-4aa8-8b97-2f3846a2968d@c3.tron2tron.ir:2087?path=%2FinboundsCWNeRzWFjgWHWZFw%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=dns.tron2tron.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4fd723c4-eddb-4f7b-9b79-3aacd07ff527@jermaine.ns.cloudflare.com:443?path=%2Fwss&security=tls&encryption=none&fp=chrome&type=ws&sni=pjn6fw.shieldify.site#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5b980b6b-b3d6-4e40-83ef-69d7232eabb8@213.21.245.5:2086?security=tls&encryption=none&fp=chrome&type=grpc&sni=free.vpnmizban.org#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://4fd723c4-eddb-4f7b-9b79-3aacd07ff527@162.159.44.157:443?path=%2Fwss&security=tls&encryption=none&fp=chrome&type=ws&sni=pjn6fw.shieldify.site#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://wb6368@172.66.47.170:443?security=tls&headerType=&type=tcp&sni=hsdgbuys.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@211.57.90.42:50000?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://Aimer@162.159.44.76:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@192.200.160.15:8443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Bw5Mz7QkVp@149.28.196.145:443?security=tls&headerType=&type=tcp&sni=z-v2-082496.kailib.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@206.238.237.118:8443?security=tls&headerType=&type=tcp&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://Aimer@51.44.86.78:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://Aimer@27.50.49.166:8443?security=tls&headerType=&type=tcp&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://Aimer@108.165.152.25:2087?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇳India
+trojan://Aimer@154.197.64.196:2087?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@3.75.149.151:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50015?security=tls&headerType=&type=tcp&sni=my.doubledou.icu#👉🆔 @v2ray_configs_pool📡🇨🇳China
+trojan://Aimer@108.162.195.82:443?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://trojan@172.67.130.66:443?security=tls&headerType=&type=tcp&sni=test-a23.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@199.34.228.50:2053?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@162.159.44.50:2087?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@108.162.193.144:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@162.159.44.161:443?security=tls&headerType=&type=tcp&sni=tc.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@160.79.104.131:8443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@104.26.15.138:2053?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@172.64.33.128:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Bw5Mz7QkVp@66.42.76.182:443?security=tls&headerType=&type=tcp&sni=z-v2-076956.kailib.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Bw5Mz7QkVp@45.76.60.234:443?security=tls&headerType=&type=tcp&sni=z-v2-074418.kailib.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&headerType=&type=tcp&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@5.182.84.22:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+trojan://Bw5Mz7QkVp@64.176.39.97:443?security=tls&headerType=&type=tcp&sni=z-v2-078286.kailib.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU%3D@35.94.110.89:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@46.254.93.37:8443?security=tls&headerType=&type=tcp&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇮🇩Indonesia
+trojan://Aimer@59.2.75.64:37722?security=tls&headerType=&type=tcp&sni=agepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://Aimer@162.159.44.82:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@161.145.150.26:2087?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@68.183.227.45:8080#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://Aimer@216.24.57.207:443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://0000000@3.168.86.35:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&headerType=&type=tcp&sni=z-v2-077954.kailib.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@162.159.44.236:443?security=tls&headerType=&type=tcp&sni=agepw.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@176.124.223.50:8443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇨🇳China
+trojan://Aimer@167.68.4.223:2096?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@103.116.7.100:2087?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Aimer@5.182.85.28:443?security=tls&headerType=&type=tcp&sni=acepo.ambercc.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://7f7cc64d-657a-4cec-b106-416ee79e92be@194.58.46.199:39917?security=&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
