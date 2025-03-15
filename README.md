@@ -6,6 +6,11 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 
 تنها 20 درصد از کانفیگ های کانال تلگرامیV2RAY_CONFIGS_POOL در لینک سابسکرایب آپلود میشود
 
+✅لینک سابسکرایب کانفیگ های اختصاصی کانال 
+
+
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/V2RAYCONFIGS.txt
+
 ✅لینک کانال تلگرام 
 
 https://t.me/v2ray_configs_pool
