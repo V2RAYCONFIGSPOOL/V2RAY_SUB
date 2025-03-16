@@ -4,7 +4,8 @@
 
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt 
 
-تنها 35 درصد  از کانفیگ های کانال تلگرامیV2RAY_CONFIGS_POOL در لینک سابسکرایب آپلود میشود
+
+✅ 35 درصد  از کانفیگ هایv2ray کانال تلگرامیV2RAY_CONFIGS_POOL در لینک سابسکرایبv2ray  آپلود میشود جهت دسترسی به کانفیگ های بیشتر به کانال تلگرامیV2RAY_CONFIGS_POOL رجوع بفرمایید 
 
 ✅لینک سابسکرایب کانفیگ های اختصاصی کانال 
 
