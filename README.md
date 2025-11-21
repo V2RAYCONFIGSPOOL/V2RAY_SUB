@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 
 ✅لینک های  سابسکرایب v2ray ادغام لینک های فوق
 
-https://dark-dream-db2a.mehdipost675.workers.dev/
+https://manager.farsonline24.ir
 .
 
 ✅لینک کانال تلگرام
