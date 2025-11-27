@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no10.txt
 
-✅لینک های  سابسکرایب v2ray ادغام لینک های فوق
+✅لینک سابسکرایب v2ray ادغام لینک های فوق
 
 https://manager.farsonline24.ir
 .
