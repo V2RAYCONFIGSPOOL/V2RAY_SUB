@@ -1,25 +1,25 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y=@tr-1.stunnel.cc:8444#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR%20%F0%9F%A7%AD%203.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB%20%F0%9F%A7%AD%206.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.113.143.186:990#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B9PT%20%F0%9F%A7%AD%205.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B1%F0%9F%87%BBLV%20%F0%9F%A7%AD%203.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL%20%F0%9F%A7%AD%206.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A6%F0%9F%87%AAAE%20%F0%9F%A7%AD%202.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B1%F0%9F%87%BALU%20%F0%9F%A7%AD%209.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%2010.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%A7%AD%204.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%2010.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%204.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%202.6MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%202.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%202.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%208.0MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%BA%F0%9F%87%B8US%20%F0%9F%A7%AD%202.5MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.235.56.69:990#👉🆔@v2ray_configs_pool📡🇦🇹®️Austria©️Vienna (Favoriten)🅿️ping:33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bang Rak🅿️ping:730ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#👉🆔@v2ray_configs_pool📡🇲🇹®️Malta©️Valletta🅿️ping:120ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990?note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg%3D%3D@5.182.37.87:443#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:48ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#👉🆔@v2ray_configs_pool📡🇵🇷®️Puerto Rico©️San Juan🅿️ping:162ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#👉🆔@v2ray_configs_pool📡🇦🇷®️Argentina©️Adrogué🅿️ping:265ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueGdzbUhrUDNKVTdoYlFrSmZ4Z3BYaDV0bHZYZTFlbg==@45.83.142.237:443#👉🆔@v2ray_configs_pool📡🇵🇹®️Portugal©️Lisbon🅿️ping:56ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnZuMmZORXZCZ001a25mZnJOOTZx@92.118.112.101:9483#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Atlanta🅿️ping:123ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:40ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Phoenix🅿️ping:159ms
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:47ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:274ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.127:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:276ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.119.77:989#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:39ms
