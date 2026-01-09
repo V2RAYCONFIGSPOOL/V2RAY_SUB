@@ -1,8 +1,25 @@
-trojan://5a16eb42-3b4c-4a61-8f94-7ef0b583fbf5@xiaozhu.gisorty.cn:41273?sni=douyin.com&allowInsecure=1&fp=chrome#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:512ms
-trojan://e2e046e8-9289-4877-bbef-f733e84a4142@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:483ms
-trojan://61d8077bfb174e171b8283f155a555ad@112.118.116.123:443?sni=www.nintendogames.net&fp=chrome#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:379ms
-trojan://70cc8fc7-fb59-45ab-87d0-de404abe723c@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:423ms
-trojan://f148978a-7539-4e42-a26e-40083378fcab@xiaozhu.gisorty.cn:49213?sni=douyin.com&allowInsecure=1&fp=chrome#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:658ms
-trojan://9eb1d0ba-fea7-4adf-bb85-8b53ab90a0fd@cdnfire.xiaomispeed.com:21101?sni=cdnfire.xiaomispeed.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:450ms
-trojan://90e57252-bb50-4cbc-b763-4e3c72362c3b@cdnfire.xiaomispeed.com:21103?sni=cdnfire.xiaomispeed.com&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:409ms
-trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Vaughan (Woodbridge)🅿️ping:183ms
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.225:10081?tfo=1#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:55ms
+ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ==@195.133.5.38:1012#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:56ms
+ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.100:10912?tfo=1#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St Petersburg🅿️ping:51ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:28860#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Geumcheon-gu🅿️ping:309ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.41:41240#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Naju (Jinheung-gil)🅿️ping:312ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:61417#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Jeongja-dong)🅿️ping:304ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.234.149.9:4483#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul (Toegye-ro)🅿️ping:307ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.230:44112?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Geumcheon-gu🅿️ping:313ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.148:11815?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Jeongja-dong)🅿️ping:311ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.168.44.72:32063?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:289ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.20:45833?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Naju (Jinheung-gil)🅿️ping:301ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.247:51978#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Geumcheon-gu🅿️ping:300ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty (Jetysu District)🅿️ping:91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTVlZTNjNjJmMGFhZTk2@91.106.109.73:11201#👉🆔@v2ray_configs_pool📡🇯🇴®️Jordan©️Amman🅿️ping:90ms
+ss://YWVzLTEyOC1nY206NmI4NDgwYTYtZjMxMC00YjgxLTkwOWYtMmQ0M2Q3MTBiZGYw@khgdsx.gdsxrk.com:33115#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:308ms
+ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng==@167.17.179.197:10201?tfo=1#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shinagawa🅿️ping:309ms
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@212.192.15.59:50521?tfo=1#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Wuqia (Wuqia County)🅿️ping:248ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOGYxMWUyYmE2MzE4MWVh@156.244.20.53:11201#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:293ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:78ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18792#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:79ms
+ss://cmM0LW1kNTo2YzMyNTQzNWIyMTc2YzJk@85.90.207.104:18790#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:81ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:272ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.104:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:279ms
