@@ -1,15 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuS29obmUwN1ZyeEItbnE0M2N4enM3VnU5Tm5wNEpYWQ==@ru1.clear-vpn.org:504#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:68ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.140:42363?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:288ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.168.44.72:33261?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:298ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.252:50852?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Geumcheon-gu🅿️ping:320ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.38.103.150:56223?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul (Toegye-ro)🅿️ping:304ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.247:4469?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Geumcheon-gu🅿️ping:309ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:25879?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Geumcheon-gu🅿️ping:305ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.135:48720?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Gasan-dong🅿️ping:310ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.234.149.9:17975?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul (Toegye-ro)🅿️ping:300ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:19203?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seongnam-si (Jeongja-dong)🅿️ping:305ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.39:32974?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Naju (Jinheung-gil)🅿️ping:305ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.41:49049?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Naju (Jinheung-gil)🅿️ping:303ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.20:29707?tfo=1#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Naju (Jinheung-gil)🅿️ping:307ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.107:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D(TG%20%40WangCai2)c18ca9e%3A213221#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:163ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.108:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D(TG%20%40WangCai2)c18ca9e%3A213221#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:157ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:267ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11205#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:269ms
