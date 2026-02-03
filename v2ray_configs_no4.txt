@@ -1,15 +1,1 @@
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:267ms
-trojan://8ba0ff99-ac25-4788-ba00-de3cbf8b3339@xiaozhu1.kkieo555.cn:41273?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:236ms
-trojan://8c22783c-4ff7-4da3-a798-2b7091d0d998@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:535ms
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:281ms
-trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:100ms
-trojan://8ba0ff99-ac25-4788-ba00-de3cbf8b3339@xiaozhu1.kkieo555.cn:41273?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:232ms
-trojan://8c22783c-4ff7-4da3-a798-2b7091d0d998@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:523ms
-trojan://8ddcc360-5223-11ee-bc2d-1239d0255272@104.31.16.14:443?security=tls&sni=fr1.test3.net&type=ws&path=/howdy&host=fr1.test3.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:110ms
-trojan://8ddcc360-5223-11ee-bc2d-1239d0255272@104.31.16.14:443?security=tls&sni=fr1.test3.net&type=ws&path=/howdy&host=fr1.test3.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://8e2d9390-efd0-44db-a5fd-61fc4266585b@xiaozhu1.kkieo555.cn:41273?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:314ms
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&Host=Koma-YT.PAGeS.Dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://90355efd-817c-4b93-aa27-74cf088e3e28@xiaozhu1.kkieo555.cn:41273?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:310ms
-trojan://91d237a0-8a03-11ee-b32f-1239d0255272@104.18.22.136:443?security=tls&sni=de1.test3.net&allowInsecure=1&type=ws&path=/howdy&host=de1.test3.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:293ms
