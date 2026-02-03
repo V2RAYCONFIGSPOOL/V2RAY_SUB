@@ -1,5 +1,13 @@
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-8.mielink-dns2.com:443?security=tls&sni=paydiu.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:193ms
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:164ms
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-ru-2.mielink-dns2.com:443?security=tls&sni=$paydiu.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:180ms
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-1.mielink-dns2.com:443?security=tls&sni=paydiu.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:170ms
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443?security=tls&sni=paydiu.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:167ms
+trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.45:443?security=tls&sni=jus3.jsjc.sbs&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.36:443?security=tls&sni=jsg1.jsjc.sbs&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.45:443?security=tls&sni=jus3.jsjc.sbs&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.36:443?security=tls&sni=jsg1.jsjc.sbs&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26ms
+trojan://41a4f30b-10d2-43e1-8e7f-0605eb63b064@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:316ms
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25ms
+trojan://41a4f30b-10d2-43e1-8e7f-0605eb63b064@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:237ms
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25ms
+trojan://42b3fb4f-162a-4f0e-8443-93f8793f86c7@xiaozhu1.kkieo555.cn:41273?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:399ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:275ms
+trojan://42b3fb4f-162a-4f0e-8443-93f8793f86c7@xiaozhu1.kkieo555.cn:41273?security=tls&allowInsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:322ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:2761ms
+trojan://46d69a7e-9002-44a3-99c1-01c412f29726@185.176.24.105:443?security=tls&sni=k9de1.djjc.sbs&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:22ms
