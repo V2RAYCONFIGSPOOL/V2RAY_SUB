@@ -1,15 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSSUhKa0Rvc1BwODVBVEszWUJjdkVj@94.131.123.86:35361#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Wroclaw (Krzyki)🅿️ping:40ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpobklUU1ZnZFFPUUY2YUNUNFlJaXp2@51.254.142.162:5223#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@210.61.187.237:2377#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:329ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@142.4.216.225:443#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal (Ville-Marie)🅿️ping:1110ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:93ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN2VmNGYwMjlmMWFjMGFj@141.95.105.28:11201#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:82ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTNjNzU1ODFhZGU0NzFk@141.95.101.202:11201#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25ms
-ss://YWVzLTI1Ni1nY206MzQ4NmE3ZWItMWEyNS00ZWQxLWEyNTctNTFiODI4MTRhZDIy@45.141.234.86:443#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:43ms
+trojan://2c366360-0333-4738-9423-6d5b378e3594@aeryy5gfrp630ww1.lovebaipiao.net:443?allowInsecure=0&peer=aeryy5gfrp630ww1.lovebaipiao.net&sni=aeryy5gfrp630ww1.lovebaipiao.net#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:110ms
+trojan://2c366360-0333-4738-9423-6d5b378e3594@aeryy5gfrp630ww1.lovebaipiao.net:443?allowInsecure=0&peer=aeryy5gfrp630ww1.lovebaipiao.net&sni=aeryy5gfrp630ww1.lovebaipiao.net#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:105ms
