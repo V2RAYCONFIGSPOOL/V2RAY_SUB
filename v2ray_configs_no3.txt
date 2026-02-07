@@ -1,15 +1,15 @@
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.25ms
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.95ms
-vless://729d0408-094e-4879-9a4d-7dad7d144687@vip-80.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:51.83ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.239:80?path=%2F&security=&encryption=none&host=us3.rtacg.com&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.0ms
-vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?security=tls&type=ws&path=%2Fassets&host=diprox.pages.dev&sni=DiprOX.pages.DEV&fp=chrome&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.43ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.192.60.51:8443?&security=tls&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:26.34ms
-ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.58.63:80?security=none&type=ws&host=us3.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.07ms
-vless://bf65c604-7c6b-4d01-af97-5e854db24b3d@91.107.251.197:2051?security=none&type=tcp&encryption=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:24.43ms
-vless://e923cdf9-fc21-4100-8c01-a385a9e8f1b3@104.21.69.44:2086?security=none&type=ws&host=Cloutdcjvg.samancenter.com.#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.11ms
-vless://ff932085-992a-4a05-9361-6f6f9ddd56d9@190.93.244.96:2087?security=tls&sni=fb.lightningc.ir&type=ws&host=fa.lightningc.ir.&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22.13ms
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjE4IiwgImFpZCI6IDAsICJob3N0IjogImhrMDEubGlua2l0bm93Lm5ldCIsICJpZCI6ICIzOTEzNWEzOS1lNmNhLTQzZGYtYTM2MC1kODU5ZWVhNThkODYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImhrMDEubGlua2l0bm93Lm5ldCIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjEuNjltcyJ9
-vless://1c71bd88-0477-4f4b-a6c0-9dd69e2ab456@104.21.20.148:8443?security=tls&sni=Iran.harchi.monster&type=grpc&fp=chrome&alpn=http/1.1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.83ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.241.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@kh2.mahdi383ir.website:9090?security=reality&encryption=none&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&headerType=none&fp=firefox&spx=%2F2is4xjLZzENeuOA&type=tcp&sni=tgju.org&sid=57d56055#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:51.27ms
+https://t.me/proxy?server=91.239.192.21&port=77777&secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D
+https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=168.119.246.228&port=8443&secret=fgScoaLSXQYtLCM8VHoNng
+https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=172.65.103.110&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=88.198.89.121&port=8443&secret=fgScoaLSXQYtLCM8VHoNng
+https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=78.47.212.145&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=185.115.161.234&port=9443&secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIA
+https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng
+https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=185.84.157.13&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=%2F%3Fed
+https://t.me/proxy?server=51.77.108.242&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=saborbash-2vasle.mine-freedom.site&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
