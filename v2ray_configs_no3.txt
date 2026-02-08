@@ -1,15 +1,15 @@
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.125.100:80?security=none&type=ws&host=us3.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.01ms
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.51:443?security=tls&sni=kkh.ylks.link&type=ws&path=/blue#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:22.04ms
-vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.233.73.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:103.7ms
-trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:30.76ms
-trojan://c3639d5d-089e-4a76-90a5-8640b3cc2fb8@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:389.05ms
-trojan://be233a26-7f29-4a44-b7d5-13906d89342b@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:399.39ms
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me%2fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Yue On Court🅿️ping:221.2ms
-trojan://7612839c-f62f-42cc-9051-8413b5a8cbcf@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:399.67ms
-trojan://1a16aca4-edac-4359-bebb-9f67a5259421@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:389.05ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:399.39ms
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=%f0%9f%94%92+%5bBy+EbraSha%5d+trojan-HK+#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Yue On Court🅿️ping:221.2ms
-trojan://be233a26-7f29-4a44-b7d5-13906d89342b@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:389.05ms
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Yue On Court🅿️ping:221.2ms
-trojan://7d6ba2b0-38a6-45c8-be22-1bfb05a9ff99@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:389.05ms
-trojan://2ce584a8-9960-4e1f-a820-30e54822c839@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:389.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsTG54Mm9taVcydEd6QVduTUlYVFNL@217.65.79.67:29052#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Dronten🅿️ping:31.55ms
+trojan://BHepoZ17P6PMR9wFrGfNRw@194.238.57.161:444?security=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Washington D.C.🅿️ping:47.98ms
+ss://YWVzLTI1Ni1nY206T3ZzMmFQeUJXdGdwSG5uVzFxUHVmVUdwM0xRUmxJdmxRWkQyM2wvR3Y2Yz0@83.229.85.63:36637#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Bergen-Enkheim)🅿️ping:22.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:92.44ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.146:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:63.57ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:64.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43663#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:95.47ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:63.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:64.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:92.63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#👉🆔@v2ray_configs_pool📡🇳🇬®️Nigeria©️Lagos🅿️ping:137.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#👉🆔@v2ray_configs_pool📡🇲🇦®️Morocco©️Fes🅿️ping:66.28ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11203#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:324.47ms
