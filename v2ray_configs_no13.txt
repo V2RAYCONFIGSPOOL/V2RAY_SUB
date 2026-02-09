@@ -1,15 +1,15 @@
-trojan://gIRrGnuuNm@188.42.88.144:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:22ms
-trojan://gIRrGnuuNm@188.42.88.252:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:22ms
-trojan://gIRrGnuuNm@45.85.119.0:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:22ms
-trojan://gIRrGnuuNm@45.85.119.179:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:22ms
-trojan://gIRrGnuuNm@45.85.119.29:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:22ms
-trojan://gIRrGnuuNm@45.95.241.101:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#👉🆔@v2ray_configs_pool📡🇮🇲®️Isle of Man©️Douglas🅿️ping:22ms
-trojan://feaf546b-95ef-4b98-93e6-e61392a72be0@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#👉🆔@v2ray_configs_pool📡🇲🇾®️Malaysia©️Kuala Lumpur🅿️ping:323ms
-trojan://hpS304VqvF@190.93.246.241:2087?security=tls&sni=panel.proxystore11.site&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇷®️Costa Rica©️Pozos🅿️ping:22ms
-trojan://humanity@104.18.10.110:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://humanity@104.18.32.37:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://humanity@104.18.32.37:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://humanity@104.18.32.47:443/?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=/assignment&security=tls&sni=www.multiplydose.com&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://xxoo@138.124.183.226:443?security=tls#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:104ms
+trojan://xxoo@138.124.183.226:443?security=tls#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:107ms
+trojan://xxoo@146.19.230.241:443?security=tls#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+trojan://xxoo@146.19.230.241:443?security=tls#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:37ms
+trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+trojan://yZOZ8GWc8K@104.21.44.126:443?security=tls&sni=de.vpncustomize.website&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://yZOZ8GWc8K@104.21.44.126:443?security=tls&sni=de.vpncustomize.website&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://your_password@104.21.7.241:443?security=tls&sni=aws-sg-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-sg-1.f1cflineb.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:23ms
+trojan://your_password@104.21.7.241:443?security=tls&sni=aws-sg-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-sg-1.f1cflineb.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://your_password@104.21.73.195:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://your_password@104.21.73.195:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://your_password@172.67.165.204:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
