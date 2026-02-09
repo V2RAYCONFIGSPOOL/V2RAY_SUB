@@ -1,1 +1,4 @@
-ss://YWVzLTI1Ni1nY206cGFzc3dvcmQ=@qpwhjq.shvpn.xyz:443/?plugin=none;obfs=plain;proto=origin;udp=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:50ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:2096?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:426ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://9523a24b-f6bf-339e-9950-32829162ffc2@s1.db-link.in:443?host=dabaihk.webn.cc&path=%2Fdb1024532f9883c8&security=tls&sni=dabaihk.webn.cc&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:608ms
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@vip1.kaixincloud.top:443?host=cf.cloudip.ggff.net&path=%2Fpyip%3Dproxyip.cmliussss.net&security=tls&sni=cf.cloudip.ggff.net&type=ws#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:677ms
