@@ -1,15 +1,2 @@
-trojan://pjdnqv@172.67.216.95:443?security=tls&sni=aws-us-oregon-1.f1cflined.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflined.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://psycho@104.21.112.1:443?security=tls&sni=pSYcho.sUeX12.IR#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://psycho@104.21.112.1:443?security=tls&sni=pSYcho.sUeX12.IR#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=cdn-21.gsmxreality.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=cdn-21.gsmxreality.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=cdn-21.gsmxreality.com&allowInsecure=1&serviceName=443trojan#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=cdn-21.gsmxreality.com&allowInsecure=1&serviceName=443trojan#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Hafnarfjordur🅿️ping:66ms
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Hafnarfjordur🅿️ping:67ms
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Hafnarfjordur🅿️ping:66ms
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Hafnarfjordur🅿️ping:66ms
+vless://00000000-0000-4000-8000-000000000000@173.249.201.109:18521?encryption=none&security=tls&sni=mot.saghv.filegear-sg.me&type=ws&host=mot.saghv.filegear-sg.me&path=%2F%40Marisa_kristi#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco🅿️ping:167ms
+vless://00000000-0000-4000-8000-000000000000@173.249.201.109:18521?encryption=none&security=tls&sni=mot.saghv.filegear-sg.me&type=ws&host=mot.saghv.filegear-sg.me&path=%2F%40Marisa_kristi#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco🅿️ping:166ms
