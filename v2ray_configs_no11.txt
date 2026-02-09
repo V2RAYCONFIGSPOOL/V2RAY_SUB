@@ -1,15 +1,10 @@
-vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.75.172.33:28027?type=tcp&headerType=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.37ms
-vless://604b75e0-20fc-4718-e648-37817fcf7bf6@3.125.33.249:52689?type=tcp&headerType=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.01ms
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.153.32.210:443?type=tcp&headerType=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.07ms
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@imgur.com:80?type=ws&host=madar-benyamin-salavat.global.ssl.fastly.net&path=/containers/fi&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.67ms
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.83ms
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.18ms
-vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.53ms
-vless://3cadf249-13a2-413f-867a-a802964f914d@18.159.41.27:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.19ms
-vless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@18.153.80.0:48764?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.03ms
-vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.71.111.91:19285?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.33ms
-vless://3f3c58a3-560f-4542-b1a5-c038130e101b@178.21.161.152:443?type=ws&path=%2FXvonVpn&host=&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:105.9ms
-vless://0097fd86-4719-47f8-a006-58a877921986@ir.powersport.forum:443?type=tcp&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:133.29ms
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@imgur.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=madar-benyamin-salavat.global.ssl.fastly.net&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.67ms
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Denver🅿️ping:21.59ms
-vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=afrcloud4.c01.kr&type=ws&sni=afrcloud4.c01.kr#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.73ms
+trojan://whyvpn-7dayaktif@104.18.10.39:443?security=tls&sni=do3.kitu.xyz&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://whyvpn-7dayaktif@104.18.10.39:443?security=tls&sni=do3.kitu.xyz&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:80ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:45ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=/#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:41ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&path=/#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:91ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:60ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo (Alna District)🅿️ping:44ms
+trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles (Central-Alameda)🅿️ping:171ms
+trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles (Central-Alameda)🅿️ping:171ms
