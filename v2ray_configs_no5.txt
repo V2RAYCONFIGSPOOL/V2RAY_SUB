@@ -1,15 +1,15 @@
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:401ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:485ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:420ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:491ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:515ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:512ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:581ms
-trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:517ms
-trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:79ms
-trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:102ms
-trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443?security=tls#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:111ms
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.17.245.1:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443?security=tls#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:120ms
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.18.118.51:443?security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47ms
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.17.245.1:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=219.76.135.98#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:222ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:230ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=219.76.135.98#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:236ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:228ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:235ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:235ms
+trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:237ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:1237ms
+trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:211ms
+trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:227ms
+trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:225ms
+trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:226ms
+trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:264ms
+trojan://BxceQaOe@43.198.233.56:381?sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:211ms
+trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:204ms
