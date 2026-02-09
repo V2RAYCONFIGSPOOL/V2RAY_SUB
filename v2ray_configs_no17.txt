@@ -1,9 +1,7 @@
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443?sni=paydiu.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:161ms
-trojan://ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0@64.181.227.82:443?sni=snippets.kkii.eu.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Jose (Edenvale)🅿️ping:157ms
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.58:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Newark🅿️ping:101ms
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.58:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Newark🅿️ping:99ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:197ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:194ms
-trojan://5a2c16f9@172.64.229.64:443?sni=snippets.kkii.eu.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:23ms
-trojan://5a2c16f9@172.64.229.64:443?sni=snippets.kkii.eu.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://xxoo@146.19.230.241:443?sni=bmi.ir#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:36ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Jose🅿️ping:168ms
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.16.189.230:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@162.159.153.194:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.19.216.146:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@172.67.177.193:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.19.74.22:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&path=%2F&security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.167.81:2087?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vl.hongkong6.qzz.io&path=%2F&security=tls&sni=vl.hongkong6.qzz.io&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
