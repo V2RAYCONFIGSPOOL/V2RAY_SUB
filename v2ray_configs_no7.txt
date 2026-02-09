@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#👉🆔@v2ray_configs_pool📡🇪🇪®️Estonia©️Tallinn🅿️ping:46ms
+vless://aee46a49-c99e-4c58-b443-4fff31f10ff4@vb30.sibitc.ir:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=chatgpt.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:106ms
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.12.5:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:29ms
