@@ -1,15 +1,15 @@
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.75.88.218:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.76.125.52:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25ms
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.75.83.91:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:1024ms
-vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.224.71:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
-vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@18.184.157.15:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
-vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.72.12.50:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Grünheide🅿️ping:22ms
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.153.32.210:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-vless://3cadf249-13a2-413f-867a-a802964f914d@18.159.41.27:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-vless://cbf69c40-f872-4cfb-858e-dd143468b272@3.123.34.191:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
-vless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@18.153.80.0:48764?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24ms
-vless://275ea421-8419-4d72-9348-4c4e9b5b2f1f@18.153.69.128:37183?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@18.184.226.36:19592?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25ms
-vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.75.172.33:28027?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
-vless://604b75e0-20fc-4718-e648-37817fcf7bf6@3.125.33.249:52689?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:84ms
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:299ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Mumbai🅿️ping:197ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:52ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:49ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:263ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:147ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:144ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:143ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Phoenix🅿️ping:1186ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:104ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:43ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:41ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:256ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:144ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:144ms
