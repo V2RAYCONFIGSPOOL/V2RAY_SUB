@@ -1,1 +1,15 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#👉🆔@v2ray_configs_pool📡🇪🇪®️Estonia©️Tallinn🅿️ping:46ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:3306#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:23ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3306#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:30ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:3306#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:23ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3306#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:33ms
+vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.75.88.218:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.76.125.52:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.75.83.91:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
+vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.75.88.218:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.76.125.52:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.75.83.91:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@18.184.157.15:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
+vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.72.12.50:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Grünheide🅿️ping:22ms
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.153.32.210:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+vless://3cadf249-13a2-413f-867a-a802964f914d@18.159.41.27:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+vless://cbf69c40-f872-4cfb-858e-dd143468b272@3.123.34.191:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
