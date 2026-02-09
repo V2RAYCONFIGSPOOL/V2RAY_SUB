@@ -1,15 +1,15 @@
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=219.76.135.98#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:222ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:230ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=219.76.135.98#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:236ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:228ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:235ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:235ms
-trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:237ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:1237ms
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:211ms
-trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:227ms
-trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:225ms
-trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Central🅿️ping:226ms
-trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:264ms
-trojan://BxceQaOe@43.198.233.56:381?sni=t.me%2Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:211ms
-trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:204ms
+trojan://telegram-id-privatevpns@18.199.2.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+trojan://telegram-id-privatevpns@18.199.2.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
+trojan://telegram-id-privatevpns@63.182.1.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:65ms
+trojan://telegram-id-privatevpns@63.182.1.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:65ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:67ms
+trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:90ms
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:68ms
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:68ms
+trojan://trojan@ip.sb:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:66ms
