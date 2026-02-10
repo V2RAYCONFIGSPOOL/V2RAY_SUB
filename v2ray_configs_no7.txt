@@ -1,15 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
-ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@217.30.10.18:9026#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:41ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#👉🆔@v2ray_configs_pool📡🇲🇽®️Mexico©️Mexico City🅿️ping:227ms
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.18:9097#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:37ms
-ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.18:9018#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
-ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@217.30.10.70:9070#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:37ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.70:9014#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:37ms
-ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:36ms
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.18:9046#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:37ms
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:36ms
-ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:37ms
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.18:9053#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:36ms
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.18:9038#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:36ms
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:41ms
+vmess://eyJhZGQiOiAiMjE3LjIxNy4yNTUuOTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgzMDQ5YmRhLThkNTMtNDRiYy1mNzFjLWY2YjAzYzFjYTQ4MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1x1MDBhZVx1ZmUwZlNpbmdhcG9yZVx1MDBhOVx1ZmUwZlNpbmdhcG9yZVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTc4bXMifQ==
+vmess://eyJhZGQiOiAibmV4dG1pLmhham15YWIuaXIiLCAiYWlkIjogMCwgImhvc3QiOiAiYXBwLmhham15YWIuaXIiLCAiaWQiOiAiOTU4NTYzNmEtNTRiYy00MTlhLTkwYTEtNzZjNWM2ZWM3NGRmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwNTMsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC1XZXJpZnkiOiB0cnVlLCAic25pIjogInlha3h2dGZieWsuaGFqbXlhYi5pciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHUwMGFlXHVmZTBmVW5pdGVkIFN0YXRlc1x1MDBhOVx1ZmUwZkF1c3RpbiAoRm91ciBQb2ludHMgQ2VudHJlKVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6NDRtcyJ9
+vless://0290082e-071e-4b8a-a712-772a2612b605@193.160.209.95:4443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:36ms
+vless://0290082e-071e-4b8a-a712-772a2612b605@147.45.237.23:4443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:37ms
