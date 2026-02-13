@@ -1,1 +1,1 @@
-vless://0d30e81c-ee27-46dd-aa3d-7796da838b75@perl.org:80?encryption=none&security=none&type=ws&host=lexeu.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:2328ms
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms
