@@ -1,15 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Kudepsta🅿️ping:47.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:60.87ms
-ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:80#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda City🅿️ping:239.3ms
-ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda City🅿️ping:259.7ms
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ@46.250.254.170:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda City🅿️ping:238.81ms
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ@46.250.254.170:80#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda City🅿️ping:238.81ms
-ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag@149.102.132.184:80#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:38.61ms
-ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag@149.102.132.184:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:39.12ms
-ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA@149.102.132.180:80#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:44.45ms
-ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA@149.102.132.180:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:37.96ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYWVHR2NlZkUzTklRWDFRRzVPTFd0@62.133.63.21:65262#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:88.74ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VHFFMENqZHctdUxTOEZFOHdZaGJn@62.133.63.21:1080#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:68.91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg3MGRkYS00OGZjLTQzZDMtYmZhNi1mOTljZjQ5NTg2OTA@91.84.107.62:29305#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:66.61ms
-ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw@199.247.27.182:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:28.58ms
-ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw@199.247.27.182:80#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:28.74ms
+vless://ef27f25c-74db-4ef1-bdc7-a53c98f48054@ip1-cloud.tyryqyserver.ir:2052?security=none&type=ws&headerType=&path=%2F%3Fed%3D2052&host=norbert-cloud-de.ocean-pro.top#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:2232ms
