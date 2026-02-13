@@ -1,15 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:221ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGJjYzA4NzRkMzljMzkx@38.54.93.205:11201#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:213ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjU0ZDk1N2M1ZjYxNjQw@38.54.93.107:11201#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:221ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49695#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:212ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.65:990#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:221ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.87:990#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:248ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49694#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:221ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:295ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA%3D%3D@srv12.outlinekeys.com:1080#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:274ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OUFCOWRWNlN6Y1RUXzB2UHliV2J2bzQza1Uyc01Gaw%3D%3D@srv12.outlinekeys.com:1080#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:288ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOW9ucXJTcXgxX3lFdk1ueFdIQlRITWNfZ3dqVFFLdA%3D%3D@srv12.outlinekeys.com:1080#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:256ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma3hYaFM5VlVtV21vQzlOOXh1MldCalZvRUdWN1VaVA%3D%3D@srv12.outlinekeys.com:1080#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:290ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42935#👉🆔@v2ray_configs_pool📡🇰🇼®️Kuwait©️Al Jahra🅿️ping:108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#👉🆔@v2ray_configs_pool📡🇰🇼®️Kuwait©️Al Jahra🅿️ping:106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#👉🆔@v2ray_configs_pool📡🇰🇼®️Kuwait©️Al Jahra🅿️ping:108ms
+vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?encryption=none&security=reality&sni=vk.com&fp=chrome&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&sid=938f14cf6757a249&type=xhttp&path=%2F&mode=auto#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:72ms
