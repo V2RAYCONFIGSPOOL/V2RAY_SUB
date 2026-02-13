@@ -1,15 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQTFsSUVHVUVWOVFaVnA1VFUzUFJX@216.105.168.18:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:1173ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcnlYUnlaOU1ZcjQ5eTJPdkVZVlJx@78.40.116.165:30604#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Tällberg🅿️ping:43ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWEh5THh0aUp6SldHOURtVk13QWJU@91.238.180.132:18611#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#👉🆔@v2ray_configs_pool📡🇱🇺®️Luxembourg©️Schieren🅿️ping:26ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:61ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRkJaUUlKQ1pHT2Z3aEhGbE96Szdy@185.39.204.189:34085#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRkJaUUlKQ1pHT2Z3aEhGbE96Szdy@185.39.204.189:34085#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:66ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbW43ZEhQdzV3TmZrcVFNUGNHV1FB@31.3.209.183:28212#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Ust-Kamenogorsk🅿️ping:90ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLR1BYcHY1UWpSZmxLZkdQUzBsdE5x@206.206.125.53:20199#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg==@37.221.125.38:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSHFwdFp4RFZzblFmMHdMMkVnTnVv@83.217.9.140:1381#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKN3VyZzl5Ym1vbnc2S01UanBPd1E2@62.133.60.60:7048#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMG94eEtIUEZNOTZXYVZiWjFHQ3V4@62.60.233.219:55922#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:61ms
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423?security=tls&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:264ms
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.116.227:3423?security=tls&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:269ms
