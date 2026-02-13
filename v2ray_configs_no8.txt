@@ -1,1 +1,1 @@
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Krasnoyarsk🅿️ping:40ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v1.hiddendom.shop&alpn=h2&insecure=0&allowInsecure=0&type=grpc#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:2096ms
