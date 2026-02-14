@@ -1,15 +1,15 @@
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ==@94.72.127.55:80#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:172ms
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ==@94.72.127.55:80#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:176ms
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:176ms
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:223ms
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:208ms
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:174ms
-ss://YWVzLTI1Ni1nY206dHh3bDY2Ng==@113.108.81.189:80#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Guangzhou🅿️ping:279ms
-ss://YWVzLTI1Ni1nY206dHh3bDY2Ng==@123.150.76.218:80#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Youyilu🅿️ping:245ms
-ss://turboo-server@cdn.turbooserver.com:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=jone-turboo-server.com&amp;path=%2Fed%3D2056#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:80ms
-trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir&type=ws&host=mail.link.link-kon.ir&path=%2FtrPrm7agLwtAsC9J9F%3Fed%5Cu003d2560&fp=randomized&alpn=http/1.1#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:28ms
-ss://YWVzLTI1Ni1nY206dHh3bDY2Ng==@203.205.254.157:80#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:200ms
-ss://YWVzLTI1Ni1nY206dHh3bDY2Ng==@qq.com:80#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Youyilu🅿️ping:324ms
-trojan://001c5ea4-d6a0-4f7f-ba13-dfec87c74191@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:425ms
-trojan://001c5ea4-d6a0-4f7f-ba13-dfec87c74191@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:497ms
-trojan://001c5ea4-d6a0-4f7f-ba13-dfec87c74191@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:516ms
+trojan://trojan@104.18.12.229:8443?security=tls&sni=azadnet-f03.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=azadnet-f03.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.18.13.229:8443?security=tls&sni=azadnet-f03.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=azadnet-f03.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.24.57.5:443?encryption=none&amp;security=tls&amp;sni=azadnet2-dl4.pages.dev&amp;type=ws&amp;host=azadnet2-dl4.pages.dev&amp;path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&amp;sni=fofang.pages.dev&amp;allowInsecure=1&amp;type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&amp;sni=fofang.pages.dev&amp;type=tcp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=true&type=ws&host=fofang.pages.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&type=ws&host=fofang.pages.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&type=ws&host=fofang.pages.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.12.31:8443?security=tls&sni=qianlang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=qianlang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.13.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=true&type=ws&host=fofang.pages.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.13.31:8443?security=tls&sni=fofang.pages.dev&type=ws&host=fofang.pages.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://trojan@104.26.13.31:8443?security=tls&sni=fofang.pages.dev&type=ws&host=fofang.pages.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
