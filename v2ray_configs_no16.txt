@@ -1,15 +1,2 @@
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?allowInsecure=1&peer=creativecommons.org&sni=creativecommons.org#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Wuqia (Wuqia County)🅿️ping:100ms
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=1&peer=www.nintendogames.net&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:287ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSHFwdFp4RFZzblFmMHdMMkVnTnVv@83.217.9.140:1381#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:63ms
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=1&peer=www.nintendogames.net&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:264ms
-vless://9264c736-5315-473e-b60d-3586a31714bf@104.18.126.50:443?mode=multi&security=tls&encryption=none&type=ws&sni=in1s-s.pqvip.top&path=%2Fpq%2Fin1&host=in1s-s.pqvip.top#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-vless://9264c736-5315-473e-b60d-3586a31714bf@104.18.126.50:443?mode=multi&security=tls&encryption=none&type=ws&sni=in1s-s.pqvip.top&path=%2Fpq%2Fin1&host=in1s-s.pqvip.top#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=1&peer=www.nintendogames.net&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:262ms
-trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?allowInsecure=1&peer=qfdfsg.wsone.icu&sni=qfdfsg.wsone.icu#👉🆔@v2ray_configs_pool📡🇮🇩®️Indonesia©️Jakarta🅿️ping:247ms
-trojan://M7v%w11Se*@qfdfsg.wsone.icu:443?allowInsecure=1&peer=qfdfsg.wsone.icu&sni=qfdfsg.wsone.icu#👉🆔@v2ray_configs_pool📡🇮🇩®️Indonesia©️Jakarta🅿️ping:255ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.223:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:207ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.223:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:282ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:203ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:278ms
-vless://9264c736-5315-473e-b60d-3586a31714bf@104.18.126.50:443?mode=multi&security=tls&encryption=none&type=ws&sni=in1s-s.pqvip.top&path=%2Fpq%2Fin1&host=in1s-s.pqvip.top#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.216:38388#👉🆔@v2ray_configs_pool📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:279ms
+trojan://fb3e7204-949c-4e44-a22e-e02e3c27b251@edfr.222560.xyz:443?allowInsecure=0&sni=edfr.222560.xyz#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:116ms
+trojan://300b0303-117d-4bbd-bc87-2787168b9291@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:510ms
