@@ -1,15 +1,12 @@
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Roosendaal🅿️ping:35ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.38.163:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:142ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Roosendaal🅿️ping:29ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.38.163:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Port Saint Lucie🅿️ping:141ms
-ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU@167.160.90.51:11475#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Larose🅿️ping:162ms
-ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU@167.160.90.51:11475#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Larose🅿️ping:162ms
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.2:443#👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍♀️©️🤷‍♀️🅿️ping:1ms
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.2:443#👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍♀️©️🤷‍♀️🅿️ping:1ms
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.6:443#👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍♀️©️🤷‍♀️🅿️ping:1ms
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Mumbai🅿️ping:187ms
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Mumbai🅿️ping:202ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:40ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:42ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:281ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:40ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.213:443#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Varberg🅿️ping:45ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.213:443#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Varberg🅿️ping:49ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.214:443#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Varberg🅿️ping:49ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.214:443#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Varberg🅿️ping:49ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.131:443#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:32ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.131:443#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:32ms
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.70:9084#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.70:9084#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:42ms
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@194.116.173.21:9038#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:105ms
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@194.116.173.21:9038#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:104ms
