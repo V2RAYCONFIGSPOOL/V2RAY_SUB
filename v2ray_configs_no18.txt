@@ -1,3 +1,4 @@
-trojan://3f83b84d-b69a-4386-887a-ee51b1d18fe8@green2.cdntencentmusic.com:31102?allowInsecure=1&peer=green2.cdntencentmusic.com&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:472ms
-trojan://3f83b84d-b69a-4386-887a-ee51b1d18fe8@green2.cdntencentmusic.com:31102?allowInsecure=1&peer=green2.cdntencentmusic.com&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:386ms
-trojan://b9c3a952-bd14-4d4a-a1db-afd53fa1c414@green2.cdntencentmusic.com:31101?allowInsecure=0&peer=green2.cdntencentmusic.com&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:472ms
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@54.64.61.41:2890?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:257ms
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:260ms
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@54.64.61.41:2890?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:259ms
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:266ms
