@@ -1,15 +1,2 @@
-trojan://telegram-id-privatevpns@15.236.182.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:70ms
-trojan://telegram-id-privatevpns@15.236.182.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:33ms
-trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
-trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46ms
-trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:67ms
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
-trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:67ms
+vless://2331eecc-ae6e-4513-81f0-2bee4b103bed@CF4.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=vless&sni=fn2.roshdadcollection.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:1865ms
+vless://2331eecc-ae6e-4513-81f0-2bee4b103bed@CF6.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=vless&sni=de6.roshdadcollection.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:89ms
