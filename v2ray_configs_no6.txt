@@ -1,15 +1,15 @@
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@de01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:763ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@hk05.trojanyyds.xyz:443?security=tls&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:581ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@de01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:1135ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@in01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:667ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@hk05.trojanyyds.xyz:443?security=tls&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:798ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:506ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@in01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:747ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:626ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:425ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:479ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:744ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:586ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:839ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@us01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:532ms
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:764ms
+trojan://telegram-id-privatevpns@15.236.182.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:70ms
+trojan://telegram-id-privatevpns@15.236.182.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:33ms
+trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23ms
+trojan://telegram-id-privatevpns@3.75.51.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22ms
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46ms
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:67ms
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
+trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:67ms
