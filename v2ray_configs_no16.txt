@@ -1,6 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.200:8388#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:202ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.113:8388#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:200ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.200:8388#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:199ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.113:8388#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Wan Chai🅿️ping:202ms
-vless://cb6724d6-4900-4188-ae20-5d89b626394d@a.cdn-bilibili.cn:58472?security=reality&type=tcp&sni=www.discoverasr.com&fp=firefox&flow=xtls-rprx-vision&sid=44ef9a66271b4e&pbk=f6jIBpzHwC1lDAwvJojvEIPlwZqyEkL0gVsJxmeRLCI&encryption=none#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:1147ms
-vless://cb6724d6-4900-4188-ae20-5d89b626394d@a.cdn-bilibili.cn:58472?security=reality&type=tcp&sni=www.discoverasr.com&fp=firefox&flow=xtls-rprx-vision&sid=44ef9a66271b4e&pbk=f6jIBpzHwC1lDAwvJojvEIPlwZqyEkL0gVsJxmeRLCI&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Wilmington🅿️ping:1008ms
+trojan://362dfc91-1e4e-4147-a8eb-05c3b38b9043@FE2NKzX9ZlDeVj8UAGoh.03.karyl.top:32104?sni=us.karyl.cc&allowInsecure=1&type=ws&path=%2F&fp=chrome#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:240ms
