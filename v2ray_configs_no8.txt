@@ -1,1 +1,1 @@
-vless://570d1a03-6acf-40ca-819e-1049906235d9@38.207.130.145:48816?security=reality&type=tcp&allowInsecure=1&sni=www.python.org&fp=random&flow=xtls-rprx-vision&sid=21280d81&pbk=fk4uHkIWXJ5MbcsFASbAhKlC5gV9m-XovXftmIDSuxo#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:265ms
+trojan://362dfc91-1e4e-4147-a8eb-05c3b38b9043@Xien1TEqCOz0MxmvgVK7.b.karyl.top:32207?sni=s1.hdslb.com&allowInsecure=1&type=ws&path=%2F&fp=chrome#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:243ms
