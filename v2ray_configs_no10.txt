@@ -1,15 +1,15 @@
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@104.21.44.213:443?path=/r862SIwqItkD5XgXAL&security=tls&alpn=http/1.1&host=GGgnhHY.huaNGSHang.ONLInE&type=ws&sni=GGGNHHY.huanGshANg.ONlinE#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@104.21.44.213:443?security=tls&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%2F1.1&type=ws&host=GGgnhHY.huaNGSHang.ONLInE&path=%2Fr862SIwqItkD5XgXAL#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@172.67.136.117:443?path=/r862SIwqItkD5XgXAL&security=tls&alpn=http/1.1&host=nnMJKi9.191262.xYz&type=ws&sni=nnMJkI9.191262.xYz#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@172.67.136.117:443?security=tls&sni=nnMJkI9.191262.xYz&alpn=http%2F1.1&type=ws&host=nnMJKi9.191262.xYz&path=%2Fr862SIwqItkD5XgXAL#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?sni=GGbNH.7777198.xyZ&peer=GGbNH.7777198.xyZ&security=tls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:79ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@tyu.bb1.ccwu.cc:443?allowInsecure=0&sni=tYu.BB1.Ccwu.cC&ws=1&wspath=%2Fr862SIwqItkD5XgXAL#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:82ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@tyu.bb1.ccwu.cc:443?sni=tYu.BB1.Ccwu.cC#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:74ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vbhk.999864.xyz:443?allowInsecure=0&sni=vbHK.999864.xYz&ws=1&wspath=%2Fr862SIwqItkD5XgXAL#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:83ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vbhk.999864.xyz:443?sni=vbHK.999864.xYz#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:122ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@xxd.nu0.de5.net:443?allowInsecure=0&sni=xxD.nU0.De5.Net&ws=1&wspath=%2Fr862SIwqItkD5XgXAL#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:77ms
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@xxd.nu0.de5.net:443?sni=xxD.nU0.De5.Net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:74ms
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26ms
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:347ms
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:383ms
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31101?sni=green2.cdntencentmusic.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Neihu District🅿️ping:410ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:267ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:263ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:281ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:274ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?security=tls&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:251ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:279ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:264ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:260ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.33:3423?security=tls&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:257ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.33:3423?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:265ms
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.33:3423?sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:251ms
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=gozar1.i2fed.com&fp=chrome&type=ws&sni=gozar1.i2fed.com#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:22ms
+vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=gozar1.i2fed.com&fp=chrome&type=ws&sni=gozar1.i2fed.com#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:22ms
