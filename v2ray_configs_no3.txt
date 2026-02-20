@@ -1,1 +1,2 @@
-vless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@213.176.1.45:45471?security=&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Qom🅿️ping:151ms
+vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:51ms
+vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?encryption=none&security=none&type=ws&host=floral-term-d21f.wafajax493.workers.dev&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
