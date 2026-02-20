@@ -1,1 +1,1 @@
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:52ms
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bgt.1x2.indevs.in:443?sni=bgt.1x2.indevs.in&allowInsecure=1&type=ws&path=%2Fy1moM5CyNvYMZlzsYHmsMrnO&alpn=http%2F1.1&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:49ms
