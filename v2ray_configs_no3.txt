@@ -1,8 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:76ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.105.48.144:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:39ms
-vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?&security=tls&fp=chrome&alpn=h2&sni=deu469.unboundworld.org&type=grpc&serviceName=&mode=gun#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:51ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:67ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.105.48.144:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:38ms
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1&sni=free-de-2.undef.network&ws=1&wspath=%252Ff2fc2a1f#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:141ms
-vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?&security=tls&fp=chrome&alpn=h2&sni=deu469.unboundworld.org&type=grpc&serviceName=&mode=gun#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:62ms
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1&sni=free-de-2.undef.network&ws=1&wspath=%252Ff2fc2a1f#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:236ms
+# Upload Time: 2026-02-22 20:21:20
+
+`trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#👉🆔@v2ray_configs_pool📡`
