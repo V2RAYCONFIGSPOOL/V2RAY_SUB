@@ -1,3 +1,3 @@
-vless://75f1b0dd-f6c0-49eb-a421-54cd8b3778ac@usrna.osaip.net:15055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=1&sni=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Las Vegas (Downtown Las Vegas)🅿️ping:207ms
-vless://75f1b0dd-f6c0-49eb-a421-54cd8b3778ac@usrna.osaip.net:15055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=1&sni=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Las Vegas (Downtown Las Vegas)🅿️ping:202ms
-vless://75f1b0dd-f6c0-49eb-a421-54cd8b3778ac@usrna.osaip.net:15055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=1&sni=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Las Vegas (Downtown Las Vegas)🅿️ping:213ms
+# Upload Time: 2026-02-22 20:21:15
+
+`ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#👉🆔@v2ray_configs_pool📡`
