@@ -1,15 +1,15 @@
-vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@87.228.101.143:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=4a3ad88ff867a295#جاوید نام میلاد فیضی نامیوندی🌹📡🇷🇺®️Russia©️St Petersburg🅿️ping:29.58ms
-vless://0da640df-a497-4ec2-8705-707c44705f47@fastly3.hamrahflow.ir:443?path=/&security=tls&encryption=none&insecure=0&host=Valsiin.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#جاوید نام ماهان مردانی🌹📡🇺🇸®️United States©️Denver🅿️ping:44.38ms
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?encryption=none&security=none&type=tcp&headerType=http#جاویدنام امیر صفری 🌹📡🇮🇷®️Iran©️Tehran🅿️ping:208.69ms
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#جاوید نام منصور مختاری🌹📡🇨🇦®️Canada©️Toronto🅿️ping:326.45ms
-vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#جاویدنام مصطفی یارسرخ آبادی 🌹📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:50.77ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.238:2096?path=/?ed=2560&telegram🇨🇳#جاویدنام امیر عباسی 🌹📡🇷🇺®️Russia©️Kaliningrad🅿️ping:21.86ms
-vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=nobitex.sylu.net&fp=chrome&type=ws&sni=nobitex.sylu.net#جاویدنام محمدطاها سلیمانی 🌹📡🇸🇨®️Seychelles©️Victoria🅿️ping:45.63ms
-vless://9523a24b-f6bf-339e-9950-32829162ffc2@172.66.44.211:443/?type=ws&encryption=none&flow=&host=dabaihk.webn.cc&path=%2Fdb1024532f9883c8&security=tls&sni=dabaihk.webn.cc&allowInsecure=1#جاویدنام سینا اشگبوسی 🌹📡🇨🇦®️Canada©️Toronto🅿️ping:21.77ms
-vless://bace8139-2adc-48ed-ace5-a2cc9720e31d@89.169.162.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#جاویدنام حامد بیابانی 🌹📡🇷🇺®️Russia©️Moscow (Tsentralnyy administrativnyy okrug)🅿️ping:122.57ms
-vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@104.18.166.203:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-4dfc2225.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#جاویدنام علیرضا جعفری چوکان 🌹📡🇨🇦®️Canada©️Toronto🅿️ping:21.94ms
-vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#جاویدنام امیر ضیافتی برخوردار 🌹📡🇨🇦®️Canada©️Toronto🅿️ping:22.02ms
-vless://DIGiV2RAY-@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#جاویدنام سیدمسلم فاطمی 🌹📡🇸🇪®️Sweden©️Stockholm🅿️ping:21.78ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM0ODRlZGNmMWJlNDNj@163.171.181.49:48852#جاوید نام محمدرضا مرادعلی🌹📡🇰🇼®️Kuwait©️Al Jahra🅿️ping:100.47ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#جاویدنام حسن عبدالمالکی 🌹📡🇨🇦®️Canada©️Toronto🅿️ping:48.58ms
-vless://4f322a4c-531b-45a6-8c8f-817b24c8245c@toxicoverme.mmdpro.ir:1457?security=&encryption=none&host=Excoino.com&headerType=http&type=tcp#جاوید نام پرنیان دبیری آبکناری🌹📡🇹🇷®️Turkey©️Başakşehir🅿️ping:91.63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#جاوید نام رضا رحمتی🌹📡🇫🇮®️Finland©️Helsinki🅿️ping:53ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#جاویدنام رسول کارگران طالخونچه 🌹📡🇷🇺®️Russia©️Kudepsta🅿️ping:46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#جاویدنام سعیده نوریان 🌹📡🇷🇴®️Romania©️Voluntari🅿️ping:75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU21mbDRUcTFyUmxCN2JvRFkzamx0@94.131.123.86:35361#جاوید نام ابراهیم صدری🌹📡🇹🇷®️Turkey©️Izmir🅿️ping:55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg@45.9.75.37:8000#جاوید نام مهرداد بهنام اصل🌹📡🇷🇺®️Russia©️Moscow🅿️ping:44ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#جاویدنام پژمان نیک بخت 🌹📡🇬🇧®️United Kingdom©️London🅿️ping:1083ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#جاویدنام علی رحمانی بنچناری 🌹📡🇸🇪®️Sweden©️Stockholm🅿️ping:42ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720#جاوید نام شاهو بهمنی🌹📡🇦🇺®️Australia©️Sydney🅿️ping:295ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#جاوید نام ارمیا فضلی🌹📡🇺🇸®️United States©️Lincolndale🅿️ping:131ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#جاویدنام رضا کرمی 🌹📡🇬🇧®️United Kingdom©️London🅿️ping:65ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#جاویدنام امیرحسین محمدی عبده وند 🌹📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31ms
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#جاوید نام علی اصغر خدادادی🌹📡🇨🇦®️Canada©️Beauharnois🅿️ping:113ms
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#جاویدنام مجید پوررستمی 🌹📡🇵🇱®️Poland©️Warsaw (Praga-Północ)🅿️ping:40ms
+ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#جاوید نام محمد محمدلو🌹📡🇬🇧®️United Kingdom©️London🅿️ping:24ms
+ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ@46.250.254.170:443#جاوید نام علی اصغر استخر🌹📡🇯🇵®️Japan©️Chiyoda City🅿️ping:267ms
