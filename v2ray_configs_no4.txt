@@ -1,20 +1,20 @@
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.147.115:2083?security=reality&serviceName=UpdateService&sni=barclays.co.uk&type=grpc#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.97ms
-vless://158ff041-6c92-43b2-85ea-9ad53c14c7c6@87.120.165.162:443?flow=xtls-rprx-vision&security=reality&sni=www.amd.com#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:36ms
-vless://158ff041-6c92-43b2-85ea-9ad53c14c7c6@87.120.165.162:443?flow=xtls-rprx-vision&security=reality&sni=www.amd.com#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.74ms
-vless://97fcac7b-0649-49b4-8263-a5621ffa7de0@193.178.226.202:443?flow=xtls-rprx-vision&security=reality&sni=nl.normbot.ru#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28ms
-vless://97fcac7b-0649-49b4-8263-a5621ffa7de0@193.178.226.202:443?flow=xtls-rprx-vision&security=reality&sni=nl.normbot.ru#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:27.51ms
-vless://52a4263d-2ad0-452d-a669-c2d2776f4c34@5.188.224.69:2083?security=reality&serviceName=UpdateService&sni=ir.ozone.ru&type=grpc#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow (Vostochnoye Degunino District)🅿️ping:58ms
-vless://da83025c-6edd-4f3b-979d-1cb0cf59f4d0@185.177.219.186:443?flow=xtls-rprx-vision&security=reality&sni=ru.kickvpn.ru#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Novosibirsk🅿️ping:88ms
-vless://da83025c-6edd-4f3b-979d-1cb0cf59f4d0@185.177.219.186:443?flow=xtls-rprx-vision&security=reality&sni=ru.kickvpn.ru#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Novosibirsk🅿️ping:87.74ms
-vless://9d9de5ad-4ce8-4d1e-870d-59fb859f5fa4@51.250.6.170:443?flow=xtls-rprx-vision&security=reality&sni=esg.x5.ru#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:58ms
-vless://9d9de5ad-4ce8-4d1e-870d-59fb859f5fa4@51.250.6.170:443?flow=xtls-rprx-vision&security=reality&sni=esg.x5.ru#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:57.75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.79ms
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?flow=xtls-rprx-vision&security=reality&sni=max.ru#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:77ms
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.238:2083?security=reality&serviceName=UpdateService&sni=apple.com&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:57ms
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.238:2083?security=reality&serviceName=UpdateService&sni=apple.com&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:94.85ms
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.11:2083?security=reality&serviceName=UpdateService&sni=apple.com&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:52ms
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.11:2083?security=reality&serviceName=UpdateService&sni=apple.com&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:58.83ms
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@avstrianoda.normbot.ru:443?flow=xtls-rprx-vision&security=reality&sni=avstrianoda.normbot.ru#👉🆔@v2ray_configs_pool📡🇦🇹®️Austria©️Vienna🅿️ping:98ms
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@avstrianoda.normbot.ru:443?flow=xtls-rprx-vision&security=reality&sni=avstrianoda.normbot.ru#👉🆔@v2ray_configs_pool📡🇦🇹®️Austria©️Vienna🅿️ping:72.84ms
-vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?flow=xtls-rprx-vision&host=gpuopen.com&security=reality&sni=gpuopen.com#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:24ms
-vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?flow=xtls-rprx-vision&host=gpuopen.com&security=reality&sni=gpuopen.com#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:25.36ms
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:42.82ms
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?security=reality&sni=hcaptcha.com&type=grpc#👉🆔@v2ray_configs_pool📡🇲🇩®️Moldova©️Chisinau🅿️ping:59ms
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?flow=xtls-rprx-vision&security=reality&sni=st-2.globalcache.onnstreaming.ru#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Imperial🅿️ping:33ms
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?security=reality&sni=hcaptcha.com&type=grpc#👉🆔@v2ray_configs_pool📡🇲🇩®️Moldova©️Chisinau🅿️ping:61.34ms
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?flow=xtls-rprx-vision&security=reality&sni=st-2.globalcache.onnstreaming.ru#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Imperial🅿️ping:30.48ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:62ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?flow=xtls-rprx-vision&security=reality&sni=www.alibaba.com#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:58ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:58.51ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?flow=xtls-rprx-vision&security=reality&sni=www.alibaba.com#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:57.49ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?flow=xtls-rprx-vision&security=reality&sni=www.aliexpress.com#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:59ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:53ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?flow=xtls-rprx-vision&security=reality&sni=www.aliexpress.com#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Bucharest🅿️ping:61.32ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?flow=xtls-rprx-vision&security=reality&sni=tradingview.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:53.02ms
+vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?flow=xtls-rprx-vision&security=reality&sni=google.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:26ms
+vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?flow=xtls-rprx-vision&security=reality&sni=google.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:26.86ms
+vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=60500a63ad12&sni=www.microsoft.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:127.03ms
+vless://d05f9ffb-a4ba-4f1c-af24-8e4c54609cb4@45.15.129.182:443?security=reality&sni=google.com#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:29ms
+vless://d05f9ffb-a4ba-4f1c-af24-8e4c54609cb4@45.15.129.182:443?security=reality&sni=google.com#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:29.22ms
+vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:116ms
+vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:54.99ms
