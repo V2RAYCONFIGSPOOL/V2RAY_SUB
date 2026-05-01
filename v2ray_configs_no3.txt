@@ -1,20 +1,20 @@
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-us.xiaobaivpn.icu:28811?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:213ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-hg.xiaobaivpn.icu:28809?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seoul🅿️ping:341.96ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-us.xiaobaivpn.icu:28810?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:202.08ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-us.xiaobaivpn.icu:28811?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:209.44ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-us.xiaobaivpn.icu:28812?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:204ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:397ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:383ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28806?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:355ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28813?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:256ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28814?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:280ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28815?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:223ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:149.52ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:324.76ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-us.xiaobaivpn.icu:28812?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Santa Clara🅿️ping:202.8ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28806?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:340.23ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:336.52ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28813?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:221.01ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28814?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:212.86ms
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28815?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:213.18ms
-vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:38.86ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.52ms
+vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:42.73ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?outline=1&prefix=POST%20N330abfk#👉🆔@v2ray_configs_pool📡🇿🇦®️South Africa©️Johannesburg🅿️ping:197.02ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:252.02ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda City🅿️ping:298.17ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Las Vegas🅿️ping:44.96ms
+vless://e94bfede-a3ef-4449-bfaf-36155a8dab5d@snapp.ir:2052?encryption=none&type=ws&path=%2Freq2&host=snappcdn1.gptpersian.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:81.35ms
+vless://1b41366f-d934-4c60-b64e-2c927168e22b@185.143.233.235:80?encryption=none&type=ws&headerType=none&path=%2F&host=uk.knet-prime.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:33.7ms
+vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:42.73ms
+vless://1b41366f-d934-4c60-b64e-2c927168e22b@snapp.ir:80?encryption=none&type=ws&headerType=none&path=%2F&host=uk.knet-prime.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.75ms
+vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:268.7ms
+trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28814?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:289.56ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:199.39ms
+trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28815?allowInsecure=0&peer=&sni=&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:219.11ms
+vless://e09c4b4d-b9ce-42fc-ae0f-437e36093d71@s01.jangalhayeanbouh.shop:8080?encryption=none&host=&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:103.66ms
+vless://e94bfede-a3ef-4449-bfaf-36155a8dab5d@snapp.ir:2052?encryption=none&type=ws&path=/req2&host=snappcdn1.gptpersian.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:81.35ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@44.32.224.198:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Calgary🅿️ping:167.95ms
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@franklinandwillow.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:95.2ms
+vless://9dfec434-7aae-4248-b2a5-e089f4e05377@anten.ir:2086/?type=ws&encryption=none&path=%2F&host=hap.kalaleh24.ir&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:125.52ms
+vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:33.7ms
