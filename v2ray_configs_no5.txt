@@ -1,20 +1,20 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.73:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&path=/&security=tls&sni=sni.111000.v6.rocks&type=ws#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford🅿️ping:42.08ms
-vless://55a7369b-84a9-444e-9c6d-6a4c78b7589a@ssbd.freewayorg.net:8880?path=%2Fmoz&security=&encryption=none&host=moz.tecnotech.ir&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.65ms
-vless://fab869b6-3a01-43e0-95e8-bbb9ed9626ad@sub.pardisvps.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:132.07ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Başakşehir🅿️ping:110.15ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Buffalo🅿️ping:167.53ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:103.48ms
-vless://7208f7a9-95d9-40c4-ab55-211681c14332@SnaPp.ir:2082?path=%2F&security=none&encryption=none&host=Mamad.mobilesubasa.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96.51ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#👉🆔@v2ray_configs_pool📡🇿🇦®️South Africa©️Johannesburg🅿️ping:197.84ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2095?encryption=none&security=none&type=ws&headerType=none&path=%2FTR%3Fed%3D2560&host=console.nonserver.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:315.95ms
-vless://6f762813-1862-4708-ad26-a8e1808e8cb4@snappfood.ir:2052?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:75.05ms
-vless://38bda3d7-90b5-4310-a21b-b2141313790b@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:38.21ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=%2FNL%3Fed%3D2560&host=console.nonserver.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:74.25ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2086?encryption=none&security=none&type=ws&headerType=none&path=%2FUS%3Fed%3D2560&host=console.nonserver.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:76.61ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@dns.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:72.64ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Başakşehir🅿️ping:114.7ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@monitor.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Buffalo🅿️ping:169.12ms
-vless://6f762813-1862-4708-ad26-a8e1808e8cb4@snappfood.ir:2052?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.99ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:69.45ms
-vless://38bda3d7-90b5-4310-a21b-b2141313790b@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:33.09ms
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2082?encryption=none&security=none&type=ws&headerType=none&path=%2FDE%3Fed%3D2560&host=console.nonserver.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:306.96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#👉🆔@v2ray_configs_pool📡🇵🇪®️Peru©️Santiago de Surco🅿️ping:203.76ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.185.37:990#👉🆔@v2ray_configs_pool📡🇲🇰®️North Macedonia©️Skopje🅿️ping:57.38ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.246.179:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Niederau🅿️ping:23.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo🅿️ping:41.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201#👉🆔@v2ray_configs_pool📡🇴🇲®️Oman©️Muscat🅿️ping:134.85ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.250.107:990#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:46.6ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.53ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:46.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.87ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.146.153:990#👉🆔@v2ray_configs_pool📡🇧🇭®️Bahrain©️Manama🅿️ping:135.99ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed%3D2560&security=tls&sni=sni.jpmj.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:48.79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.47.255.213:990#👉🆔@v2ray_configs_pool📡🇵🇷®️Puerto Rico©️San Juan🅿️ping:153.63ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇸®️Serbia©️Belgrade🅿️ping:46.74ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:91.15ms
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=none&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:76.92ms
+vless://e7d85765-88bf-4716-82fa-3deb154778ad@s3.tehranionliine.ir:80?type=ws&path=%2F&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:134.34ms
+vless://734e7cbd-57b0-421d-a27b-7a811d0cba54@snapp.ir:2086?type=ws&security=none&path=%2F&host=sv1.nopp.ir&encryption=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.91ms
+vless://183f4972-ee50-4225-ab2e-f664bb2d7c9d@irna.ir:2087?type=ws&security=tls&encryption=none&path=%2Fweb&host=m2.fardaamoz.ir&sni=m2.fardaamoz.ir&alpn=h2&fp=chrome#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.35ms
+vless://efd098ba-4e4d-4056-a480-dec12be1847b@snapp.ir:8080?encryption=none&host=web.babayaroabasino.ir&path=%2Fwp-content%2Faddons%2Fdownloader.php&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:171.95ms
