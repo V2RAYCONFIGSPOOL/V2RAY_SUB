@@ -1,20 +1,20 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:47ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:45ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:24ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:24ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaDBUVnc2NEI1N3dEUG9KMlZMc29n@5.230.184.171:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaDBUVnc2NEI1N3dEUG9KMlZMc29n@5.230.184.171:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
-vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:31.77ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28ms
-trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:25ms
-trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (South of Market)🅿️ping:43.37ms
-trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:28ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.138:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize City🅿️ping:49.01ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.138:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize City🅿️ping:49.01ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:45.13ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:45.13ms
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#👉🆔@v2ray_configs_pool📡🇨🇼®️Curacao©️Willemstad (Pietermaai)🅿️ping:46.63ms
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#👉🆔@v2ray_configs_pool📡🇨🇼®️Curacao©️Willemstad (Pietermaai)🅿️ping:46.63ms
-vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@de.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:55.89ms
-vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@de.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:55.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaUxSN2FBMGs1akp4djB1aWtRbFRV@78.129.140.11:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaUxSN2FBMGs1akp4djB1aWtRbFRV@78.129.140.11:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Maidenhead🅿️ping:37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Steventon🅿️ping:43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Steventon🅿️ping:37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:153ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:171ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:45ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:43ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:47ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:44ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:42ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford (Trafford Park)🅿️ping:42ms
+ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:56ms
+ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:38ms
+ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:80#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:44ms
+ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:80#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:41ms
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY2LjE2My4xMTcuNTgiLCAicG9ydCI6IDIyMzI0LCAidHlwZSI6ICJub25lIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICJHQiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgfCBAUmF5ZGlrYWx4IHwgNTIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1x1MDBhZVx1ZmUwZlVuaXRlZCBLaW5nZG9tXHUwMGE5XHVmZTBmTG9uZG9uXHVkODNjXHVkZDdmXHVmZTBmcGluZzozN21zIn0=
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY2LjE2My4xMTcuNTgiLCAicG9ydCI6IDIyMzI0LCAidHlwZSI6ICJub25lIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICJHQiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgfCBAUmF5ZGlrYWx4IHwgNTIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1x1MDBhZVx1ZmUwZlVuaXRlZCBLaW5nZG9tXHUwMGE5XHVmZTBmTG9uZG9uXHVkODNjXHVkZDdmXHVmZTBmcGluZzo0Nm1zIn0=
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:209ms
