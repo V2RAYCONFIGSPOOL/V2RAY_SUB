@@ -9,7 +9,9 @@
 https://t.me/v2ray_configs_pool2
 
 در کانال تلگرامیV2RAY_CONFIGS_POOL2 کانفیگ هایv2ray بصورت تکی آپلود میشوند 
+
 https://t.me/v2ray_configs_pool
+
 
 در کانال تلگرامیV2RAY_CONFIGS_POOL کانفیگ هایv2ray بصورت فایل متنی آپلود میشوند
 
