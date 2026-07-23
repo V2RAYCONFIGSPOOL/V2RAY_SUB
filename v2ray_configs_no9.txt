@@ -1,20 +1,20 @@
-vless://41639e3c-59f4-4711-b794-d4f442484672@188.72.103.3:443?type=xhttp&security=tls&encryption=none&path=%2Fmedia%2Fcache%2Fthumbs-b82f%2F&host=cherry.benzogangmoney.space&sni=cherry.benzogangmoney.space&fp=edge&alpn=h2%2Chttp%2F1.1&headerType=none&mode=packet-up#👉🆔@v2ray_configs_pool📡🇮🇱®️Israel©️Tel Aviv🅿️ping:43.65ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@213.241.198.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@213.241.198.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:45ms
-trojan://humanity@172.64.147.227:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:57.85ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@216.205.52.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:45ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&encryption=none#👉🆔@v2ray_configs_pool📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:44.8ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@216.24.57.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (South of Market)🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@23.227.38.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:36.06ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@23.227.39.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.140.11:80?type=ws&host=Fastapi.Org&path=%2F#👉🆔@v2ray_configs_pool📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:153.29ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@23.227.60.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@25.129.196.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@25.129.197.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@25.129.198.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:45ms
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#👉🆔@v2ray_configs_pool📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:184.24ms
-vless://4a5151d1-4d9d-e0b2-d2a6-f483ff06cd55@x4g-production-88cb7.up.railway.app:443?path=%2Fws%2F4a5151d1-4d9d-e0b2-d2a6-f483ff06cd55&security=tls&alpn=h2&encryption=none&insecure=0&host=x4g-production-88cb7.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-88cb7.up.railway.app#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:119.25ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@25.129.199.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@25.25.25.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Northwood🅿️ping:45ms
-vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=panelmarzban.persianfly.org&type=ws#👉🆔@v2ray_configs_pool📡🇦🇪®️United Arab Emirates©️Abu Dhabi (Al Rahah)🅿️ping:45.22ms
+vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@172.66.213.11:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%3Fed%3D2082&security=none&encryption=none&host=cccccCcdn7-pro.postshup.ir&type=httpupgrade#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:39.12ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@69.84.182.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Boca Raton🅿️ping:45ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@74.49.214.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:45ms
+vless://533e501b-33bd-4372-8ea7-ff75e717644d@samd.softupdl.ir:56792?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg (West)🅿️ping:74.03ms
+vless://5533fb51-07e3-4d8c-bb04-e02a1ef60858@tr.fredomiran.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=edge&insecure=1&allowInsecure=1&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&sid=f9ffaeacfcf21dc1#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Coventry🅿️ping:88.74ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@74.49.215.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:45ms
+vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@172.66.213.11:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cccccCcdn7-pro.postshup.ir&type=httpupgrade#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.06ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@62.72.166.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇼®️Curacao©️Willemstad🅿️ping:45ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@63.141.128.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Austin (Four Points Centre)🅿️ping:45ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@66.225.252.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Wilmington🅿️ping:45ms
+vless://ff927c71-09de-43a5-a6c1-de9d673d43b1@pol.mrsolo5323.ir:24037?type=httpupgrade&encryption=none&path=%2F&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:189.94ms
+vless://3e409836-f745-4c72-8418-1b0225ffca83@gr.fredomiran.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=edge&insecure=1&allowInsecure=1&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&sid=f9ffaeacfcf21dc1#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:59.51ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@66.235.200.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Jacksonville (Deerwood)🅿️ping:45ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@66.45.118.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Dublin🅿️ping:45ms
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&type=ws&security=tls&path=%2Frsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.43ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@66.81.247.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Belmont🅿️ping:45ms
+trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:76.71ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@69.84.182.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Boca Raton🅿️ping:46ms
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@74.49.214.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:45ms
+trojan://humanity@104.18.13.149:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:55.91ms
