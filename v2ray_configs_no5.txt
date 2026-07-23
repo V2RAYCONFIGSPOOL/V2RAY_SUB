@@ -1,20 +1,20 @@
-vless://5bf42840-cb06-4605-a7af-11e4875cc603@95.217.16.41:4432?flow=&type=tcp&headerType=none&security=reality&fp=qq&sni=play.google.com&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&sid=2a7f6b8788caca70#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:33.92ms
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.68.85:443?path=%2F%3Fed%3D2560%26prot_type%3Dvless#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443?security=tls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:154ms
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.14.85:8080?type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:24ms
-vless://0f61c2cd-ddeb-4c5a-8301-e28f228cde54@104.18.26.90:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:41.6ms
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80/?path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw (Śródmieście)🅿️ping:77.0ms
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@91.209.253.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇸🇦®️Saudi Arabia©️Riyadh🅿️ping:45ms
-vless://bce19577-f262-488f-b511-af4ebe4bdf03@75.119.151.16:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=de.samanehha.io&mode=stream-one&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:103.62ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.243.74.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.243.75.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.53.188.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:37.11ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.53.189.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:55.38ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.53.190.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@92.53.191.178:2096?sni=vle.amclubdns.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTDJUZXBOVHRjSU5WOURaVnZIaWhB@141.11.187.119:1080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:50.24ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.162.230.77:8880?security=tls#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Southport🅿️ping:45ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.176.24.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:45ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.176.26.77:8880?security=tls#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:46ms
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fr.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr.raketa-balance.com&sid=6c6082a2223c1d03#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Almere Stad🅿️ping:68.03ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.18.184.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:45ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.18.250.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:45ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.207.197.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:44ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.207.199.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:45ms
+vless://7b3e82c8-47bf-4f6f-ad7c-6d0a041edca2@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:102.98ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.164.248.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:45ms
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws&sni=tn.tmn141246.ru#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St Petersburg🅿️ping:102.3ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.244.122.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:45ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.42.145.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:45ms
+vless://8bba3194-4856-46d1-8319-075817d87eb1@89.23.108.92:2443?security=reality&encryption=none&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ge3.cyphervpn.pro&sid=8f9d033ad6d2cebf#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.7ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.42.88.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:45ms
+vless://fd9a728d-ece1-4168-c5a4-c28ecb5a0065@43.174.246.46:443?encryption=none&security=tls&sni=sni2.irandoc.info&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=m.irandoc.info&path=%2F37807%2Fapi#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:37.57ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@188.42.89.77:8880?sni=Telegram-channel-WangCai2#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Zuidoost)🅿️ping:45ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@190.93.244.77:8880?security=tls#👉🆔@v2ray_configs_pool📡🇨🇷®️Costa Rica©️Pozos🅿️ping:45ms
+trojan://ON38567014@18.196.207.79:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=summary-finch.rooster465.autos#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.1ms
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@190.93.246.77:8880?security=tls#👉🆔@v2ray_configs_pool📡🇨🇷®️Costa Rica©️Pozos🅿️ping:45ms
