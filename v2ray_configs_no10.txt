@@ -1,20 +1,20 @@
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
-vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=%2F&security=none&encryption=none&host=ads01-cdn.sabzi.name.ng.&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.76ms
-trojan://IQ68037294@picked-hippo.rooster465.autos:443?sni=picked-hippo.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:331ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.84ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?sni=artistic-pigeon.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:419ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
-trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?sni=adjusted-labrador.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:323ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
-trojan://IQ68037294@present-warthog.rooster465.autos:443?sni=present-warthog.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:174ms
-vless://86139f43-8a23-4abc-b0af-ebe4703f1f58@us-play.montago-shop.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=cbe2503ffd040d#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:176.28ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2fassignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
-trojan://IQ68037294@game-flamingo.rooster465.autos:443?sni=game-flamingo.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:377ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2fassignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:125ms
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.87ms
-trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?sni=adapted-quetzal.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:331ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&encryption=none&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:126ms
-vless://9acca3f9-12d9-47e9-88f1-01fbdab0307f@hayabusa.proxy.rlwy.net:29864?encryption=none&security=reality&sni=is1-ssl.mzstatic.com&pbk=HnuWrv72dR2ZYC-fbpVcPl-Y1ZdNMBUsZuk9GCMvKj0&sid=3e2c8f3cd7b0&allowinsecure=0&type=xhttp&mode=auto&path=%2F#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:86.02ms
-trojan://IQ68037294@healthy-ewe.rooster465.autos:443?sni=healthy-ewe.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:327ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2fassignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:123ms
+vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@tako.temas-fars.ir:38733?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:89.51ms
+trojan://IQ68037294@meet-doe.rooster465.autos:443?sni=meet-doe.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:254ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2fassignment&allow_insecure=0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2fassignment&allow_insecure=0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:126ms
+trojan://IQ68037294@sterling-fowl.rooster465.autos:443?sni=sterling-fowl.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Hougang)🅿️ping:263ms
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=/&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
+trojan://IQ68037294@helpful-possum.rooster465.autos:443?sni=helpful-possum.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (MacPherson)🅿️ping:298ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2fassignment&allow_insecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
+vless://7b3e82c8-47bf-4f6f-ad7c-6d0a041edca2@turkey1.nanaweb.ir:1080?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Mahmutbey🅿️ping:153.84ms
+trojan://IQ68037294@darling-emu.rooster465.autos:443?sni=darling-emu.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:347ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2fassignment&allow_insecure=1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
+trojan://IQ68037294@free-tuna.rooster465.autos:443?sni=free-tuna.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:319ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
+trojan://IQ68037294@absolute-boxer.rooster465.autos:443?sni=absolute-boxer.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:377ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
+vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@108.162.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=node-6796348943-048136.amingtav1341.workers.dev&sni=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&insecure=0&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:57.27ms
+trojan://IQ68037294@harmless-imp.rooster465.autos:443?sni=harmless-imp.rooster465.autos&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Seo-gu🅿️ping:327ms
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.77.156:443?mode=stream-one&path=/sef&security=&encryption=none&type=xhttp#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Reston🅿️ping:112ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment&allow_insecure=0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:124ms
