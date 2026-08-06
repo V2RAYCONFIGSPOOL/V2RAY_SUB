@@ -1,20 +1,20 @@
-trojan://ND91608427@prompt-duckling.rooster465.autos:443?allowInsecure=1&sni=prompt-duckling.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:245.67ms
-vless://f9cb6a7e-fd46-49f1-b25b-8eeb56aa8871@62.238.56.217:41982?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:32.55ms
-trojan://ND91608427@becoming-hare.rooster465.autos:443?allowInsecure=1&sni=becoming-hare.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.69ms
-vless://f0842d42-7ec8-3644-e144-a9235a4c1c63@69.46.46.100:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fws%2Ff0842d42-7ec8-3644-e144-a9235a4c1c63&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-2f1f.up.railway.app&fp=ios&type=ws&sni=rvg-production-2f1f.up.railway.app#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:12.87ms
-trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:256.37ms
-vless://f663d626-ba8b-4748-9f8a-ba92d33e05f5@nakmi7af.helpower.ir:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&headerType=none&fp=edge&type=tcp&sni=www.play.google&sid=667e7c5f623ab929#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Liberty Lake🅿️ping:45.68ms
-trojan://ND91608427@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:246.93ms
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.4ms
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.55ms
-vless://58e4bd3c-e54c-b961-d9c7-bbf419a4049a@69.46.46.102:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fws%2F58e4bd3c-e54c-b961-d9c7-bbf419a4049a&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-41ed.up.railway.app&fp=ios&type=ws&sni=rvg-production-41ed.up.railway.app#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:13.25ms
-ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:9.4ms
-trojan://ND91608427@healthy-louse.rooster465.autos:443?allowInsecure=1&sni=healthy-louse.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:255.47ms
-trojan://ND91608427@immense-gnu.rooster465.autos:443?allowInsecure=1&sni=immense-gnu.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:266.11ms
-trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby-egret.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:281.87ms
-trojan://ND91608427@wise-bengal.rooster465.autos:443?allowInsecure=1&sni=wise-bengal.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:257.1ms
-trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=1&sni=thankful-mustang.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:264.53ms
-vless://8d81e5cc-4a2d-28d5-642a-f485ad9da65f@dl12sw.cdn-ir-prime.shop:2053?security=reality&type=grpc&headerType=&encryption=none&serviceName=&authority=&mode=gun&sni=yahoo.com&fp=chrome&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&sid=f1e1aa97&spx=%2F#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva (Centre-Plainpalais-Acacias)🅿️ping:28.39ms
-vless://882ad889-423a-41d6-8145-5eeec13d2082@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:40.89ms
-trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:248.1ms
-trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:254.99ms
+vless://ee65e0bd-0223-46bb-9e18-6798c10ce155@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco🅿️ping:6.09ms
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:20.26ms
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:31.44ms
+trojan://VPNCUSTOMIZE@188.114.97.6:443#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.53ms
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:92.11ms
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@45.88.13.3:993?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:34.55ms
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:22.95ms
+vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇦🇹®️Austria©️Vienna🅿️ping:19.69ms
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:49.54ms
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.57ms
+trojan://MiTiVPN@151.101.56.7:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Chicago🅿️ping:6.14ms
+vless://d5f110e4-3f4a-4274-80ce-bbebbba4be2d@31.56.187.47:8443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇦🇪®️United Arab Emirates©️Abu Dhabi🅿️ping:39.69ms
+vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@31.76.80.205:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:35.49ms
+vless://8309566b-1905-43c6-a4f0-22fc97109111@62.238.55.46:9145?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:32.7ms
+vless://48267e65-8bf0-4046-923f-4ee967009344@159.195.139.217:8443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:9.82ms
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@31.207.7.97:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:34.15ms
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:11.32ms
+vless://bf374adf-61b9-4d5a-9814-37be02bcb8a6@167.233.47.127:1234?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:8.93ms
+vless://828a86e5-ece7-4f58-835b-ee4b22fab108@ir.varnaroleplay.ir:8445?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:101.21ms
+vless://b1c57fe0-ce8c-43ff-b123-5ae8281069be@453fr41213sdafadsf.clonecloudcenter.ir:11738?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:37.56ms
