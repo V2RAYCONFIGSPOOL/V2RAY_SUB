@@ -1,10 +1,10 @@
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi4xMTEuMTQ2LjY0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIvCfkYnwn4aUQHYycmF5X2NvbmZpZ3NfcG9vbPCfk6Hwn4ev8J+HtcKu77iPSmFwYW7Cqe+4j1NoaWJ1eWEgQ2l0efCfhb/vuI9waW5nOjIzNC45OG1zIn0=
-trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:250.39ms
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp.servers.gracevpnbuy.com&sid=b91a73752053b039#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Koto-ku🅿️ping:255.29ms
-vless://4b3b2993-bd03-4588-bb4e-480248b786b6@188.114.96.3:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:3.17ms
-vless://c02c8461-39a1-4502-b2bc-0678da3c2deb@151.101.193.194:80?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:2.61ms
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@147.45.213.156:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:58.92ms
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@81.19.135.191:443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Vostochnoe Degunino🅿️ping:42.32ms
-trojan://FH72359861@63.176.171.181:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.21ms
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:3.04ms
-vless://e53a92c7-4a78-49cc-ab01-917661058b9a@172.64.153.22:8443?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:3.08ms
+ss://YWVzLTEyOC1nY206MDA5Y2QxNWMtOTBjYy00ZWZmLTg1YWQtMWIzMmU2YjdlODc3@104.19.98.80:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dcrystal-proxy-pixel-aec5d0.erfannu3.workers.dev%3Bpath%3D%2F%3Fenc%5C%3Daes-128-gcm%26u%5C%3Duser3%3Btls%3Bmux%3D0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:2.8ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Warrenville🅿️ping:118.63ms
+trojan://FH72359861@bright-quagga.rooster465.autos:443?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:235.24ms
+trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:237.03ms
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.187:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️West Miami🅿️ping:103.52ms
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Neu-Isenburg (Zeppelinheim)🅿️ping:39.45ms
+vless://13efddd3-1a20-49f3-bbbe-f5b530398bb6@tr.cellser.ir:57728?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=_msWT9DtUixMc55dabeo7IqbWGikrSNz35GkoGllFBM&sid=85436cc1&spx=%2F13542a4b6dcde13&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ataşehir🅿️ping:45.59ms
+trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:235.06ms
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.4chan.org:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:16.5ms
+trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:236.9ms
