@@ -1,10 +1,10 @@
-trojan://AE62539071@worthy-labrador.rooster465.autos:443#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:36.54ms
-trojan://AE62539071@up-dinosaur.rooster465.autos:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.79ms
-trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster465.autos#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:26.74ms
-trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:21.59ms
-trojan://FH72359861@13.37.222.178:443?sni=correct-pony.rooster465.autos#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:15.02ms
-trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:162.79ms
-trojan://FH72359861@34.245.159.68:443?sni=summary-firefly.rooster465.autos#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:26.78ms
-trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:50.06ms
-trojan://FH72359861@3.253.78.205:443?allowInsecure=1&sni=balanced-heron.rooster465.autos#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:26.72ms
-trojan://FH72359861@54.216.139.140:443?allowInsecure=1&sni=cunning-grub.rooster465.autos#👉🆔@v2ray_configs_pool📡🇮🇪®️Ireland©️Dublin🅿️ping:26.76ms
+trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:15.97ms
+vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?encryption=none&security=tls&sni=nl-spec-1.atlanta-api.com&alpn=h2,http/1.1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:5.89ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.223:62145?encryption=none&type=tcp&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇨🇴®️Colombia©️Cota🅿️ping:172.87ms
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=a1b2c3d4#👉🆔@v2ray_configs_pool📡🇩🇰®️Denmark©️Rødding🅿️ping:16.63ms
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:10.77ms
+ss://YWVzLTI1Ni1nY206T0dReVpEVXpZemd6WkRaak5UUTNOelk1WkRkaU5tWTRPR1E1WVRZMw@helsinki03.npvnot.com:995#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:48.54ms
+vless://fb85a8a7-e8b4-6f16-3928-55f09552e091@69.46.46.123:443?path=%2Fws%2Ffb85a8a7-e8b4-6f16-3928-55f09552e091&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-eed37.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-eed37.up.railway.app#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:3.66ms
+vless://6ddf87dd-8a90-4a80-b360-9e19a29dc03e@69.46.46.71:443?path=%2Fws%2Fvless%2F6ddf87dd-8a90-4a80-b360-9e19a29dc03e%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-c5a8b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-c5a8b.up.railway.app#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:3.66ms
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.174:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️West Miami🅿️ping:105.35ms
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:46.88ms
