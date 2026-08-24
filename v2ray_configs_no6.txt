@@ -1,10 +1,10 @@
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@141.11.202.177:2096?security=tls&sni=GeR6.SimAnSaNat.iR.&type=ws&host=GeR6.SimAnSaNat.iR.&fp=chrome&alpn=h2#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:7.99ms
-ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@195.58.48.97:40119#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Kop'yevo🅿️ping:13.55ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@nl1.levikogjgfdd.ir:8388#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:48.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:53.9ms
-vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.38ms
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:50110#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St Petersburg🅿️ping:14.82ms
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Palermo🅿️ping:66.36ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:51.53ms
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:58.18ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:167.64ms
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Overland Park (College Oaks)🅿️ping:98.11ms
+vless://7659430c-4124-4f15-aee5-2be5d76f7e44@alonb.darklink.ir:1580?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=M3JXxo8ozG_kG2N5FpyQxwjZFLhXJpJJUP5bjhQrZks&sid=bbbd20a50eb58709#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:148.25ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:29.13ms
+ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:50110#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St Petersburg🅿️ping:14.14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY@202.155.141.87:12345#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Tsuen Wan🅿️ping:244.43ms
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Lai Chi Kok🅿️ping:205.18ms
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Lai Chi Kok🅿️ping:205.18ms
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.133:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allowinsecure=1&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:61.14ms
+vless://2b092ee6-5e4b-0032-8236-a46bec9393fd@185.137.232.194:443?mode=auto&path=%2Fassets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=firefox&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:35.66ms
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:32.86ms
