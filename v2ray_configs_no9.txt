@@ -1,10 +1,10 @@
-vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@autumn-leaf-eefd.119-38e.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:59.52ms
-vless://7242eccf-5261-4e31-813e-871bfbde90c2@log.bpminecraft.com:8880?type=ws&host=long-flower-ac0d.176-17e.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:57.24ms
-vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@tiny-feather-4c41.227.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=qq#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:53.33ms
-vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?type=ws&security=false&host=flat-fire-40ed.96-042.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.75ms
-vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@shrill-frost-6da5.155-dec.workers.dev:8880?type=ws&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:82.47ms
-vless://942bdcfc-e522-44f1-b899-3bd8db7c5ae2@winter-leaf-b4da.122-6c9.workers.dev:8880?type=ws&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:61.59ms
-vless://3a701524-30c8-45f3-8922-d7af5d024af0@server14.peekconf.workers.dev:8080?type=ws&host=server14.peekconf.workers.dev&path=%2FeyJqdW5rIjoiWDRPODRLWDd2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:92.39ms
-vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@jolly-butterfly-24e0.212-cb3.workers.dev:8880?type=ws&security=false&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&fp=qq#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:50.66ms
-vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@peekconfigg.vipserver1-39d.workers.dev:8080?type=ws&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:77.76ms
-vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?type=ws&host=young-wind-3c58.240-2ce.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:60.43ms
+trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.98ms
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:6.93ms
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.22ms
+trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:35.0ms
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:8.25ms
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.08ms
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.08ms
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.225:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&sni=savesafe.co#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Eygelshoven🅿️ping:31.06ms
+vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:77.88ms
+ss://YWVzLTI1Ni1nY206MEExWE1xQ2htVVJ1UkNoZQ==@154.12.240.141:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:166.73ms
