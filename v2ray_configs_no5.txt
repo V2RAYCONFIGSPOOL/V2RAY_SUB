@@ -1,10 +1,10 @@
-vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2053?mode=multi&security=&encryption=none&authority=tr.web.doctor-alan-cloud.ir&type=grpc&serviceName=v-grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:74.09ms
-vless://9972a440-39a6-4672-8883-5dd188863acf@93.123.85.218:52?security=none&headerType=none&encryption=none&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:57.3ms
-vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?security=tls&insecure=0&type=tcp&allowInsecure=0&sni=neth.lckdwn.ru&encryption=none&fp=firefox&headerType=none#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:34.14ms
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.33ms
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.03ms
-vless://9ec79586-39c1-45f3-8ad1-e8caddac046f@it1.milkabebar.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:89.46ms
-vless://8a1ddbba-541c-4788-9f62-6a393c0a319b@spt1.milkabebar.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️La Pobla de Farnals🅿️ping:104.02ms
-vless://34787117-384f-496f-8157-10366be268b2@s3.zynetraq.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=s3.zynetraq.ir&mode=auto&path=%2FBetForward&pcs=1b995919865b4b061a1768296995613e66d1afad274f8b227d70521038e56c2b&security=tls&sni=s3.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 14)🅿️ping:125.08ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Vancouver🅿️ping:177.21ms
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560fp=chrome&security=tls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:94.27ms
+vless://42edf47c-7dd2-4207-b061-87935222eec4@91.243.86.89:2058?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:12.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:37.49ms
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:99.75ms
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:39.94ms
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:245.24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:38.77ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:251.09ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.23ms
+vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco🅿️ping:34.57ms
+vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@Bulgauryexi.horlutr.ir:2087?security=&encryption=none&host=%2F&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sofia🅿️ping:127.42ms
