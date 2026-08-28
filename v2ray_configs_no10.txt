@@ -1,10 +1,10 @@
-vless://20872452-b4be-4823-a25f-37dbe1db22f1@185.178.208.137:443?type=ws&security=tls&sni=games22.fun&host=games22.fun&path=%2Fv1%2Fdata%2Fsync&fp=firefox&alpn=http%2F1.1#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Rostov-on-Don🅿️ping:29.56ms
-vless://f23f641d-b83b-0002-8046-c513696f7fe5@95.163.208.213:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=ru39.overseashost.ru&fp=firefox&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:33.33ms
-vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@cfip.1323123.xyz:443?type=ws&security=tls&sni=ez-5b038e.ezaccess1c7f862.workers.dev&host=ez-5b038e.ezaccess1c7f862.workers.dev&path=%2Fsync&fp=chrome&alpn=http%2F1.1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.7ms
-vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?type=raw&security=tls&sni=lizca2.footballfantasyforum.com&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Ottawa🅿️ping:148.62ms
-vless://968469ec-67c9-4fe6-bf72-dd20716add3b@russia.webgate.cc:14443?type=ws&security=tls&sni=russia.webgate.cc&host=russia.webgate.cc&path=%2Fru&fp=qq&alpn=http%2F1.1#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Novosibirsk🅿️ping:110.13ms
-vless://0106d747-4ff3-415f-966f-27cd641c0d2c@45.146.82.216:50360?type=ws&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&fp=chrome#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:156.13ms
-ss://YWVzLTI1Ni1nY206Z29SejhDVEZFNnpQWlhJQQ@94.72.127.58:443#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:174.32ms
-vless://327267b0-f882-4341-ab9c-d79001411906@149.28.138.97:30680?type=ws&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi&fp=chrome#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:279.82ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.238.156:62145?type=raw#👉🆔@v2ray_configs_pool📡🇨🇴®️Colombia©️Cota🅿️ping:189.76ms
-vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?type=raw&security=tls&sni=lizca2.footballfantasyforum.com&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Ottawa🅿️ping:108.27ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:26.72ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.28ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:34.53ms
+vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@103.148.73.144:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Sha Tin Wai🅿️ping:264.56ms
+vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco🅿️ping:46.38ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.1ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.36:443?security=tls&sni=kkh.ylks.link&type=ws&path=/#👉🆔@v2ray_configs_pool📡🇧🇷®️Brazil©️Casa Verde🅿️ping:7.9ms
