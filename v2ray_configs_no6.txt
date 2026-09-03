@@ -1,10 +1,10 @@
-vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?allowInsecure=0&sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:37.64ms
-vless://0dea82cd-a030-4c11-bccd-f3c0be845297@2.26.77.112:443?security=reality&encryption=none&pbk=KdImQfl6ERZr9r7purPMgZpMHXCaY2DnhrebZ-PKR3s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=653bd46413ab3503#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Centrum)🅿️ping:37.85ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Dallas🅿️ping:151.37ms
-vless://60e2a548-96aa-4850-a279-1edab743c39b@109.176.229.45:2083?mode=gun&security=reality&encryption=none&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=firefox&type=grpc&serviceName=remnagrpc&sni=autotrader.co.uk&sid=8b71da690c3d5d03#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:34.94ms
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.90.197.91:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#👉🆔@v2ray_configs_pool📡🇬🇷®️Greece©️Thessaloniki🅿️ping:84.27ms
-vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ümraniye🅿️ping:68.66ms
-vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ümraniye🅿️ping:65.95ms
-vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ümraniye🅿️ping:93.29ms
-vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ümraniye🅿️ping:68.66ms
-vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Ümraniye🅿️ping:65.95ms
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.35:443?security=tls&sni=jpg.ylks01.eu.org&type=ws&host=jpg.ylks01.eu.org&path=TG%40juzibaipiao-%E6%A9%98%E5%AD%90%E5%88%86%E4%BA%AB#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:7.04ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:79.65ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:99.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.72ms
+vless://341832cc-ba98-425b-8225-b3db621a0da3@172.64.151.254:2096?&security=tls&fp=chrome&sni=oyue.rainfall0705.cc.cd&type=ws&headerType=none&host=oyue.rainfall0705.cc.cd&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.08ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:47.66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:112.86ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.96ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.165.42:80?security=none&type=ws&host=us3.rtacg.com&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.92ms
