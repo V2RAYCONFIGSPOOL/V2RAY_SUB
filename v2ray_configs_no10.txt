@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRkQzckN1T3N4T2F5@15.235.75.71:8388#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal (Ville-Marie)🅿️ping:142.37ms
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:10661#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:110.43ms
-vless://a3dc82ea-67df-423d-b322-8bc0b0790f41@cctvhikvision.center:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:88.53ms
-vless://a3dc82ea-67df-423d-b322-8bc0b0790f41@undef.network:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:80.29ms
-vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:46.37ms
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal (Ville-Marie)🅿️ping:121.57ms
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.86:10661#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:251.03ms
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Reston🅿️ping:115.03ms
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:101.53ms
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Beauharnois🅿️ping:147.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.52ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#👉🆔@v2ray_configs_pool📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:9.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:230.64ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Beauharnois🅿️ping:145.29ms
+trojan://humanity@185.225.68.232:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest (XIII. kerület)🅿️ping:255.48ms
+vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?type=tcp&host=amp-api-edge.apps.apple.com&security=none&headerType=http&encryption=none#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:82.26ms
+vless://f42d2cbd-5f14-4bfb-88d6-9685de908609@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=7wwwspeedtestnet.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco🅿️ping:271.04ms
+vless://2ce23de3-b9a9-4ce5-9bd6-261f55aa773e@185.204.170.125:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=185.204.170.125&fp=chrome&ech=AGL%2BDQBeAAAgACATyZ5S6ygKYlgn4J8pxwnSczrv3I2KQnSarToHUawVfQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMjUAAA==&type=httpupgrade&allowInsecure=0&sni=185.204.170.125#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:32.2ms
+vless://b58503a8-a91b-493b-ad38-377628fc7c8e@185.146.173.95:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:34.54ms
+vless://18dee1c0-77be-4596-88d6-c23bd83fdae6@bounded-crammed.video-streams.org:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bounded-crammed.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=bounded-crammed.video-streams.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:110.77ms
